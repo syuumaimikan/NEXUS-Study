@@ -30,6 +30,8 @@ class _FormulaCheatSheetScreenState extends State<FormulaCheatSheetScreen> with 
   late TabController _tabCtrl;
   final TextEditingController _searchCtrl = TextEditingController();
   String _searchQuery = '';
+  bool _isRedSheetMode = false;
+  final Set<String> _revealedFormulas = {};
 
   final List<FormulaItem> _allFormulas = [
     // 数学
@@ -236,6 +238,32 @@ class _FormulaCheatSheetScreenState extends State<FormulaCheatSheetScreen> with 
             Text('全教科・超速公式集＆定理リファレンス', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
           ],
         ),
+        actions: [
+          IconButton(
+            icon: Icon(
+              _isRedSheetMode ? Icons.visibility_off : Icons.remove_red_eye_outlined,
+              color: _isRedSheetMode ? const Color(0xFFEF4444) : Colors.white70,
+              size: 20,
+            ),
+            tooltip: _isRedSheetMode ? '暗記赤シート ON (数式マスク中)' : '暗記赤シート OFF',
+            onPressed: () {
+              setState(() {
+                _isRedSheetMode = !_isRedSheetMode;
+                if (!_isRedSheetMode) {
+                  _revealedFormulas.clear();
+                }
+              });
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(_isRedSheetMode ? '暗記赤シートモードをONにしました（タップして数式を確認）' : '暗記赤シートモードをOFFにしました'),
+                  duration: const Duration(milliseconds: 1200),
+                  backgroundColor: _isRedSheetMode ? const Color(0xFFDC2626) : const Color(0xFF1E293B),
+                ),
+              );
+            },
+          ),
+          const SizedBox(width: 6),
+        ],
         backgroundColor: const Color(0xFF0F172A),
         elevation: 0,
         bottom: TabBar(
@@ -279,6 +307,32 @@ class _FormulaCheatSheetScreenState extends State<FormulaCheatSheetScreen> with 
               onChanged: (v) => setState(() => _searchQuery = v.trim()),
             ),
           ),
+
+          if (_isRedSheetMode)
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+              color: const Color(0xFF7F1D1D).withValues(alpha: 0.35),
+              child: Row(
+                children: [
+                  const Icon(Icons.shield_outlined, color: Color(0xFFEF4444), size: 16),
+                  const SizedBox(width: 8),
+                  const Expanded(
+                    child: Text(
+                      '暗記赤シート適用中: 数式がマスクされています。タップして暗記チェック！',
+                      style: TextStyle(color: Color(0xFFFCA5A5), fontSize: 11, fontWeight: FontWeight.bold),
+                    ),
+                  ),
+                  TextButton(
+                    onPressed: () {
+                      setState(() {
+                        _revealedFormulas.clear();
+                      });
+                    },
+                    child: const Text('すべて隠す', style: TextStyle(color: Colors.white, fontSize: 11)),
+                  ),
+                ],
+              ),
+            ),
 
           Expanded(
             child: TabBarView(
@@ -359,26 +413,80 @@ class _FormulaCheatSheetScreenState extends State<FormulaCheatSheetScreen> with 
           ),
           const Divider(height: 1, color: Colors.white10),
 
-          // Formula Display Block
-          Container(
-            margin: const EdgeInsets.all(12),
-            padding: const EdgeInsets.all(12),
-            decoration: BoxDecoration(
-              color: const Color(0xFF0F172A),
+          // Formula Display Block (with Red Sheet masking support)
+          if (_isRedSheetMode && !_revealedFormulas.contains(item.title))
+            InkWell(
+              onTap: () {
+                setState(() {
+                  _revealedFormulas.add(item.title);
+                });
+              },
               borderRadius: BorderRadius.circular(12),
-              border: Border.all(color: const Color(0xFF38BDF8).withValues(alpha: 0.25)),
-            ),
-            child: Text(
-              item.formula,
-              style: const TextStyle(
-                color: Color(0xFF38BDF8),
-                fontSize: 13,
-                fontWeight: FontWeight.bold,
-                height: 1.45,
-                fontFamily: 'monospace',
+              child: Container(
+                margin: const EdgeInsets.all(12),
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF7F1D1D).withValues(alpha: 0.35),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(color: const Color(0xFFEF4444).withValues(alpha: 0.6)),
+                ),
+                child: const Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.shield_outlined, color: Color(0xFFEF4444), size: 18),
+                    SizedBox(width: 8),
+                    Text(
+                      '暗記チェック: タップして数式を表示',
+                      style: TextStyle(color: Color(0xFFFCA5A5), fontSize: 12, fontWeight: FontWeight.bold),
+                    ),
+                  ],
+                ),
+              ),
+            )
+          else
+            InkWell(
+              onTap: _isRedSheetMode
+                  ? () {
+                      setState(() {
+                        _revealedFormulas.remove(item.title);
+                      });
+                    }
+                  : null,
+              borderRadius: BorderRadius.circular(12),
+              child: Container(
+                margin: const EdgeInsets.all(12),
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF0F172A),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: _isRedSheetMode ? const Color(0xFFEF4444).withValues(alpha: 0.5) : const Color(0xFF38BDF8).withValues(alpha: 0.25),
+                  ),
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      item.formula,
+                      style: TextStyle(
+                        color: _isRedSheetMode ? const Color(0xFFF87171) : const Color(0xFF38BDF8),
+                        fontSize: 13,
+                        fontWeight: FontWeight.bold,
+                        height: 1.45,
+                        fontFamily: 'monospace',
+                      ),
+                    ),
+                    if (_isRedSheetMode) ...[
+                      const SizedBox(height: 6),
+                      const Text(
+                        '（タップで再びマスキング）',
+                        style: TextStyle(color: Colors.white38, fontSize: 10),
+                      ),
+                    ],
+                  ],
+                ),
               ),
             ),
-          ),
 
           // Conditions & Point
           Padding(

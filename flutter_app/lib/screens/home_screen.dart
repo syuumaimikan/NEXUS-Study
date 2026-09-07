@@ -11,7 +11,13 @@ import 'formula_cheatsheet_screen.dart';
 import 'study_schedule_screen.dart';
 import 'interview_practice_screen.dart';
 import 'listening_speaking_screen.dart';
+import 'widget_manager_screen.dart';
+import 'weakness_review_screen.dart';
+import 'pomodoro_focus_screen.dart';
+import 'marksheet_exam_screen.dart';
+import 'study_coach_screen.dart';
 import '../widgets/learning_roadmap_widget.dart';
+import '../widgets/exam_countdown_banner.dart';
 
 class HomeScreen extends StatelessWidget {
   final UserProfile profile;
@@ -148,7 +154,73 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(height: 16),
+              const SizedBox(height: 14),
+
+              // Exam Countdown Live Banner
+              ExamCountdownBanner(profile: profile),
+
+              const SizedBox(height: 14),
+
+              // Home Screen Widget Manager Banner
+              InkWell(
+                onTap: () {
+                  Navigator.push(context, MaterialPageRoute(builder: (_) => WidgetManagerScreen(profile: profile)));
+                },
+                borderRadius: BorderRadius.circular(20),
+                child: Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    gradient: const LinearGradient(
+                      colors: [Color(0xFF0C4A6E), Color(0xFF0F172A)],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ),
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(color: const Color(0xFF0284C7).withValues(alpha: 0.5)),
+                  ),
+                  child: Row(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(10),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF0284C7).withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(14),
+                        ),
+                        child: const Icon(Icons.widgets, color: Color(0xFF38BDF8), size: 24),
+                      ),
+                      const SizedBox(width: 12),
+                      const Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Row(
+                              children: [
+                                Text(
+                                  'ホーム画面ウィジェット',
+                                  style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: Colors.white),
+                                ),
+                                SizedBox(width: 6),
+                                Text(
+                                  '配置可能',
+                                  style: TextStyle(fontSize: 10, color: Color(0xFF38BDF8), fontWeight: FontWeight.bold),
+                                ),
+                              ],
+                            ),
+                            SizedBox(height: 2),
+                            Text(
+                              '英単語・入試カウントダウン・公式フラッシュをホームに追加',
+                              style: TextStyle(fontSize: 11, color: Colors.white70),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const Icon(Icons.arrow_forward_ios, size: 14, color: Colors.white60),
+                    ],
+                  ),
+                ),
+              ),
+
+              const SizedBox(height: 14),
 
               // Mock Exam Banner
               InkWell(
@@ -405,6 +477,58 @@ class HomeScreen extends StatelessWidget {
                       icon: Icons.headphones,
                       color: const Color(0xFF06B6D4),
                       onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const ListeningSpeakingScreen())),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 10),
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: '弱点復習ノート',
+                      subtitle: '忘却曲線ミス帳',
+                      icon: Icons.rule_folder_outlined,
+                      color: const Color(0xFFEF4444),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const WeaknessReviewScreen())),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: '集中タイマー',
+                      subtitle: '25分＋環境音',
+                      icon: Icons.hourglass_top_outlined,
+                      color: const Color(0xFF10B981),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const PomodoroFocusScreen())),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 10),
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: 'マークシート演習',
+                      subtitle: '本番形式塗りつぶし',
+                      icon: Icons.check_box_outlined,
+                      color: const Color(0xFFF59E0B),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const MarkSheetExamScreen())),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: 'AI 学習コーチ',
+                      subtitle: '戦略・悩み相談',
+                      icon: Icons.psychology_outlined,
+                      color: const Color(0xFF8B5CF6),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => StudyCoachScreen(profile: profile))),
                     ),
                   ),
                 ],

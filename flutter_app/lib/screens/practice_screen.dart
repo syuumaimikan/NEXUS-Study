@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/question.dart';
 import '../services/storage_service.dart';
+import '../services/mistake_note_service.dart';
 import '../widgets/scratchpad_canvas.dart';
 import '../widgets/visual_diagram_card.dart';
 
@@ -27,6 +28,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
   bool _showExplanation = false;
   bool _showHint = false;
   bool _isScratchpadOpen = false;
+  bool _isRedSheetActive = false;
+  bool _isRedSheetRevealed = false;
   int _streak = 0;
   String _deviationFilter = 'すべて';
   String _unitFilter = '全分野';
@@ -111,6 +114,19 @@ class _PracticeScreenState extends State<PracticeScreen> {
       bonusCoins: extraCoins,
       subjectId: q.subjectId,
     );
+
+    // Record mistake in MistakeNoteService for spaced repetition review
+    if (!isCorrect) {
+      MistakeNoteService().recordMistake(
+        id: q.id.isNotEmpty ? q.id : 'q_${q.subjectId}_$_currentIndex',
+        subjectId: q.subjectId,
+        subjectName: q.subjectName.isNotEmpty ? q.subjectName : q.course,
+        questionText: q.questionBody,
+        explanation: q.explanation,
+        correctAnswer: q.choices.length > q.correctAnswerIndex ? q.choices[q.correctAnswerIndex] : '正解',
+        userAnswer: q.choices.length > index ? q.choices[index] : '不正解',
+      );
+    }
   }
 
   void _nextQuestion() {
@@ -122,6 +138,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
       _showExplanation = false;
       _showHint = false;
       _isSpeedBonus = false;
+      _isRedSheetRevealed = false;
       _questionStartTime = DateTime.now();
       _currentIndex = (_currentIndex + 1) % currentQuestions.length;
     });
@@ -148,6 +165,28 @@ class _PracticeScreenState extends State<PracticeScreen> {
           ],
         ),
         actions: [
+          // Red Sheet Memorization Mode Button
+          IconButton(
+            onPressed: () {
+              setState(() {
+                _isRedSheetActive = !_isRedSheetActive;
+                _isRedSheetRevealed = false;
+              });
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(_isRedSheetActive ? '暗記赤シートモードを有効化しました' : '暗記赤シートモードを解除しました'),
+                  duration: const Duration(milliseconds: 1200),
+                  backgroundColor: _isRedSheetActive ? const Color(0xFFDC2626) : const Color(0xFF1E293B),
+                ),
+              );
+            },
+            icon: Icon(
+              _isRedSheetActive ? Icons.visibility_off : Icons.remove_red_eye_outlined,
+              size: 18,
+              color: _isRedSheetActive ? const Color(0xFFEF4444) : Colors.white70,
+            ),
+            tooltip: _isRedSheetActive ? '暗記赤シート ON' : '暗記赤シート OFF',
+          ),
           // Scratchpad Canvas Toggle Button
           TextButton.icon(
             onPressed: () {
@@ -610,16 +649,90 @@ class _PracticeScreenState extends State<PracticeScreen> {
                           ],
                         ),
                         const SizedBox(height: 10),
-                        Text(
-                          q.explanation,
-                          style: const TextStyle(fontSize: 13, height: 1.6, color: Colors.white70),
-                        ),
-                        // Dynamic Visualization Diagram
-                        VisualDiagramCard(
-                          subjectId: q.subjectId,
-                          questionText: q.questionBody,
-                          explanation: q.explanation,
-                        ),
+                        if (_isRedSheetActive) ...[
+                          InkWell(
+                            onTap: () => setState(() => _isRedSheetRevealed = !_isRedSheetRevealed),
+                            borderRadius: BorderRadius.circular(12),
+                            child: Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                              margin: const EdgeInsets.only(bottom: 10),
+                              decoration: BoxDecoration(
+                                color: const Color(0xFF991B1B).withValues(alpha: 0.25),
+                                borderRadius: BorderRadius.circular(12),
+                                border: Border.all(color: const Color(0xFFEF4444)),
+                              ),
+                              child: Row(
+                                children: [
+                                  Icon(
+                                    _isRedSheetRevealed ? Icons.visibility : Icons.visibility_off,
+                                    color: const Color(0xFFEF4444),
+                                    size: 16,
+                                  ),
+                                  const SizedBox(width: 8),
+                                  Expanded(
+                                    child: Text(
+                                      _isRedSheetRevealed
+                                          ? '暗記赤シート適用中: [解説を表示中 - タップで隠蔽]'
+                                          : '暗記赤シート適用中: [解説をマスキング中 - タップで透かす]',
+                                      style: const TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: Color(0xFFFCA5A5)),
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ),
+                          if (!_isRedSheetRevealed)
+                            InkWell(
+                              onTap: () => setState(() => _isRedSheetRevealed = true),
+                              borderRadius: BorderRadius.circular(12),
+                              child: Container(
+                                width: double.infinity,
+                                padding: const EdgeInsets.all(18),
+                                margin: const EdgeInsets.only(bottom: 12),
+                                decoration: BoxDecoration(
+                                  color: const Color(0xFF7F1D1D).withValues(alpha: 0.35),
+                                  borderRadius: BorderRadius.circular(12),
+                                  border: Border.all(color: const Color(0xFFEF4444).withValues(alpha: 0.5)),
+                                ),
+                                child: const Column(
+                                  children: [
+                                    Icon(Icons.shield_outlined, color: Color(0xFFEF4444), size: 28),
+                                    SizedBox(height: 8),
+                                    Text(
+                                      '解説・概念図が赤シートで保護されています',
+                                      style: TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold),
+                                    ),
+                                    SizedBox(height: 4),
+                                    Text(
+                                      'タップして解説を透かして自己チェック',
+                                      style: TextStyle(color: Color(0xFFFCA5A5), fontSize: 11),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            )
+                          else ...[
+                            Text(
+                              q.explanation,
+                              style: const TextStyle(fontSize: 13, height: 1.6, color: Colors.white70),
+                            ),
+                            VisualDiagramCard(
+                              subjectId: q.subjectId,
+                              questionText: q.questionBody,
+                              explanation: q.explanation,
+                            ),
+                          ],
+                        ] else ...[
+                          Text(
+                            q.explanation,
+                            style: const TextStyle(fontSize: 13, height: 1.6, color: Colors.white70),
+                          ),
+                          VisualDiagramCard(
+                            subjectId: q.subjectId,
+                            questionText: q.questionBody,
+                            explanation: q.explanation,
+                          ),
+                        ],
                         const SizedBox(height: 12),
                         ElevatedButton.icon(
                           onPressed: _nextQuestion,

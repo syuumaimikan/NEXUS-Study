@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/widget_container"
+    android:id="@+id/formula_widget_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -14,28 +14,28 @@
         android:gravity="center_vertical">
 
         <ImageView
-            android:layout_width="26dp"
-            android:layout_height="26dp"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
             android:src="@mipmap/ic_launcher"
             android:contentDescription="NEXUS Icon" />
 
         <TextView
+            android:id="@+id/widget_formula_subject"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_marginStart="8dp"
-            android:text="NEXUS Study"
+            android:text="【数学】本日の重要公式"
             android:textColor="#38BDF8"
-            android:textSize="13sp"
+            android:textSize="12sp"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/widget_streak"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="連続 7日達成"
-            android:textColor="#FBBF24"
-            android:textSize="11sp"
+            android:text="必修"
+            android:textColor="#10B981"
+            android:textSize="10sp"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -47,29 +47,29 @@
         android:layout_marginBottom="6dp" />
 
     <TextView
-        android:id="@+id/widget_label"
+        android:id="@+id/widget_formula_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="【公式ターゲット1900】本日の重要単語"
+        android:text="積分の1/6公式 (放物線と直線の面積)"
         android:textColor="#94A3B8"
         android:textSize="10sp" />
 
     <TextView
-        android:id="@+id/widget_word"
+        android:id="@+id/widget_formula_body"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="create : を創造する"
-        android:textColor="#FFFFFF"
-        android:textSize="14sp"
+        android:text="S = (|a| / 6) * (β - α)³"
+        android:textColor="#FBBF24"
+        android:textSize="13sp"
         android:textStyle="bold"
         android:layout_marginTop="2dp" />
 
     <TextView
-        android:id="@+id/widget_action"
+        android:id="@+id/widget_formula_tip"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="タップして今日の学習を再開"
+        android:text="タップして全教科公式集を開く"
         android:textColor="#34D399"
         android:textSize="10sp"
-        android:layout_marginTop="6dp" />
+        android:layout_marginTop="4dp" />
 </LinearLayout>
