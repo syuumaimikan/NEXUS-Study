@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "jh_sci_1",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_2",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_3",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_4",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_5",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_6",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_7",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_8",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_9",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_10",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_11",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_12",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_13",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_14",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_15",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_16",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_17",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_18",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_19",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_20",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_21",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_22",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_23",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_24",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_25",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_26",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_27",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_28",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_29",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_30",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_31",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_32",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_33",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_34",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_35",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_36",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_37",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_38",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_39",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_40",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_41",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_42",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_43",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_44",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_45",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_46",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_47",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_48",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_49",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_50",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_51",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_52",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_53",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_54",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_55",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_56",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_57",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_58",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_59",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_60",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_61",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_62",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_63",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_64",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_65",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_66",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_67",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_68",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_69",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_70",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_71",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_72",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_73",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_74",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_75",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_76",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_77",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_78",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_79",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_80",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_81",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_82",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_83",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_84",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_85",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_86",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_87",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_88",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_89",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_90",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_91",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_92",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_93",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_94",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_95",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_96",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_97",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_98",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_99",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_100",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_101",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_102",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_103",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_104",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_105",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_106",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_107",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_108",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_109",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_110",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_111",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_112",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_113",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_114",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_115",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_116",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_117",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_118",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_119",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_120",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_121",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_122",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_123",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_124",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_125",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_126",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_127",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_128",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_129",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_130",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_131",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_132",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_133",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_134",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_135",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_136",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_137",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_138",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_139",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_140",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_141",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_142",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_143",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_144",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_145",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_146",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_147",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_148",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_149",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_150",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_151",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_152",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_153",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_154",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_155",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_156",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_157",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_158",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_159",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_160",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_161",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_162",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_163",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_164",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_165",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_166",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_167",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_168",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_169",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_170",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_171",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_172",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_173",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_174",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_175",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_176",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_177",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_178",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_179",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_180",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_181",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_182",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_183",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_184",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_185",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_186",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_187",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_188",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_189",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_190",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_191",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_192",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_193",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_194",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_195",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "生物の体と細胞",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "植物の葉緑体で行われ、二酸化炭素と水を取り入れてデンプンと酸素をつくる働きはどれか。",
+    "choices": [
+      "光合成",
+      "呼吸",
+      "蒸散",
+      "消化"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "光エネルギーを利用して無機物から有機物を合成する反応を光合成と呼びます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "生物の体と細胞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_196",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "天気とその変化",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "日本付近の上空を一年中西から東へ向かって吹いている強い偏西風を特に何というか。",
+    "choices": [
+      "ジェット気流",
+      "季節風",
+      "貿易風",
+      "台風"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "日本の上空を西から東へ吹く偏西風の最も強い部分をジェット気流と呼び、天気が西から東へ変わる原因となります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "天気とその変化"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_197",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "地球と宇宙",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "地球が地軸を中心に1日に1回転する運動を何というか。",
+    "choices": [
+      "自転",
+      "公転",
+      "歳差",
+      "連星"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "地球が自転軸を中心に西から東へ1日に1回まわる運動を自転といい、昼夜の変化や天体の見かけの日周運動の原因になります。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "地球と宇宙"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_198",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "光・音・力",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "凸レンズで焦点距離の2倍の位置に物体を置いたとき、スクリーンにできる像の特徴はどれか。",
+    "choices": [
+      "物体と同じ大きさの実物・倒立の実像",
+      "物体より大きい正立の虚像",
+      "物体より小さい倒立の実像",
+      "像はできない"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "焦点距離の2倍の位置に置くと、反対側の焦点距離の2倍の位置に倒立で実物大の実像ができます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "光・音・力"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_199",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "化学変化と原子・分子",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "炭酸水素ナトリウムを加熱したときに発生する気体と、試験管内に残る白色固体の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "二酸化炭素、炭酸ナトリウム",
+      "酸素、酸化ナトリウム",
+      "水素、水酸化ナトリウム",
+      "二酸化炭素、水酸化ナトリウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ の熱分解反応です。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "化学変化と原子・分子"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_sci_200",
+    "subjectId": "jh_science",
+    "subjectName": "中学理科",
+    "course": "中学理科第1分野・第2分野",
+    "unit": "イオンと中和",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "塩酸（HCl）と水酸化ナトリウム水溶液（NaOH）を過不足なく混ぜ合わせた中和反応で生じる塩はどれか。",
+    "choices": [
+      "塩化ナトリウム (NaCl)",
+      "硫酸ナトリウム (Na₂SO₄)",
+      "炭酸カルシウム (CaCO₃)",
+      "水酸化カルシウム"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "実験の手順や化学反応式、自然界の法則を整理しましょう。"
+    ],
+    "explanation": "HCl + NaOH → NaCl + H₂O により、塩化ナトリウム（食塩）と水が生じます。",
+    "tags": [
+      "高校受験",
+      "中学理科",
+      "イオンと中和"
+    ],
+    "baseXp": 100
+  }
+]

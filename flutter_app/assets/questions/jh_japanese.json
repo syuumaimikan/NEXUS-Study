@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "jh_jp_1",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_2",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_3",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_4",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_5",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_6",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_7",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_8",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_9",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_10",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_11",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_12",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_13",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_14",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_15",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_16",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_17",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_18",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_19",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_20",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_21",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_22",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_23",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_24",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_25",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_26",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_27",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_28",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_29",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_30",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_31",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_32",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_33",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_34",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_35",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_36",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_37",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_38",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_39",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_40",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_41",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_42",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_43",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_44",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_45",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_46",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_47",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_48",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_49",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_50",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_51",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_52",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_53",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_54",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_55",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_56",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_57",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_58",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_59",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_60",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_61",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_62",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_63",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_64",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_65",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_66",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_67",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_68",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_69",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_70",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_71",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_72",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_73",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_74",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_75",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_76",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_77",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_78",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_79",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_80",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_81",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_82",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_83",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_84",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_85",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_86",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_87",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_88",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_89",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_90",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_91",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_92",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_93",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_94",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_95",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_96",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_97",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_98",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_99",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_100",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_101",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_102",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_103",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_104",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_105",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_106",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_107",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_108",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_109",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_110",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_111",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_112",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_113",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_114",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_115",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_116",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_117",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_118",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_119",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_120",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_121",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_122",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_123",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_124",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_125",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_126",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_127",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_128",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_129",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_130",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_131",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_132",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_133",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_134",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_135",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_136",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_137",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_138",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_139",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_140",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_141",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_142",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_143",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_144",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_145",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_146",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_147",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_148",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_149",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_150",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_151",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_152",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_153",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_154",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_155",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_156",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_157",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_158",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_159",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_160",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_161",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_162",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_163",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_164",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_165",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_166",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_167",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_168",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_169",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_170",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_171",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_172",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_173",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_174",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_175",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_176",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_177",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_178",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_179",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_180",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_181",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_182",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_183",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_184",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_185",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_186",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_187",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_188",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_189",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_190",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_191",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_192",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_193",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_194",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_195",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_196",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "動詞の活用形",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "「本を読む」の「読む」に助動詞「ない」が続くときの形（未然形）はどれか。",
+    "choices": [
+      "読ま（ない）",
+      "読み（ない）",
+      "読め（ない）",
+      "読もう（ない）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "五段活用動詞「読む」の未然形は「読ま」です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "動詞の活用形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_197",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "四字熟語・故事成語",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "「矛盾（むじゅん）」の由来となった故事に登場する武器の組み合わせはどれか。",
+    "choices": [
+      "どんな盾も突き通す矛と、どんな矛も防ぐ盾",
+      "どんな鎧も切る剣と、どんな矢も防ぐ盾",
+      "最強の弓と最強の鎧",
+      "無敵の槍と折れない刀"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "中国の『韓非子』において、何でも突き通す矛と何でも防ぐ盾を売ろうとして辻褄が合わなくなった話に由来します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "四字熟語・故事成語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_198",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "古文基礎・竹取物語",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "竹取物語の冒頭「今は昔、竹取の翁といふものありけり。」の「翁（おきな）」の意味はどれか。",
+    "choices": [
+      "おじいさん",
+      "おばあさん",
+      "貴族",
+      "若者"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "「翁」は年老いた男性（おじいさん）を意味します。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "古文基礎・竹取物語"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_199",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "漢文基礎・返り点",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "漢文で「一二点」と「レ点」が重なる「レ点」の読み順ルールとして正しいものはどれか。",
+    "choices": [
+      "レ点で直下の字から返って読んだ後、一二点に従う",
+      "一二点を先に読んでからレ点を読む",
+      "上から順番に読む",
+      "最後にまとめて読む"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "返り点が重なる場合、最も狭い範囲を返すレ点が優先されます。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "漢文基礎・返り点"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_jp_200",
+    "subjectId": "jh_japanese",
+    "subjectName": "中学国語",
+    "course": "中学国語全範囲",
+    "unit": "文法・品詞分類",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "「美しい花が咲く」の「美しい」の品詞として正しいものはどれか。",
+    "choices": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "連体詞"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "言葉の活用語尾や故事の背景を思い出しましょう。"
+    ],
+    "explanation": "語尾が「い」で終わり性質や状態を表す自立語（活用あり）なので形容詞です。",
+    "tags": [
+      "高校受験",
+      "中学国語",
+      "文法・品詞分類"
+    ],
+    "baseXp": 100
+  }
+]

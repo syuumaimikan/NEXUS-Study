@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "jh_math_1",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "一次方程式 3x + 4 = 10 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "4 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 10 - 4 = 6 となり、両辺を 3 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_2",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "一次方程式 4x + 5 = 17 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "5 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 17 - 5 = 12 となり、両辺を 4 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_3",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "一次方程式 5x + 6 = 26 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "6 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 26 - 6 = 20 となり、両辺を 5 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_4",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "一次方程式 6x + 7 = 37 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "7 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 37 - 7 = 30 となり、両辺を 6 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_5",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "一次方程式 2x + 8 = 20 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 6",
+      "x = 7",
+      "x = 5",
+      "x = -6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "8 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 20 - 8 = 12 となり、両辺を 2 で割ると x = 6 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_6",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "一次方程式 3x + 9 = 12 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "9 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 12 - 9 = 3 となり、両辺を 3 で割ると x = 1 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_7",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "一次方程式 4x + 3 = 11 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "3 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 11 - 3 = 8 となり、両辺を 4 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_8",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "一次方程式 5x + 4 = 19 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "4 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 19 - 4 = 15 となり、両辺を 5 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_9",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "一次方程式 6x + 5 = 29 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "5 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 29 - 5 = 24 となり、両辺を 6 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_10",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "一次方程式 2x + 6 = 16 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "6 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 16 - 6 = 10 となり、両辺を 2 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_11",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "一次方程式 3x + 7 = 25 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 6",
+      "x = 7",
+      "x = 5",
+      "x = -6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "7 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 25 - 7 = 18 となり、両辺を 3 で割ると x = 6 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_12",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "一次方程式 4x + 8 = 12 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "8 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 12 - 8 = 4 となり、両辺を 4 で割ると x = 1 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_13",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "一次方程式 5x + 9 = 19 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "9 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 19 - 9 = 10 となり、両辺を 5 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_14",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "一次方程式 6x + 3 = 21 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "3 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 21 - 3 = 18 となり、両辺を 6 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_15",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "一次方程式 2x + 4 = 12 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "4 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 12 - 4 = 8 となり、両辺を 2 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_16",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "一次方程式 3x + 5 = 20 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "5 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 20 - 5 = 15 となり、両辺を 3 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_17",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "一次方程式 4x + 6 = 30 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 6",
+      "x = 7",
+      "x = 5",
+      "x = -6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "6 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 30 - 6 = 24 となり、両辺を 4 で割ると x = 6 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_18",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "一次方程式 5x + 7 = 12 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "7 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 12 - 7 = 5 となり、両辺を 5 で割ると x = 1 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_19",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "一次方程式 6x + 8 = 20 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "8 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 20 - 8 = 12 となり、両辺を 6 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_20",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "一次方程式 2x + 9 = 15 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "9 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 15 - 9 = 6 となり、両辺を 2 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_21",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "一次方程式 3x + 3 = 15 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "3 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 15 - 3 = 12 となり、両辺を 3 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_22",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "一次方程式 4x + 4 = 24 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "4 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 24 - 4 = 20 となり、両辺を 4 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_23",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "一次方程式 5x + 5 = 35 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 6",
+      "x = 7",
+      "x = 5",
+      "x = -6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "5 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 35 - 5 = 30 となり、両辺を 5 で割ると x = 6 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_24",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "一次方程式 6x + 6 = 12 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "6 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 12 - 6 = 6 となり、両辺を 6 で割ると x = 1 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_25",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "一次方程式 2x + 7 = 11 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "7 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 11 - 7 = 4 となり、両辺を 2 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_26",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "一次方程式 3x + 8 = 17 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "8 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 17 - 8 = 9 となり、両辺を 3 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_27",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "一次方程式 4x + 9 = 25 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "9 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 25 - 9 = 16 となり、両辺を 4 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_28",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "一次方程式 5x + 3 = 28 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "3 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 28 - 3 = 25 となり、両辺を 5 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_29",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "一次方程式 6x + 4 = 40 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 6",
+      "x = 7",
+      "x = 5",
+      "x = -6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "4 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 40 - 4 = 36 となり、両辺を 6 で割ると x = 6 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_30",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "一次方程式 2x + 5 = 7 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "5 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 7 - 5 = 2 となり、両辺を 2 で割ると x = 1 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_31",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "一次方程式 3x + 6 = 12 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "6 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 12 - 6 = 6 となり、両辺を 3 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_32",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "一次方程式 4x + 7 = 19 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "7 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 19 - 7 = 12 となり、両辺を 4 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_33",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "一次方程式 5x + 8 = 28 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "8 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 28 - 8 = 20 となり、両辺を 5 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_34",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "一次方程式 6x + 9 = 39 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "9 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 39 - 9 = 30 となり、両辺を 6 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_35",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "一次方程式 2x + 3 = 15 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 6",
+      "x = 7",
+      "x = 5",
+      "x = -6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "3 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 15 - 3 = 12 となり、両辺を 2 で割ると x = 6 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_36",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "一次方程式 3x + 4 = 7 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "4 を右辺に移項し、両辺を 3 で割ります。"
+    ],
+    "explanation": "3x = 7 - 4 = 3 となり、両辺を 3 で割ると x = 1 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_37",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "一次方程式 4x + 5 = 13 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "5 を右辺に移項し、両辺を 4 で割ります。"
+    ],
+    "explanation": "4x = 13 - 5 = 8 となり、両辺を 4 で割ると x = 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_38",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "一次方程式 5x + 6 = 21 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = -3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "6 を右辺に移項し、両辺を 5 で割ります。"
+    ],
+    "explanation": "5x = 21 - 6 = 15 となり、両辺を 5 で割ると x = 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_39",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "一次方程式 6x + 7 = 31 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 4",
+      "x = 5",
+      "x = 3",
+      "x = -4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "7 を右辺に移項し、両辺を 6 で割ります。"
+    ],
+    "explanation": "6x = 31 - 7 = 24 となり、両辺を 6 で割ると x = 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_40",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次方程式・連立方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "一次方程式 2x + 8 = 18 を解いたときの x の値として正しいものはどれか。",
+    "choices": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = -5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "8 を右辺に移項し、両辺を 2 で割ります。"
+    ],
+    "explanation": "2x = 18 - 8 = 10 となり、両辺を 2 で割ると x = 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次方程式・連立方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_41",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "一次関数 y = 2x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: -1",
+      "変化の割合: -1, 切片: 2",
+      "変化の割合: -2, 切片: -1",
+      "変化の割合: 2, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_42",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "一次関数 y = 3x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: 0",
+      "変化の割合: 0, 切片: 3",
+      "変化の割合: -3, 切片: 0",
+      "変化の割合: 3, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_43",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "一次関数 y = 4x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: 1",
+      "変化の割合: 1, 切片: 4",
+      "変化の割合: -4, 切片: 1",
+      "変化の割合: 4, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_44",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "一次関数 y = 1x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: 2",
+      "変化の割合: 2, 切片: 1",
+      "変化の割合: -1, 切片: 2",
+      "変化の割合: 1, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_45",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "一次関数 y = 2x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: -2",
+      "変化の割合: -2, 切片: 2",
+      "変化の割合: -2, 切片: -2",
+      "変化の割合: 2, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_46",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "一次関数 y = 3x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: -1",
+      "変化の割合: -1, 切片: 3",
+      "変化の割合: -3, 切片: -1",
+      "変化の割合: 3, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_47",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "一次関数 y = 4x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: 0",
+      "変化の割合: 0, 切片: 4",
+      "変化の割合: -4, 切片: 0",
+      "変化の割合: 4, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_48",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "一次関数 y = 1x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: 1",
+      "変化の割合: 1, 切片: 1",
+      "変化の割合: -1, 切片: 1",
+      "変化の割合: 1, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_49",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "一次関数 y = 2x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: 2",
+      "変化の割合: 2, 切片: 2",
+      "変化の割合: -2, 切片: 2",
+      "変化の割合: 2, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_50",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "一次関数 y = 3x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: -2",
+      "変化の割合: -2, 切片: 3",
+      "変化の割合: -3, 切片: -2",
+      "変化の割合: 3, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_51",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "一次関数 y = 4x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: -1",
+      "変化の割合: -1, 切片: 4",
+      "変化の割合: -4, 切片: -1",
+      "変化の割合: 4, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_52",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "一次関数 y = 1x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: 0",
+      "変化の割合: 0, 切片: 1",
+      "変化の割合: -1, 切片: 0",
+      "変化の割合: 1, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_53",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "一次関数 y = 2x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: 1",
+      "変化の割合: 1, 切片: 2",
+      "変化の割合: -2, 切片: 1",
+      "変化の割合: 2, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_54",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "一次関数 y = 3x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: 2",
+      "変化の割合: 2, 切片: 3",
+      "変化の割合: -3, 切片: 2",
+      "変化の割合: 3, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_55",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "一次関数 y = 4x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: -2",
+      "変化の割合: -2, 切片: 4",
+      "変化の割合: -4, 切片: -2",
+      "変化の割合: 4, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_56",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "一次関数 y = 1x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: -1",
+      "変化の割合: -1, 切片: 1",
+      "変化の割合: -1, 切片: -1",
+      "変化の割合: 1, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_57",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "一次関数 y = 2x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: 0",
+      "変化の割合: 0, 切片: 2",
+      "変化の割合: -2, 切片: 0",
+      "変化の割合: 2, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_58",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "一次関数 y = 3x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: 1",
+      "変化の割合: 1, 切片: 3",
+      "変化の割合: -3, 切片: 1",
+      "変化の割合: 3, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_59",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "一次関数 y = 4x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: 2",
+      "変化の割合: 2, 切片: 4",
+      "変化の割合: -4, 切片: 2",
+      "変化の割合: 4, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_60",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "一次関数 y = 1x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: -2",
+      "変化の割合: -2, 切片: 1",
+      "変化の割合: -1, 切片: -2",
+      "変化の割合: 1, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_61",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "一次関数 y = 2x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: -1",
+      "変化の割合: -1, 切片: 2",
+      "変化の割合: -2, 切片: -1",
+      "変化の割合: 2, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_62",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "一次関数 y = 3x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: 0",
+      "変化の割合: 0, 切片: 3",
+      "変化の割合: -3, 切片: 0",
+      "変化の割合: 3, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_63",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "一次関数 y = 4x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: 1",
+      "変化の割合: 1, 切片: 4",
+      "変化の割合: -4, 切片: 1",
+      "変化の割合: 4, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_64",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "一次関数 y = 1x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: 2",
+      "変化の割合: 2, 切片: 1",
+      "変化の割合: -1, 切片: 2",
+      "変化の割合: 1, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_65",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "一次関数 y = 2x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: -2",
+      "変化の割合: -2, 切片: 2",
+      "変化の割合: -2, 切片: -2",
+      "変化の割合: 2, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_66",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "一次関数 y = 3x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: -1",
+      "変化の割合: -1, 切片: 3",
+      "変化の割合: -3, 切片: -1",
+      "変化の割合: 3, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_67",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "一次関数 y = 4x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: 0",
+      "変化の割合: 0, 切片: 4",
+      "変化の割合: -4, 切片: 0",
+      "変化の割合: 4, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_68",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "一次関数 y = 1x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: 1",
+      "変化の割合: 1, 切片: 1",
+      "変化の割合: -1, 切片: 1",
+      "変化の割合: 1, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_69",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "一次関数 y = 2x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: 2",
+      "変化の割合: 2, 切片: 2",
+      "変化の割合: -2, 切片: 2",
+      "変化の割合: 2, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_70",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "一次関数 y = 3x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: -2",
+      "変化の割合: -2, 切片: 3",
+      "変化の割合: -3, 切片: -2",
+      "変化の割合: 3, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_71",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "一次関数 y = 4x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: -1",
+      "変化の割合: -1, 切片: 4",
+      "変化の割合: -4, 切片: -1",
+      "変化の割合: 4, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_72",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "一次関数 y = 1x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: 0",
+      "変化の割合: 0, 切片: 1",
+      "変化の割合: -1, 切片: 0",
+      "変化の割合: 1, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_73",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "一次関数 y = 2x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: 1",
+      "変化の割合: 1, 切片: 2",
+      "変化の割合: -2, 切片: 1",
+      "変化の割合: 2, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_74",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "一次関数 y = 3x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: 2",
+      "変化の割合: 2, 切片: 3",
+      "変化の割合: -3, 切片: 2",
+      "変化の割合: 3, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_75",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "一次関数 y = 4x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: -2",
+      "変化の割合: -2, 切片: 4",
+      "変化の割合: -4, 切片: -2",
+      "変化の割合: 4, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_76",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "一次関数 y = 1x -1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: -1",
+      "変化の割合: -1, 切片: 1",
+      "変化の割合: -1, 切片: -1",
+      "変化の割合: 1, 切片: 1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = -1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_77",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "一次関数 y = 2x +0 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 2, 切片: 0",
+      "変化の割合: 0, 切片: 2",
+      "変化の割合: -2, 切片: 0",
+      "変化の割合: 2, 切片: 0"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 2 が傾き（変化の割合）、定数項 b = 0 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_78",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "一次関数 y = 3x +1 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 3, 切片: 1",
+      "変化の割合: 1, 切片: 3",
+      "変化の割合: -3, 切片: 1",
+      "変化の割合: 3, 切片: -1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 3 が傾き（変化の割合）、定数項 b = 1 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_79",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "一次関数 y = 4x +2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 4, 切片: 2",
+      "変化の割合: 2, 切片: 4",
+      "変化の割合: -4, 切片: 2",
+      "変化の割合: 4, 切片: -2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 4 が傾き（変化の割合）、定数項 b = 2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_80",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "一次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "一次関数 y = 1x -2 の変化の割合（傾き）と切片の組み合わせとして正しいものはどれか。",
+    "choices": [
+      "変化の割合: 1, 切片: -2",
+      "変化の割合: -2, 切片: 1",
+      "変化の割合: -1, 切片: -2",
+      "変化の割合: 1, 切片: 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "一次関数 y = ax + b において、a が変化の割合（傾き）、b が切片です。"
+    ],
+    "explanation": "一次関数 y = ax + b の標準形において、x の係数 a = 1 が傾き（変化の割合）、定数項 b = -2 が y 切片となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "一次関数"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_81",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "二次方程式 x² -5x + 6 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 3",
+      "x = -2, -3",
+      "x = 2, -3",
+      "x = -2, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 3) = 0 となるため、解は x = 2, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_82",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "二次方程式 x² -7x + 12 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 4",
+      "x = -3, -4",
+      "x = 3, -4",
+      "x = -3, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 4) = 0 となるため、解は x = 3, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_83",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "二次方程式 x² -9x + 20 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 5",
+      "x = -4, -5",
+      "x = 4, -5",
+      "x = -4, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 5) = 0 となるため、解は x = 4, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_84",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "二次方程式 x² -7x + 10 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 2",
+      "x = -5, -2",
+      "x = 5, -2",
+      "x = -5, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 2) = 0 となるため、解は x = 5, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_85",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "二次方程式 x² -4x + 3 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 3",
+      "x = -1, -3",
+      "x = 1, -3",
+      "x = -1, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 3) = 0 となるため、解は x = 1, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_86",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "二次方程式 x² -6x + 8 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 4",
+      "x = -2, -4",
+      "x = 2, -4",
+      "x = -2, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 4) = 0 となるため、解は x = 2, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_87",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "二次方程式 x² -8x + 15 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 5",
+      "x = -3, -5",
+      "x = 3, -5",
+      "x = -3, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 5) = 0 となるため、解は x = 3, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_88",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "二次方程式 x² -6x + 8 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 2",
+      "x = -4, -2",
+      "x = 4, -2",
+      "x = -4, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 2) = 0 となるため、解は x = 4, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_89",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "二次方程式 x² -8x + 15 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 3",
+      "x = -5, -3",
+      "x = 5, -3",
+      "x = -5, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 3) = 0 となるため、解は x = 5, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_90",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "二次方程式 x² -5x + 4 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 4",
+      "x = -1, -4",
+      "x = 1, -4",
+      "x = -1, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 4) = 0 となるため、解は x = 1, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_91",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "二次方程式 x² -7x + 10 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 5",
+      "x = -2, -5",
+      "x = 2, -5",
+      "x = -2, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 5) = 0 となるため、解は x = 2, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_92",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "二次方程式 x² -5x + 6 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 2",
+      "x = -3, -2",
+      "x = 3, -2",
+      "x = -3, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 2) = 0 となるため、解は x = 3, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_93",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "二次方程式 x² -7x + 12 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 3",
+      "x = -4, -3",
+      "x = 4, -3",
+      "x = -4, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 3) = 0 となるため、解は x = 4, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_94",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "二次方程式 x² -9x + 20 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 4",
+      "x = -5, -4",
+      "x = 5, -4",
+      "x = -5, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 4) = 0 となるため、解は x = 5, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_95",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "二次方程式 x² -6x + 5 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 5",
+      "x = -1, -5",
+      "x = 1, -5",
+      "x = -1, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 5) = 0 となるため、解は x = 1, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_96",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "二次方程式 x² -4x + 4 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 2",
+      "x = -2, -2",
+      "x = 2, -2",
+      "x = -2, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 2) = 0 となるため、解は x = 2, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_97",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "二次方程式 x² -6x + 9 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 3",
+      "x = -3, -3",
+      "x = 3, -3",
+      "x = -3, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 3) = 0 となるため、解は x = 3, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_98",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "二次方程式 x² -8x + 16 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 4",
+      "x = -4, -4",
+      "x = 4, -4",
+      "x = -4, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 4) = 0 となるため、解は x = 4, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_99",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "二次方程式 x² -10x + 25 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 5",
+      "x = -5, -5",
+      "x = 5, -5",
+      "x = -5, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 5) = 0 となるため、解は x = 5, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_100",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "二次方程式 x² -3x + 2 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 2",
+      "x = -1, -2",
+      "x = 1, -2",
+      "x = -1, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 2) = 0 となるため、解は x = 1, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_101",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "二次方程式 x² -5x + 6 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 3",
+      "x = -2, -3",
+      "x = 2, -3",
+      "x = -2, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 3) = 0 となるため、解は x = 2, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_102",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "二次方程式 x² -7x + 12 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 4",
+      "x = -3, -4",
+      "x = 3, -4",
+      "x = -3, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 4) = 0 となるため、解は x = 3, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_103",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "二次方程式 x² -9x + 20 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 5",
+      "x = -4, -5",
+      "x = 4, -5",
+      "x = -4, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 5) = 0 となるため、解は x = 4, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_104",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "二次方程式 x² -7x + 10 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 2",
+      "x = -5, -2",
+      "x = 5, -2",
+      "x = -5, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 2) = 0 となるため、解は x = 5, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_105",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "二次方程式 x² -4x + 3 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 3",
+      "x = -1, -3",
+      "x = 1, -3",
+      "x = -1, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 3) = 0 となるため、解は x = 1, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_106",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "二次方程式 x² -6x + 8 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 4",
+      "x = -2, -4",
+      "x = 2, -4",
+      "x = -2, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 4) = 0 となるため、解は x = 2, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_107",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "二次方程式 x² -8x + 15 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 5",
+      "x = -3, -5",
+      "x = 3, -5",
+      "x = -3, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 5) = 0 となるため、解は x = 3, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_108",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "二次方程式 x² -6x + 8 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 2",
+      "x = -4, -2",
+      "x = 4, -2",
+      "x = -4, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 2) = 0 となるため、解は x = 4, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_109",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "二次方程式 x² -8x + 15 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 3",
+      "x = -5, -3",
+      "x = 5, -3",
+      "x = -5, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 3) = 0 となるため、解は x = 5, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_110",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "二次方程式 x² -5x + 4 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 4",
+      "x = -1, -4",
+      "x = 1, -4",
+      "x = -1, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 4) = 0 となるため、解は x = 1, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_111",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "二次方程式 x² -7x + 10 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 5",
+      "x = -2, -5",
+      "x = 2, -5",
+      "x = -2, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 5) = 0 となるため、解は x = 2, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_112",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "二次方程式 x² -5x + 6 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 2",
+      "x = -3, -2",
+      "x = 3, -2",
+      "x = -3, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 2) = 0 となるため、解は x = 3, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_113",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "二次方程式 x² -7x + 12 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 3",
+      "x = -4, -3",
+      "x = 4, -3",
+      "x = -4, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 3) = 0 となるため、解は x = 4, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_114",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "二次方程式 x² -9x + 20 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 4",
+      "x = -5, -4",
+      "x = 5, -4",
+      "x = -5, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 4) = 0 となるため、解は x = 5, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_115",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "二次方程式 x² -6x + 5 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 5",
+      "x = -1, -5",
+      "x = 1, -5",
+      "x = -1, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 5) = 0 となるため、解は x = 1, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_116",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "二次方程式 x² -4x + 4 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 2, 2",
+      "x = -2, -2",
+      "x = 2, -2",
+      "x = -2, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 2)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 2)(x - 2) = 0 となるため、解は x = 2, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_117",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "二次方程式 x² -6x + 9 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 3, 3",
+      "x = -3, -3",
+      "x = 3, -3",
+      "x = -3, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 3)(x - 3) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 3)(x - 3) = 0 となるため、解は x = 3, 3 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_118",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "二次方程式 x² -8x + 16 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 4, 4",
+      "x = -4, -4",
+      "x = 4, -4",
+      "x = -4, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 4)(x - 4) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 4)(x - 4) = 0 となるため、解は x = 4, 4 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_119",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "二次方程式 x² -10x + 25 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 5, 5",
+      "x = -5, -5",
+      "x = 5, -5",
+      "x = -5, 5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 5)(x - 5) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 5)(x - 5) = 0 となるため、解は x = 5, 5 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_120",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "二次方程式",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "二次方程式 x² -3x + 2 = 0 を解いたときの正しい解はどれか。",
+    "choices": [
+      "x = 1, 2",
+      "x = -1, -2",
+      "x = 1, -2",
+      "x = -1, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "因数分解 (x - 1)(x - 2) = 0 を利用します。"
+    ],
+    "explanation": "左辺を因数分解すると (x - 1)(x - 2) = 0 となるため、解は x = 1, 2 です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "二次方程式"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_121",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_122",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_123",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_124",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_125",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_126",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_127",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_128",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_129",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_130",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_131",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_132",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_133",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_134",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_135",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_136",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_137",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_138",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_139",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_140",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_141",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_142",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_143",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_144",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_145",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_146",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_147",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_148",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_149",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_150",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_151",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_152",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_153",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_154",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_155",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_156",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 5 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "17 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 5² + 12² = 25 + 144 = 169 となるため、c = 13 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_157",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 6 cm と 8 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "9 cm",
+      "14 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 6² + 8² = 36 + 64 = 100 となるため、c = 10 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_158",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 8 cm と 15 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "17 cm",
+      "19 cm",
+      "16 cm",
+      "23 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 8² + 15² = 64 + 225 = 289 となるため、c = 17 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_159",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 9 cm と 12 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "14 cm",
+      "21 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 9² + 12² = 81 + 144 = 225 となるため、c = 15 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_160",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "三平方の定理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "直角三角形において、直角をはさむ2辺の長さが 3 cm と 4 cm のとき、斜辺の長さ c として正しいものはどれか。",
+    "choices": [
+      "5 cm",
+      "7 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "三平方の定理 a² + b² = c² を適用します。"
+    ],
+    "explanation": "三平方の定理より c² = 3² + 4² = 9 + 16 = 25 となるため、c = 5 cm です。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "三平方の定理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_161",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "同一の弧に対する中心角の大きさが 40° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "20°",
+      "40°",
+      "80°",
+      "140°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 40° ÷ 2 = 20° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_162",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "同一の弧に対する中心角の大きさが 50° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "25°",
+      "50°",
+      "100°",
+      "130°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 50° ÷ 2 = 25° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_163",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "同一の弧に対する中心角の大きさが 60° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "30°",
+      "60°",
+      "120°",
+      "120°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 60° ÷ 2 = 30° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_164",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "同一の弧に対する中心角の大きさが 70° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "35°",
+      "70°",
+      "140°",
+      "110°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 70° ÷ 2 = 35° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_165",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "同一の弧に対する中心角の大きさが 80° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "40°",
+      "80°",
+      "160°",
+      "100°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 80° ÷ 2 = 40° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_166",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "同一の弧に対する中心角の大きさが 90° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 90° ÷ 2 = 45° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_167",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "同一の弧に対する中心角の大きさが 100° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "50°",
+      "100°",
+      "200°",
+      "80°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 100° ÷ 2 = 50° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_168",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "同一の弧に対する中心角の大きさが 30° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "15°",
+      "30°",
+      "60°",
+      "150°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 30° ÷ 2 = 15° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_169",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "同一の弧に対する中心角の大きさが 40° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "20°",
+      "40°",
+      "80°",
+      "140°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 40° ÷ 2 = 20° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_170",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "同一の弧に対する中心角の大きさが 50° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "25°",
+      "50°",
+      "100°",
+      "130°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 50° ÷ 2 = 25° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_171",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "同一の弧に対する中心角の大きさが 60° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "30°",
+      "60°",
+      "120°",
+      "120°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 60° ÷ 2 = 30° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_172",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "同一の弧に対する中心角の大きさが 70° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "35°",
+      "70°",
+      "140°",
+      "110°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 70° ÷ 2 = 35° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_173",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "同一の弧に対する中心角の大きさが 80° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "40°",
+      "80°",
+      "160°",
+      "100°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 80° ÷ 2 = 40° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_174",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "同一の弧に対する中心角の大きさが 90° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 90° ÷ 2 = 45° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_175",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "同一の弧に対する中心角の大きさが 100° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "50°",
+      "100°",
+      "200°",
+      "80°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 100° ÷ 2 = 50° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_176",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "同一の弧に対する中心角の大きさが 30° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "15°",
+      "30°",
+      "60°",
+      "150°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 30° ÷ 2 = 15° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_177",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "同一の弧に対する中心角の大きさが 40° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "20°",
+      "40°",
+      "80°",
+      "140°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 40° ÷ 2 = 20° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_178",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "同一の弧に対する中心角の大きさが 50° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "25°",
+      "50°",
+      "100°",
+      "130°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 50° ÷ 2 = 25° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_179",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "同一の弧に対する中心角の大きさが 60° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "30°",
+      "60°",
+      "120°",
+      "120°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 60° ÷ 2 = 30° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_180",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "同一の弧に対する中心角の大きさが 70° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "35°",
+      "70°",
+      "140°",
+      "110°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 70° ÷ 2 = 35° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_181",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "同一の弧に対する中心角の大きさが 80° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "40°",
+      "80°",
+      "160°",
+      "100°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 80° ÷ 2 = 40° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_182",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "同一の弧に対する中心角の大きさが 90° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 90° ÷ 2 = 45° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_183",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "同一の弧に対する中心角の大きさが 100° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "50°",
+      "100°",
+      "200°",
+      "80°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 100° ÷ 2 = 50° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_184",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "同一の弧に対する中心角の大きさが 30° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "15°",
+      "30°",
+      "60°",
+      "150°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 30° ÷ 2 = 15° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_185",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "同一の弧に対する中心角の大きさが 40° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "20°",
+      "40°",
+      "80°",
+      "140°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 40° ÷ 2 = 20° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_186",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "同一の弧に対する中心角の大きさが 50° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "25°",
+      "50°",
+      "100°",
+      "130°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 50° ÷ 2 = 25° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_187",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "同一の弧に対する中心角の大きさが 60° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "30°",
+      "60°",
+      "120°",
+      "120°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 60° ÷ 2 = 30° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_188",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "同一の弧に対する中心角の大きさが 70° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "35°",
+      "70°",
+      "140°",
+      "110°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 70° ÷ 2 = 35° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_189",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "同一の弧に対する中心角の大きさが 80° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "40°",
+      "80°",
+      "160°",
+      "100°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 80° ÷ 2 = 40° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_190",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "同一の弧に対する中心角の大きさが 90° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 90° ÷ 2 = 45° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_191",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "同一の弧に対する中心角の大きさが 100° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "50°",
+      "100°",
+      "200°",
+      "80°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 100° ÷ 2 = 50° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_192",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "同一の弧に対する中心角の大きさが 30° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "15°",
+      "30°",
+      "60°",
+      "150°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 30° ÷ 2 = 15° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_193",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "同一の弧に対する中心角の大きさが 40° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "20°",
+      "40°",
+      "80°",
+      "140°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 40° ÷ 2 = 20° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_194",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "同一の弧に対する中心角の大きさが 50° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "25°",
+      "50°",
+      "100°",
+      "130°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 50° ÷ 2 = 25° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_195",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "同一の弧に対する中心角の大きさが 60° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "30°",
+      "60°",
+      "120°",
+      "120°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 60° ÷ 2 = 30° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_196",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "同一の弧に対する中心角の大きさが 70° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "35°",
+      "70°",
+      "140°",
+      "110°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 70° ÷ 2 = 35° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_197",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "同一の弧に対する中心角の大きさが 80° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "40°",
+      "80°",
+      "160°",
+      "100°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 80° ÷ 2 = 40° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_198",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "同一の弧に対する中心角の大きさが 90° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 90° ÷ 2 = 45° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_199",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "同一の弧に対する中心角の大きさが 100° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "50°",
+      "100°",
+      "200°",
+      "80°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 100° ÷ 2 = 50° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_math_200",
+    "subjectId": "jh_math",
+    "subjectName": "中学数学",
+    "course": "中学数学全範囲",
+    "unit": "円周角の定理・相似",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "同一の弧に対する中心角の大きさが 30° であるとき、その円周角の大きさとして正しいものはどれか。",
+    "choices": [
+      "15°",
+      "30°",
+      "60°",
+      "150°"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "円周角の大きさは、同じ弧に対する中心角の半分になります。"
+    ],
+    "explanation": "円周角の定理より、同一の弧に対する円周角は中心角の 1/2 です。したがって 30° ÷ 2 = 15° となります。",
+    "tags": [
+      "高校受験",
+      "中学数学",
+      "円周角の定理・相似"
+    ],
+    "baseXp": 100
+  }
+]

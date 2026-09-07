@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "jh_eng_1",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_2",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_3",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_4",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_5",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_6",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_7",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_8",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_9",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_10",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_11",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_12",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_13",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_14",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_15",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_16",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_17",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_18",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_19",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_20",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_21",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_22",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_23",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_24",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_25",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_26",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_27",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_28",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_29",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_30",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_31",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_32",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_33",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_34",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_35",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_36",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_37",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_38",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_39",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_40",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_41",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_42",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_43",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_44",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_45",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_46",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_47",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_48",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_49",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_50",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_51",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_52",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_53",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_54",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_55",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_56",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_57",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_58",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_59",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_60",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_61",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_62",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_63",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_64",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_65",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_66",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_67",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_68",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_69",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_70",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_71",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_72",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_73",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_74",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_75",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_76",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_77",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_78",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_79",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_80",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_81",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_82",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_83",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_84",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_85",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_86",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_87",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_88",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_89",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_90",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_91",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_92",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_93",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_94",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_95",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_96",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_97",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_98",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_99",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_100",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_101",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_102",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_103",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_104",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_105",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_106",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_107",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_108",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_109",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_110",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_111",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_112",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_113",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_114",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_115",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_116",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_117",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_118",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_119",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_120",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_121",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_122",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_123",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_124",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_125",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_126",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_127",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_128",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_129",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_130",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_131",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_132",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_133",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_134",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_135",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_136",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_137",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_138",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_139",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_140",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_141",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_142",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_143",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_144",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_145",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_146",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_147",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_148",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_149",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_150",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_151",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_152",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_153",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_154",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_155",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_156",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_157",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_158",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_159",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_160",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_161",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_162",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_163",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_164",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_165",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_166",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_167",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_168",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_169",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_170",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_171",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_172",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_173",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_174",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_175",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_176",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_177",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_178",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_179",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_180",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_181",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_182",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_183",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_184",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_185",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_186",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_187",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_188",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_189",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_190",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_191",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "過去形・進行形",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThey ( ) soccer when it started to rain.",
+    "choices": [
+      "were playing",
+      "are playing",
+      "played",
+      "play"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「雨が降り始めたときサッカーをしていた」という過去の進行中の動作を表すため were playing です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "過去形・進行形"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_192",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "助動詞 (must / should / can)",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nYou ( ) be quiet in the library.",
+    "choices": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "図書館では静かにしなければならないという「強い義務」を表すため must が最適です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "助動詞 (must / should / can)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_193",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "不定詞 (to + 動詞の原形)",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI want ( ) a doctor in the future.",
+    "choices": [
+      "to become",
+      "become",
+      "becoming",
+      "became"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "want to ~ で「〜したい」という不定詞の名詞的用法です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "不定詞 (to + 動詞の原形)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_194",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "動名詞 (~ing)",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThank you for ( ) me with my homework.",
+    "choices": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "前置詞 for の後には動名詞 (~ing) が続きます。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "動名詞 (~ing)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_195",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "比較級・最上級",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nMt. Fuji is the ( ) mountain in Japan.",
+    "choices": [
+      "highest",
+      "higher",
+      "high",
+      "most high"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "the + 最上級で「日本で最も高い山」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "比較級・最上級"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_196",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "受動態 (be + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThis temple was ( ) about 500 years ago.",
+    "choices": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "「建てられた」という過去の受動態は was + 過去分詞 built です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "受動態 (be + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_197",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "現在完了 (have + 過去分詞)",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nI have ( ) to Kyoto three times.",
+    "choices": [
+      "been",
+      "gone",
+      "went",
+      "go"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "have been to ~ で「〜へ行ったことがある（経験）」を表します。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "現在完了 (have + 過去分詞)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_198",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "関係代名詞 (who / which / that)",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nThe boy ( ) is playing the guitar is my brother.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "先行詞が人 (The boy) で主格の関係代名詞なので who が適切です。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "関係代名詞 (who / which / that)"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_199",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "重要連語・会話表現",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nLook! It is going to rain. You should ( ) your umbrella.",
+    "choices": [
+      "take",
+      "took",
+      "taking",
+      "taken"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "助動詞 should の直後は動詞の原形となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "重要連語・会話表現"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_eng_200",
+    "subjectId": "jh_english",
+    "subjectName": "中学英語",
+    "course": "中学英語全範囲",
+    "unit": "be動詞・一般動詞",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "次の英文の空欄に入る最も適切な語を選びなさい。\n\nShe ( ) to school by bus every day.",
+    "choices": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "主語の人称・時制、または助動詞・前置詞のルールを確認しましょう。"
+    ],
+    "explanation": "主語が三人称単数 (She) かつ現在の習慣なので goes となります。",
+    "tags": [
+      "高校受験",
+      "中学英語",
+      "be動詞・一般動詞"
+    ],
+    "baseXp": 100
+  }
+]

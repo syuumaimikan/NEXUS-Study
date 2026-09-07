@@ -1,0 +1,5652 @@
+[
+  {
+    "id": "chemistry_1",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 2.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "chemistry_2",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "chemistry_3",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "chemistry_4",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "chemistry_5",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.90 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 3.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "chemistry_6",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "chemistry_7",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "chemistry_8",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "chemistry_9",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.40 mol/L",
+      "0.80 mol/L",
+      "0.20 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 1.0 L = 0.40 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "chemistry_10",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "chemistry_11",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "chemistry_12",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "chemistry_13",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.25 mol/L",
+      "0.50 mol/L",
+      "0.13 mol/L",
+      "1.00 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 2.0 L = 0.25 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "chemistry_14",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "chemistry_15",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "chemistry_16",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "chemistry_17",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.03 mol/L",
+      "0.06 mol/L",
+      "0.01 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 3.0 L = 0.03 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "chemistry_18",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "chemistry_19",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "chemistry_20",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "chemistry_21",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.20 mol/L",
+      "0.40 mol/L",
+      "0.10 mol/L",
+      "0.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 1.0 L = 0.20 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "chemistry_22",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "chemistry_23",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "chemistry_24",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "chemistry_25",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.15 mol/L",
+      "0.30 mol/L",
+      "0.07 mol/L",
+      "0.60 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 2.0 L = 0.15 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "chemistry_26",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "chemistry_27",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "chemistry_28",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "chemistry_29",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.13 mol/L",
+      "0.26 mol/L",
+      "0.07 mol/L",
+      "1.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 3.0 L = 0.13 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "chemistry_30",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "chemistry_31",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "chemistry_32",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "chemistry_33",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.50 mol/L",
+      "1.00 mol/L",
+      "0.25 mol/L",
+      "0.50 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 1.0 L = 0.50 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "chemistry_34",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "chemistry_35",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "chemistry_36",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "chemistry_37",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.05 mol/L",
+      "0.10 mol/L",
+      "0.03 mol/L",
+      "0.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 2.0 L = 0.05 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "chemistry_38",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "chemistry_39",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "chemistry_40",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "chemistry_41",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.07 mol/L",
+      "0.14 mol/L",
+      "0.04 mol/L",
+      "0.60 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 3.0 L = 0.07 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "chemistry_42",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "chemistry_43",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "chemistry_44",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "chemistry_45",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.30 mol/L",
+      "0.60 mol/L",
+      "0.15 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 1.0 L = 0.30 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "chemistry_46",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "chemistry_47",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "chemistry_48",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "chemistry_49",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.20 mol/L",
+      "0.40 mol/L",
+      "0.10 mol/L",
+      "0.80 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 2.0 L = 0.20 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "chemistry_50",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "chemistry_51",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "chemistry_52",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "chemistry_53",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.17 mol/L",
+      "0.34 mol/L",
+      "0.09 mol/L",
+      "1.50 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 3.0 L = 0.17 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "chemistry_54",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "chemistry_55",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "chemistry_56",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "chemistry_57",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.10 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 1.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "chemistry_58",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "chemistry_59",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "chemistry_60",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "chemistry_61",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 2.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "chemistry_62",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "chemistry_63",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "chemistry_64",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "chemistry_65",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.90 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 3.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "chemistry_66",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "chemistry_67",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "chemistry_68",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "chemistry_69",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.40 mol/L",
+      "0.80 mol/L",
+      "0.20 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 1.0 L = 0.40 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "chemistry_70",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "chemistry_71",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "chemistry_72",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "chemistry_73",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.25 mol/L",
+      "0.50 mol/L",
+      "0.13 mol/L",
+      "1.00 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 2.0 L = 0.25 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "chemistry_74",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "chemistry_75",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "chemistry_76",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "chemistry_77",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.03 mol/L",
+      "0.06 mol/L",
+      "0.01 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 3.0 L = 0.03 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "chemistry_78",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "chemistry_79",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "chemistry_80",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "chemistry_81",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.20 mol/L",
+      "0.40 mol/L",
+      "0.10 mol/L",
+      "0.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 1.0 L = 0.20 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "chemistry_82",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "chemistry_83",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "chemistry_84",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "chemistry_85",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.15 mol/L",
+      "0.30 mol/L",
+      "0.07 mol/L",
+      "0.60 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 2.0 L = 0.15 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "chemistry_86",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "chemistry_87",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "chemistry_88",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "chemistry_89",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.13 mol/L",
+      "0.26 mol/L",
+      "0.07 mol/L",
+      "1.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 3.0 L = 0.13 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "chemistry_90",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "chemistry_91",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "chemistry_92",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "chemistry_93",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.50 mol/L",
+      "1.00 mol/L",
+      "0.25 mol/L",
+      "0.50 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 1.0 L = 0.50 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "chemistry_94",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "chemistry_95",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "chemistry_96",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "chemistry_97",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.05 mol/L",
+      "0.10 mol/L",
+      "0.03 mol/L",
+      "0.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 2.0 L = 0.05 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "chemistry_98",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "chemistry_99",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "chemistry_100",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "chemistry_101",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.07 mol/L",
+      "0.14 mol/L",
+      "0.04 mol/L",
+      "0.60 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 3.0 L = 0.07 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "chemistry_102",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "chemistry_103",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "chemistry_104",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "chemistry_105",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.30 mol/L",
+      "0.60 mol/L",
+      "0.15 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 1.0 L = 0.30 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "chemistry_106",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "chemistry_107",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "chemistry_108",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "chemistry_109",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.20 mol/L",
+      "0.40 mol/L",
+      "0.10 mol/L",
+      "0.80 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 2.0 L = 0.20 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "chemistry_110",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "chemistry_111",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "chemistry_112",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "chemistry_113",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.17 mol/L",
+      "0.34 mol/L",
+      "0.09 mol/L",
+      "1.50 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 3.0 L = 0.17 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "chemistry_114",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "chemistry_115",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "chemistry_116",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "chemistry_117",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.10 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 1.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "chemistry_118",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "chemistry_119",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "chemistry_120",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "chemistry_121",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 2.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "chemistry_122",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "chemistry_123",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "chemistry_124",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "chemistry_125",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.90 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 3.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "chemistry_126",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "chemistry_127",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "chemistry_128",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "chemistry_129",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.40 mol/L",
+      "0.80 mol/L",
+      "0.20 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 1.0 L = 0.40 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "chemistry_130",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "chemistry_131",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "chemistry_132",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "chemistry_133",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.25 mol/L",
+      "0.50 mol/L",
+      "0.13 mol/L",
+      "1.00 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 2.0 L = 0.25 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "chemistry_134",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "chemistry_135",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "chemistry_136",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "chemistry_137",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.03 mol/L",
+      "0.06 mol/L",
+      "0.01 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 3.0 L = 0.03 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "chemistry_138",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "chemistry_139",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "chemistry_140",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "chemistry_141",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.20 mol/L",
+      "0.40 mol/L",
+      "0.10 mol/L",
+      "0.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 1.0 L = 0.20 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "chemistry_142",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "chemistry_143",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "chemistry_144",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "chemistry_145",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.15 mol/L",
+      "0.30 mol/L",
+      "0.07 mol/L",
+      "0.60 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 2.0 L = 0.15 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "chemistry_146",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "chemistry_147",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "chemistry_148",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "chemistry_149",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.13 mol/L",
+      "0.26 mol/L",
+      "0.07 mol/L",
+      "1.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 3.0 L = 0.13 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "chemistry_150",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "chemistry_151",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "chemistry_152",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "chemistry_153",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.50 mol/L",
+      "1.00 mol/L",
+      "0.25 mol/L",
+      "0.50 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 1.0 L = 0.50 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "chemistry_154",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "chemistry_155",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "chemistry_156",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "chemistry_157",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.05 mol/L",
+      "0.10 mol/L",
+      "0.03 mol/L",
+      "0.20 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 2.0 L = 0.05 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "chemistry_158",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "chemistry_159",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "chemistry_160",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "chemistry_161",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.07 mol/L",
+      "0.14 mol/L",
+      "0.04 mol/L",
+      "0.60 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 3.0 L = 0.07 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "chemistry_162",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "chemistry_163",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "chemistry_164",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "chemistry_165",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.30 mol/L",
+      "0.60 mol/L",
+      "0.15 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 1.0 L = 0.30 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "chemistry_166",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "chemistry_167",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "chemistry_168",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "chemistry_169",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.20 mol/L",
+      "0.40 mol/L",
+      "0.10 mol/L",
+      "0.80 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 2.0 L = 0.20 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "chemistry_170",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "chemistry_171",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "chemistry_172",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "chemistry_173",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.17 mol/L",
+      "0.34 mol/L",
+      "0.09 mol/L",
+      "1.50 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 3.0 L = 0.17 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "chemistry_174",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "chemistry_175",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "chemistry_176",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "chemistry_177",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.10 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 1.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "chemistry_178",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "chemistry_179",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "chemistry_180",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "chemistry_181",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "溶質 0.2 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.2 mol / 2.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "chemistry_182",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻2 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "2",
+      "12",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻2) = 2 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "chemistry_183",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "chemistry_184",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "chemistry_185",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "溶質 0.3 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.10 mol/L",
+      "0.20 mol/L",
+      "0.05 mol/L",
+      "0.90 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.3 mol / 3.0 L = 0.10 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "chemistry_186",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻3 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "3",
+      "11",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻3) = 3 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "chemistry_187",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "実験室において「塩化アンモニウムと水酸化カルシウムを加熱」ことで発生する気体はどれか。",
+    "choices": [
+      "アンモニア NH₃",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は上方置換が適しています。"
+    ],
+    "explanation": "「塩化アンモニウムと水酸化カルシウムを加熱」反応により、アンモニア NH₃ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "chemistry_188",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "「油脂や芳香のある果実香成分を構成する結合」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "エステル結合 (-COO-)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "エステル結合 (-COO-) は「油脂や芳香のある果実香成分を構成する結合」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "chemistry_189",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "溶質 0.4 mol が水に溶けて全体で 1.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.40 mol/L",
+      "0.80 mol/L",
+      "0.20 mol/L",
+      "0.40 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.4 mol / 1.0 L = 0.40 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "chemistry_190",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻4 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "4",
+      "10",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻4) = 4 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "chemistry_191",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "実験室において「亜鉛に希硫酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "水素 H₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「亜鉛に希硫酸を加える」反応により、水素 H₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "chemistry_192",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "「ナトリウムと反応して水素を発生する（アルコール）」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "ヒドロキシ基 (-OH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "ヒドロキシ基 (-OH) は「ナトリウムと反応して水素を発生する（アルコール）」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "chemistry_193",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "溶質 0.5 mol が水に溶けて全体で 2.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.25 mol/L",
+      "0.50 mol/L",
+      "0.13 mol/L",
+      "1.00 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.5 mol / 2.0 L = 0.25 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "chemistry_194",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻5 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻5) = 5 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "chemistry_195",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "実験室において「過酸化水素水に二酸化マンガンを加える」ことで発生する気体はどれか。",
+    "choices": [
+      "酸素 O₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は水上置換が適しています。"
+    ],
+    "explanation": "「過酸化水素水に二酸化マンガンを加える」反応により、酸素 O₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "chemistry_196",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "「銀鏡反応やフェーリング液還元性を示す」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "アルデヒド基 (-CHO)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "アルデヒド基 (-CHO) は「銀鏡反応やフェーリング液還元性を示す」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "chemistry_197",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "物質量とモル濃度",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "溶質 0.1 mol が水に溶けて全体で 3.0 L になっている水溶液のモル濃度は何 mol/L か。",
+    "choices": [
+      "0.03 mol/L",
+      "0.06 mol/L",
+      "0.01 mol/L",
+      "0.30 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "モル濃度 (mol/L) = 溶質の物質量 (mol) / 溶液の体積 (L) です。"
+    ],
+    "explanation": "モル濃度は 0.1 mol / 3.0 L = 0.03 mol/L です。",
+    "tags": [
+      "化学",
+      "物質量とモル濃度",
+      "モル濃度",
+      "物質量"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "chemistry_198",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学基礎",
+    "unit": "中和反応とpH",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "水素イオン濃度 [H⁺] = 1.0 × 10⁻1 mol/L の水溶液の pH はいくらか。",
+    "choices": [
+      "1",
+      "13",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "pH の定義式 pH = -log₁₀[H⁺] です。"
+    ],
+    "explanation": "pH = -log₁₀(1.0 × 10⁻1) = 1 です。",
+    "tags": [
+      "化学",
+      "中和反応とpH",
+      "酸と塩基",
+      "pH"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "chemistry_199",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "無機物質と気体発生",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "実験室において「石灰石（炭酸カルシウム）に希塩酸を加える」ことで発生する気体はどれか。",
+    "choices": [
+      "二酸化炭素 CO₂",
+      "塩素 Cl₂",
+      "硫化水素 H₂S",
+      "一酸化窒素 NO"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "捕集方法は下方置換が適しています。"
+    ],
+    "explanation": "「石灰石（炭酸カルシウム）に希塩酸を加える」反応により、二酸化炭素 CO₂ が発生します。",
+    "tags": [
+      "化学",
+      "無機物質と気体発生",
+      "無機化学",
+      "気体発生"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "chemistry_200",
+    "subjectId": "chemistry",
+    "subjectName": "化学",
+    "course": "化学",
+    "unit": "有機化合物と官能基",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という性質をもつ官能基・結合はどれか。",
+    "choices": [
+      "カルボキシ基 (-COOH)",
+      "ニトロ基 (-NO₂)",
+      "エーテル結合 (-O-)",
+      "スルホ基 (-SO₃H)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "高校有機化学で極めて重要な示性官能基の基本性質です。"
+    ],
+    "explanation": "カルボキシ基 (-COOH) は「炭酸水素ナトリウムと反応してCO₂を遊離する酸性基」という顕著な性質を示します。",
+    "tags": [
+      "化学",
+      "有機化合物と官能基",
+      "有機化学",
+      "官能基",
+      "検出反応"
+    ],
+    "baseXp": 129
+  }
+]

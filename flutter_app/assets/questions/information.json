@@ -1,0 +1,5802 @@
+[
+  {
+    "id": "information_1",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "information_2",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "information_3",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "information_4",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "information_5",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "information_6",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "information_7",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "information_8",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "information_9",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "information_10",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "information_11",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "information_12",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "information_13",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "information_14",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "information_15",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "information_16",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "information_17",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "information_18",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "information_19",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "information_20",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "information_21",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "information_22",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "information_23",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "information_24",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "information_25",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "information_26",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "information_27",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "information_28",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "information_29",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "information_30",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "information_31",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "information_32",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "information_33",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "information_34",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "information_35",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "information_36",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "information_37",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "information_38",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "information_39",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "information_40",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "information_41",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "information_42",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "information_43",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "information_44",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "information_45",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "information_46",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "information_47",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "information_48",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "information_49",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "information_50",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "information_51",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "information_52",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "information_53",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "information_54",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "information_55",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "information_56",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "information_57",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "information_58",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "information_59",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "information_60",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "information_61",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "information_62",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "information_63",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "information_64",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "information_65",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "information_66",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "information_67",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "information_68",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "information_69",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "information_70",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "information_71",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "information_72",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "information_73",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "information_74",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "information_75",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "information_76",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "information_77",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "information_78",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "information_79",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "information_80",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "information_81",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "information_82",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "information_83",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "information_84",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "information_85",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "information_86",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "information_87",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "information_88",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "information_89",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "information_90",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "information_91",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "information_92",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "information_93",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "information_94",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "information_95",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "information_96",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "information_97",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "information_98",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "information_99",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "information_100",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "information_101",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "information_102",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "information_103",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "information_104",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "information_105",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "information_106",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "information_107",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "information_108",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "information_109",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "information_110",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "information_111",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "information_112",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "information_113",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "information_114",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "information_115",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "information_116",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "information_117",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "information_118",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "information_119",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "information_120",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "information_121",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "information_122",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "information_123",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "information_124",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "information_125",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "information_126",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "information_127",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "information_128",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "information_129",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "information_130",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "information_131",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "information_132",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "information_133",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "information_134",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "information_135",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "information_136",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "information_137",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "information_138",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "information_139",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "information_140",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "information_141",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "information_142",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "information_143",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "information_144",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "information_145",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "information_146",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "information_147",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "information_148",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "information_149",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "information_150",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "information_151",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "information_152",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "information_153",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "information_154",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "information_155",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "information_156",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "information_157",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "information_158",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "information_159",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "information_160",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "information_161",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "information_162",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "information_163",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "information_164",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "information_165",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "information_166",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "information_167",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "information_168",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "information_169",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "information_170",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "information_171",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "information_172",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "information_173",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "information_174",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "information_175",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "information_176",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "information_177",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "information_178",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "information_179",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "information_180",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "information_181",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "information_182",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "information_183",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "information_184",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "information_185",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "information_186",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "10進数の 7 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0111",
+      "1000",
+      "1001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 7 を2進数に変換すると 0111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "information_187",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "10進数の 8 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1000",
+      "1001",
+      "1010",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 8 を2進数に変換すると 1000 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "information_188",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "10進数の 9 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1001",
+      "1010",
+      "1011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 9 を2進数に変換すると 1001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "information_189",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "10進数の 10 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1010",
+      "1011",
+      "1100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 10 を2進数に変換すると 1010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "information_190",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "10進数の 11 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1011",
+      "1100",
+      "1101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 11 を2進数に変換すると 1011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "information_191",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "10進数の 12 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1100",
+      "1101",
+      "1110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 12 を2進数に変換すると 1100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "information_192",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "10進数の 13 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1101",
+      "1110",
+      "1111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 13 を2進数に変換すると 1101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "information_193",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "10進数の 14 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1110",
+      "1111",
+      "10000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 14 を2進数に変換すると 1110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "information_194",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "10進数の 15 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "1111",
+      "10000",
+      "10001",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 15 を2進数に変換すると 1111 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "information_195",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "10進数の 1 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0001",
+      "0010",
+      "0011",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 1 を2進数に変換すると 0001 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "information_196",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "10進数の 2 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0010",
+      "0011",
+      "0100",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 2 を2進数に変換すると 0010 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "information_197",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "10進数の 3 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0011",
+      "0100",
+      "0101",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 3 を2進数に変換すると 0011 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "information_198",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "10進数の 4 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0100",
+      "0101",
+      "0110",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 4 を2進数に変換すると 0100 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "information_199",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "10進数の 5 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0101",
+      "0110",
+      "0111",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 5 を2進数に変換すると 0101 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "information_200",
+    "subjectId": "information",
+    "subjectName": "情報",
+    "course": "情報I",
+    "unit": "コンピュータと進数表現",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "10進数の 6 を4ビットの2進数で表現したものはどれか。",
+    "choices": [
+      "0110",
+      "0111",
+      "1000",
+      "1111"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重み 8, 4, 2, 1 の組み合わせで足し合わせます。"
+    ],
+    "explanation": "10進数 6 を2進数に変換すると 0110 です。",
+    "tags": [
+      "情報",
+      "コンピュータと進数表現",
+      "情報I",
+      "2進数",
+      "基数変換"
+    ],
+    "baseXp": 129
+  }
+]

@@ -1,0 +1,5802 @@
+[
+  {
+    "id": "geography_1",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "geography_2",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "geography_3",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "geography_4",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "geography_5",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "geography_6",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "geography_7",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "geography_8",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "geography_9",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "geography_10",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "geography_11",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "geography_12",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "geography_13",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "geography_14",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "geography_15",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "geography_16",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "geography_17",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "geography_18",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "geography_19",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "geography_20",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "geography_21",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "geography_22",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "geography_23",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "geography_24",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "geography_25",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "geography_26",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "geography_27",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "geography_28",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "geography_29",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "geography_30",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "geography_31",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "geography_32",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "geography_33",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "geography_34",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "geography_35",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "geography_36",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "geography_37",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "geography_38",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "geography_39",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "geography_40",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "geography_41",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "geography_42",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "geography_43",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "geography_44",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "geography_45",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "geography_46",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "geography_47",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "geography_48",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "geography_49",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "geography_50",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "geography_51",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "geography_52",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "geography_53",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "geography_54",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "geography_55",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "geography_56",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "geography_57",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "geography_58",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "geography_59",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "geography_60",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "geography_61",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "geography_62",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "geography_63",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "geography_64",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "geography_65",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "geography_66",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "geography_67",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "geography_68",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "geography_69",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "geography_70",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "geography_71",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "geography_72",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "geography_73",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "geography_74",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "geography_75",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "geography_76",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "geography_77",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "geography_78",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "geography_79",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "geography_80",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "geography_81",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "geography_82",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "geography_83",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "geography_84",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "geography_85",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "geography_86",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "geography_87",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "geography_88",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "geography_89",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "geography_90",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "geography_91",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "geography_92",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "geography_93",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "geography_94",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "geography_95",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "geography_96",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "geography_97",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "geography_98",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "geography_99",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "geography_100",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "geography_101",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "geography_102",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "geography_103",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "geography_104",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "geography_105",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "geography_106",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "geography_107",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "geography_108",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "geography_109",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "geography_110",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "geography_111",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "geography_112",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "geography_113",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "geography_114",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "geography_115",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "geography_116",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "geography_117",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "geography_118",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "geography_119",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "geography_120",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "geography_121",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "geography_122",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "geography_123",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "geography_124",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "geography_125",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "geography_126",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "geography_127",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "geography_128",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "geography_129",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "geography_130",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "geography_131",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "geography_132",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "geography_133",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "geography_134",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "geography_135",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "geography_136",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "geography_137",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "geography_138",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "geography_139",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "geography_140",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "geography_141",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "geography_142",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "geography_143",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "geography_144",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "geography_145",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "geography_146",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "geography_147",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "geography_148",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "geography_149",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "geography_150",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "geography_151",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "geography_152",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "geography_153",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "geography_154",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "geography_155",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "geography_156",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "geography_157",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "geography_158",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "geography_159",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "geography_160",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "geography_161",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "geography_162",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "geography_163",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "geography_164",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "geography_165",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "geography_166",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "geography_167",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "geography_168",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "geography_169",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "geography_170",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "geography_171",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "geography_172",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "geography_173",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "geography_174",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "geography_175",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "geography_176",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "geography_177",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "geography_178",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "geography_179",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "geography_180",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "geography_181",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "geography_182",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "geography_183",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "geography_184",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "geography_185",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "geography_186",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "geography_187",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "geography_188",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "geography_189",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "geography_190",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "geography_191",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "geography_192",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "geography_193",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "geography_194",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "geography_195",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "geography_196",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "geography_197",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "ケッペンの気候区分において、「夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "地中海性気候 (Cs)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cs です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cs は「地中海性気候」と呼ばれ、夏季乾燥・冬季湿潤で、オリーブやコルクガシを栽培するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "geography_198",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "ケッペンの気候区分において、「四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "温暖湿潤気候 (Cfa)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Cfa です。"
+    ],
+    "explanation": "ケッペンの気候区分 Cfa は「温暖湿潤気候」と呼ばれ、四季が明瞭で年間を通して雨が多く、照葉樹林や混合林が分布する（日本本州など）という特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "geography_199",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ケッペンの気候区分において、「最暖月平均気温が0〜10℃で、コケ類や地衣類が生育する」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "ツンドラ気候 (ET)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は ET です。"
+    ],
+    "explanation": "ケッペンの気候区分 ET は「ツンドラ気候」と呼ばれ、最暖月平均気温が0〜10℃で、コケ類や地衣類が生育するという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "geography_200",
+    "subjectId": "geography",
+    "subjectName": "地理",
+    "course": "地理探究",
+    "unit": "地理探究・気候と地形",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "ケッペンの気候区分において、「年中高温多雨でスコールが発生し、セルバやジャングルが広がる」特徴を持つ気候区分はどれか。",
+    "choices": [
+      "熱帯雨林気候 (Af)",
+      "砂漠気候 (BW)",
+      "西岸海洋性気候 (Cfb)",
+      "亜寒帯湿潤気候 (Df)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "気候記号は Af です。"
+    ],
+    "explanation": "ケッペンの気候区分 Af は「熱帯雨林気候」と呼ばれ、年中高温多雨でスコールが発生し、セルバやジャングルが広がるという特徴を持ちます。",
+    "tags": [
+      "地理",
+      "地理探究・気候と地形",
+      "地理",
+      "気候区分",
+      "ケッペン"
+    ],
+    "baseXp": 129
+  }
+]

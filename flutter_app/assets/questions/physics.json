@@ -1,0 +1,5682 @@
+[
+  {
+    "id": "physics_1",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "10 m/s",
+      "13 m/s",
+      "8 m/s",
+      "12 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (2 × 3) = 10 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "physics_2",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "6 N",
+      "10 N",
+      "5 N",
+      "12 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 2 m/s² = 6 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "physics_3",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "196 J",
+      "235 J",
+      "157 J",
+      "20 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 10 = 196 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "physics_4",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "physics_5",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "10 Ω",
+      "2.4 Ω",
+      "24 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 6 = 10 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "physics_6",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "18 m/s",
+      "21 m/s",
+      "16 m/s",
+      "24 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (3 × 4) = 18 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "physics_7",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "12 N",
+      "16 N",
+      "7 N",
+      "24 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 3 m/s² = 12 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "physics_8",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "441 J",
+      "529 J",
+      "353 J",
+      "45 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 15 = 441 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "physics_9",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "physics_10",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "15 Ω",
+      "3.6 Ω",
+      "54 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 9 = 15 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "physics_11",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "13 m/s",
+      "16 m/s",
+      "11 m/s",
+      "40 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (1 × 5) = 13 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "physics_12",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "20 N",
+      "24 N",
+      "9 N",
+      "40 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 4 m/s² = 20 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "physics_13",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "784 J",
+      "941 J",
+      "627 J",
+      "80 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 20 = 784 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "physics_14",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "physics_15",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "2.1818181818181817 Ω",
+      "24 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 3 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "physics_16",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "14 m/s",
+      "17 m/s",
+      "12 m/s",
+      "20 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (2 × 2) = 14 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "physics_17",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "6 N",
+      "10 N",
+      "7 N",
+      "12 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 1 m/s² = 6 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "physics_18",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "245 J",
+      "294 J",
+      "196 J",
+      "25 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 25 = 245 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "physics_19",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "physics_20",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "8 Ω",
+      "1.5 Ω",
+      "12 Ω",
+      "4 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 6 = 8 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "physics_21",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "11 m/s",
+      "14 m/s",
+      "9 m/s",
+      "6 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (3 × 3) = 11 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "physics_22",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "4 N",
+      "8 N",
+      "4 N",
+      "8 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 2 m/s² = 4 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "physics_23",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "98 J",
+      "118 J",
+      "78 J",
+      "10 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 5 = 98 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "physics_24",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 450 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.76 m",
+      "1.14 m",
+      "0.53 m",
+      "1.3235294117647058 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 450 ≒ 0.76 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "physics_25",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "13 Ω",
+      "2.769230769230769 Ω",
+      "36 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 9 = 13 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "physics_26",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "8 m/s",
+      "11 m/s",
+      "6 m/s",
+      "16 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (1 × 4) = 8 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "physics_27",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "9 N",
+      "13 N",
+      "6 N",
+      "18 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 3 m/s² = 9 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "physics_28",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "294 J",
+      "353 J",
+      "235 J",
+      "30 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 10 = 294 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "physics_29",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 200 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.70 m",
+      "2.55 m",
+      "1.19 m",
+      "0.5882352941176471 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 200 ≒ 1.70 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "physics_30",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "9 Ω",
+      "2 Ω",
+      "18 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 3 = 9 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "physics_31",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "16 m/s",
+      "19 m/s",
+      "14 m/s",
+      "30 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (2 × 5) = 16 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "physics_32",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "16 N",
+      "20 N",
+      "8 N",
+      "32 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 4 m/s² = 16 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "physics_33",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "588 J",
+      "706 J",
+      "470 J",
+      "60 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 15 = 588 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "physics_34",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "physics_35",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "14 Ω",
+      "3.4285714285714284 Ω",
+      "48 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 6 = 14 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "physics_36",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "14 m/s",
+      "17 m/s",
+      "12 m/s",
+      "16 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (3 × 2) = 14 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "physics_37",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "5 N",
+      "9 N",
+      "6 N",
+      "10 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 1 m/s² = 5 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "physics_38",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "196 J",
+      "235 J",
+      "157 J",
+      "20 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 20 = 196 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "physics_39",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "physics_40",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "1.6363636363636365 Ω",
+      "18 Ω",
+      "7 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 9 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "physics_41",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "13 m/s",
+      "16 m/s",
+      "11 m/s",
+      "30 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (1 × 3) = 13 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "physics_42",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "12 N",
+      "16 N",
+      "8 N",
+      "24 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 2 m/s² = 12 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "physics_43",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "490 J",
+      "588 J",
+      "392 J",
+      "50 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 25 = 490 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "physics_44",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "physics_45",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "7 Ω",
+      "1.7142857142857142 Ω",
+      "12 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 3 = 7 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "physics_46",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "10 m/s",
+      "13 m/s",
+      "8 m/s",
+      "8 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (2 × 4) = 10 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "physics_47",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "6 N",
+      "10 N",
+      "5 N",
+      "12 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 3 m/s² = 6 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "physics_48",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "147 J",
+      "176 J",
+      "118 J",
+      "15 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 5 = 147 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "physics_49",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "physics_50",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "12 Ω",
+      "3 Ω",
+      "36 Ω",
+      "0 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 6 = 12 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "physics_51",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "19 m/s",
+      "22 m/s",
+      "17 m/s",
+      "20 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (3 × 5) = 19 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "physics_52",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "12 N",
+      "16 N",
+      "7 N",
+      "24 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 4 m/s² = 12 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "physics_53",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "392 J",
+      "470 J",
+      "314 J",
+      "40 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 10 = 392 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "physics_54",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 450 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.76 m",
+      "1.14 m",
+      "0.53 m",
+      "1.3235294117647058 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 450 ≒ 0.76 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "physics_55",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "17 Ω",
+      "4.235294117647059 Ω",
+      "72 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 9 = 17 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "physics_56",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "8 m/s",
+      "11 m/s",
+      "6 m/s",
+      "12 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (1 × 2) = 8 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "physics_57",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "4 N",
+      "8 N",
+      "5 N",
+      "8 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 1 m/s² = 4 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "physics_58",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "147 J",
+      "176 J",
+      "118 J",
+      "15 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 15 = 147 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "physics_59",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 200 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.70 m",
+      "2.55 m",
+      "1.19 m",
+      "0.5882352941176471 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 200 ≒ 1.70 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "physics_60",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "5 Ω",
+      "1.2 Ω",
+      "6 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 3 = 5 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "physics_61",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "14 m/s",
+      "17 m/s",
+      "12 m/s",
+      "24 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (2 × 3) = 14 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "physics_62",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "10 N",
+      "14 N",
+      "7 N",
+      "20 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 2 m/s² = 10 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "physics_63",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "392 J",
+      "470 J",
+      "314 J",
+      "40 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 20 = 392 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "physics_64",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "physics_65",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "10 Ω",
+      "2.4 Ω",
+      "24 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 6 = 10 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "physics_66",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "22 m/s",
+      "25 m/s",
+      "20 m/s",
+      "40 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (3 × 4) = 22 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "physics_67",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "18 N",
+      "22 N",
+      "9 N",
+      "36 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 3 m/s² = 18 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "physics_68",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "735 J",
+      "882 J",
+      "588 J",
+      "75 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 25 = 735 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "physics_69",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "physics_70",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "15 Ω",
+      "3.6 Ω",
+      "54 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 9 = 15 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "physics_71",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "7 m/s",
+      "10 m/s",
+      "5 m/s",
+      "10 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (1 × 5) = 7 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "physics_72",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "8 N",
+      "12 N",
+      "6 N",
+      "16 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 4 m/s² = 8 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "physics_73",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "196 J",
+      "235 J",
+      "157 J",
+      "20 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 5 = 196 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "physics_74",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "physics_75",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "2.1818181818181817 Ω",
+      "24 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 3 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "physics_76",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "8 m/s",
+      "11 m/s",
+      "6 m/s",
+      "8 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (2 × 2) = 8 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "physics_77",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "3 N",
+      "7 N",
+      "4 N",
+      "6 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 1 m/s² = 3 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "physics_78",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "98 J",
+      "118 J",
+      "78 J",
+      "10 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 10 = 98 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "physics_79",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "physics_80",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "8 Ω",
+      "1.5 Ω",
+      "12 Ω",
+      "4 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 6 = 8 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "physics_81",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "15 m/s",
+      "18 m/s",
+      "13 m/s",
+      "18 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (3 × 3) = 15 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "physics_82",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "8 N",
+      "12 N",
+      "6 N",
+      "16 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 2 m/s² = 8 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "physics_83",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "294 J",
+      "353 J",
+      "235 J",
+      "30 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 15 = 294 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "physics_84",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 450 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.76 m",
+      "1.14 m",
+      "0.53 m",
+      "1.3235294117647058 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 450 ≒ 0.76 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "physics_85",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "13 Ω",
+      "2.769230769230769 Ω",
+      "36 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 9 = 13 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "physics_86",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "12 m/s",
+      "15 m/s",
+      "10 m/s",
+      "32 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (1 × 4) = 12 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "physics_87",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "15 N",
+      "19 N",
+      "8 N",
+      "30 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 3 m/s² = 15 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "physics_88",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "588 J",
+      "706 J",
+      "470 J",
+      "60 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 20 = 588 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "physics_89",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 200 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.70 m",
+      "2.55 m",
+      "1.19 m",
+      "0.5882352941176471 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 200 ≒ 1.70 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "physics_90",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "9 Ω",
+      "2 Ω",
+      "18 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 3 = 9 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "physics_91",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "20 m/s",
+      "23 m/s",
+      "18 m/s",
+      "50 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (2 × 5) = 20 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "physics_92",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "24 N",
+      "28 N",
+      "10 N",
+      "48 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 4 m/s² = 24 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "physics_93",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "980 J",
+      "1176 J",
+      "784 J",
+      "100 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 25 = 980 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "physics_94",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "physics_95",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "14 Ω",
+      "3.4285714285714284 Ω",
+      "48 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 6 = 14 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "physics_96",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "8 m/s",
+      "11 m/s",
+      "6 m/s",
+      "4 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (3 × 2) = 8 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "physics_97",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "2 N",
+      "6 N",
+      "3 N",
+      "4 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 1 m/s² = 2 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "physics_98",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "49 J",
+      "59 J",
+      "39 J",
+      "5 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 5 = 49 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "physics_99",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "physics_100",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "1.6363636363636365 Ω",
+      "18 Ω",
+      "7 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 9 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "physics_101",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "7 m/s",
+      "10 m/s",
+      "5 m/s",
+      "12 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (1 × 3) = 7 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "physics_102",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "6 N",
+      "10 N",
+      "5 N",
+      "12 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 2 m/s² = 6 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "physics_103",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "196 J",
+      "235 J",
+      "157 J",
+      "20 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 10 = 196 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "physics_104",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "physics_105",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "7 Ω",
+      "1.7142857142857142 Ω",
+      "12 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 3 = 7 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "physics_106",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "14 m/s",
+      "17 m/s",
+      "12 m/s",
+      "24 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (2 × 4) = 14 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "physics_107",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "12 N",
+      "16 N",
+      "7 N",
+      "24 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 3 m/s² = 12 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "physics_108",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "441 J",
+      "529 J",
+      "353 J",
+      "45 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 15 = 441 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "physics_109",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "physics_110",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "12 Ω",
+      "3 Ω",
+      "36 Ω",
+      "0 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 6 = 12 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "physics_111",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "23 m/s",
+      "26 m/s",
+      "21 m/s",
+      "40 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (3 × 5) = 23 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "physics_112",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "20 N",
+      "24 N",
+      "9 N",
+      "40 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 4 m/s² = 20 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "physics_113",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "784 J",
+      "941 J",
+      "627 J",
+      "80 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 20 = 784 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "physics_114",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 450 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.76 m",
+      "1.14 m",
+      "0.53 m",
+      "1.3235294117647058 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 450 ≒ 0.76 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "physics_115",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "17 Ω",
+      "4.235294117647059 Ω",
+      "72 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 9 = 17 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "physics_116",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "12 m/s",
+      "15 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (1 × 2) = 12 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "physics_117",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "6 N",
+      "10 N",
+      "7 N",
+      "12 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 1 m/s² = 6 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "physics_118",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "245 J",
+      "294 J",
+      "196 J",
+      "25 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 25 = 245 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "physics_119",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 200 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.70 m",
+      "2.55 m",
+      "1.19 m",
+      "0.5882352941176471 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 200 ≒ 1.70 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "physics_120",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "5 Ω",
+      "1.2 Ω",
+      "6 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 3 = 5 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "physics_121",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "8 m/s",
+      "11 m/s",
+      "6 m/s",
+      "6 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (2 × 3) = 8 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "physics_122",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "4 N",
+      "8 N",
+      "4 N",
+      "8 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 2 m/s² = 4 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "physics_123",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "98 J",
+      "118 J",
+      "78 J",
+      "10 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 5 = 98 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "physics_124",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "physics_125",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "10 Ω",
+      "2.4 Ω",
+      "24 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 6 = 10 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "physics_126",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "16 m/s",
+      "19 m/s",
+      "14 m/s",
+      "16 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (3 × 4) = 16 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "physics_127",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "9 N",
+      "13 N",
+      "6 N",
+      "18 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 3 m/s² = 9 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "physics_128",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "294 J",
+      "353 J",
+      "235 J",
+      "30 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 10 = 294 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "physics_129",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "physics_130",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "15 Ω",
+      "3.6 Ω",
+      "54 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 9 = 15 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "physics_131",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "11 m/s",
+      "14 m/s",
+      "9 m/s",
+      "30 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (1 × 5) = 11 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "physics_132",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "16 N",
+      "20 N",
+      "8 N",
+      "32 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 4 m/s² = 16 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "physics_133",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "588 J",
+      "706 J",
+      "470 J",
+      "60 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 15 = 588 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "physics_134",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "physics_135",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "2.1818181818181817 Ω",
+      "24 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 3 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "physics_136",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "12 m/s",
+      "15 m/s",
+      "10 m/s",
+      "16 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (2 × 2) = 12 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "physics_137",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "5 N",
+      "9 N",
+      "6 N",
+      "10 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 1 m/s² = 5 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "physics_138",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "196 J",
+      "235 J",
+      "157 J",
+      "20 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 20 = 196 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "physics_139",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "physics_140",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "8 Ω",
+      "1.5 Ω",
+      "12 Ω",
+      "4 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 6 = 8 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "physics_141",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "19 m/s",
+      "22 m/s",
+      "17 m/s",
+      "30 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (3 × 3) = 19 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "physics_142",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "12 N",
+      "16 N",
+      "8 N",
+      "24 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 2 m/s² = 12 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "physics_143",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "490 J",
+      "588 J",
+      "392 J",
+      "50 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 25 = 490 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "physics_144",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 450 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.76 m",
+      "1.14 m",
+      "0.53 m",
+      "1.3235294117647058 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 450 ≒ 0.76 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "physics_145",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "13 Ω",
+      "2.769230769230769 Ω",
+      "36 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 9 = 13 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "physics_146",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "6 m/s",
+      "9 m/s",
+      "4 m/s",
+      "8 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (1 × 4) = 6 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "physics_147",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "6 N",
+      "10 N",
+      "5 N",
+      "12 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 3 m/s² = 6 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "physics_148",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "147 J",
+      "176 J",
+      "118 J",
+      "15 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 5 = 147 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "physics_149",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 200 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.70 m",
+      "2.55 m",
+      "1.19 m",
+      "0.5882352941176471 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 200 ≒ 1.70 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "physics_150",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "9 Ω",
+      "2 Ω",
+      "18 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 3 = 9 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "physics_151",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "14 m/s",
+      "17 m/s",
+      "12 m/s",
+      "20 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (2 × 5) = 14 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "physics_152",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "12 N",
+      "16 N",
+      "7 N",
+      "24 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 4 m/s² = 12 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "physics_153",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "392 J",
+      "470 J",
+      "314 J",
+      "40 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 10 = 392 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "physics_154",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "physics_155",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "14 Ω",
+      "3.4285714285714284 Ω",
+      "48 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 6 = 14 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "physics_156",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "12 m/s",
+      "15 m/s",
+      "10 m/s",
+      "12 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (3 × 2) = 12 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "physics_157",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "4 N",
+      "8 N",
+      "5 N",
+      "8 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 1 m/s² = 4 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "physics_158",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "147 J",
+      "176 J",
+      "118 J",
+      "15 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 15 = 147 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "physics_159",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "physics_160",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "1.6363636363636365 Ω",
+      "18 Ω",
+      "7 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 9 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "physics_161",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "11 m/s",
+      "14 m/s",
+      "9 m/s",
+      "24 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (1 × 3) = 11 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "physics_162",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "10 N",
+      "14 N",
+      "7 N",
+      "20 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 2 m/s² = 10 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "physics_163",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "392 J",
+      "470 J",
+      "314 J",
+      "40 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 20 = 392 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "physics_164",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "physics_165",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "7 Ω",
+      "1.7142857142857142 Ω",
+      "12 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 3 = 7 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "physics_166",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "18 m/s",
+      "21 m/s",
+      "16 m/s",
+      "40 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (2 × 4) = 18 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "physics_167",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "18 N",
+      "22 N",
+      "9 N",
+      "36 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 3 m/s² = 18 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "physics_168",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "735 J",
+      "882 J",
+      "588 J",
+      "75 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 25 = 735 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "physics_169",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "physics_170",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "12 Ω",
+      "3 Ω",
+      "36 Ω",
+      "0 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 6 = 12 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "physics_171",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "17 m/s",
+      "20 m/s",
+      "15 m/s",
+      "10 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (3 × 5) = 17 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "physics_172",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "8 N",
+      "12 N",
+      "6 N",
+      "16 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 4 m/s² = 8 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "physics_173",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "196 J",
+      "235 J",
+      "157 J",
+      "20 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 5 = 196 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "physics_174",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 450 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.76 m",
+      "1.14 m",
+      "0.53 m",
+      "1.3235294117647058 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 450 ≒ 0.76 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "physics_175",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "17 Ω",
+      "4.235294117647059 Ω",
+      "72 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 9 = 17 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "physics_176",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 4 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "6 m/s",
+      "9 m/s",
+      "4 m/s",
+      "8 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 4 + (1 × 2) = 6 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "physics_177",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 3 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "3 N",
+      "7 N",
+      "4 N",
+      "6 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 3 kg × 1 m/s² = 3 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "physics_178",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 10 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "98 J",
+      "118 J",
+      "78 J",
+      "10 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 10 = 98 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "physics_179",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 200 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.70 m",
+      "2.55 m",
+      "1.19 m",
+      "0.5882352941176471 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 200 ≒ 1.70 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "physics_180",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "5 Ω",
+      "1.2 Ω",
+      "6 Ω",
+      "1 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 3 = 5 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "physics_181",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "初速度 6 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。3 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "12 m/s",
+      "15 m/s",
+      "10 m/s",
+      "18 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 6 + (2 × 3) = 12 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "physics_182",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "質量 4 kg の物体に一定の力 F を加えたところ、物体は加速度 2 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "8 N",
+      "12 N",
+      "6 N",
+      "16 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 4 kg × 2 m/s² = 8 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "physics_183",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "質量 2 kg の物体を基準面から高さ 15 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "294 J",
+      "353 J",
+      "235 J",
+      "30 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 2 × 9.8 × 15 = 294 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "physics_184",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 250 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.36 m",
+      "2.04 m",
+      "0.95 m",
+      "0.7352941176470589 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 250 ≒ 1.36 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "physics_185",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "抵抗値 4 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "10 Ω",
+      "2.4 Ω",
+      "24 Ω",
+      "2 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 4 + 6 = 10 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "physics_186",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "初速度 8 m/s で直線上を運動する物体が、一定の加速度 3 m/s² で加速した。4 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "20 m/s",
+      "23 m/s",
+      "18 m/s",
+      "32 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 8 + (3 × 4) = 20 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "physics_187",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "質量 5 kg の物体に一定の力 F を加えたところ、物体は加速度 3 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "15 N",
+      "19 N",
+      "8 N",
+      "30 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 5 kg × 3 m/s² = 15 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "physics_188",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "質量 3 kg の物体を基準面から高さ 20 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "588 J",
+      "706 J",
+      "470 J",
+      "60 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 3 × 9.8 × 20 = 588 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "physics_189",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 300 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "1.13 m",
+      "1.69 m",
+      "0.79 m",
+      "0.8823529411764706 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 300 ≒ 1.13 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "physics_190",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "抵抗値 6 Ω と 9 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "15 Ω",
+      "3.6 Ω",
+      "54 Ω",
+      "3 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 6 + 9 = 15 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "physics_191",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初速度 10 m/s で直線上を運動する物体が、一定の加速度 1 m/s² で加速した。5 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "15 m/s",
+      "18 m/s",
+      "13 m/s",
+      "50 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 10 + (1 × 5) = 15 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "physics_192",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "質量 6 kg の物体に一定の力 F を加えたところ、物体は加速度 4 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "24 N",
+      "28 N",
+      "10 N",
+      "48 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 6 kg × 4 m/s² = 24 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "physics_193",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "質量 4 kg の物体を基準面から高さ 25 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "980 J",
+      "1176 J",
+      "784 J",
+      "100 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 4 × 9.8 × 25 = 980 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "physics_194",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 350 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.97 m",
+      "1.46 m",
+      "0.68 m",
+      "1.0294117647058822 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 350 ≒ 0.97 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "physics_195",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "抵抗値 8 Ω と 3 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "11 Ω",
+      "2.1818181818181817 Ω",
+      "24 Ω",
+      "5 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 8 + 3 = 11 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "physics_196",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "等加速度直線運動",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "初速度 2 m/s で直線上を運動する物体が、一定の加速度 2 m/s² で加速した。2 秒後の物体の速度 v は何 m/s か。",
+    "choices": [
+      "6 m/s",
+      "9 m/s",
+      "4 m/s",
+      "4 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等加速度直線運動の速度公式 v = v₀ + at を用います。"
+    ],
+    "explanation": "v = v₀ + at より、v = 2 + (2 × 2) = 6 m/s です。",
+    "tags": [
+      "物理",
+      "等加速度直線運動",
+      "等加速度",
+      "速度公式"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "physics_197",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "運動方程式と力",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "質量 2 kg の物体に一定の力 F を加えたところ、物体は加速度 1 m/s² で加速した。力 F の大きさは何 N か。",
+    "choices": [
+      "2 N",
+      "6 N",
+      "3 N",
+      "4 N"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "運動方程式 F = ma を適用します。"
+    ],
+    "explanation": "ニュートンの運動方程式 F = ma より、F = 2 kg × 1 m/s² = 2 N です。",
+    "tags": [
+      "物理",
+      "運動方程式と力",
+      "運動方程式",
+      "ニュートンの法則"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "physics_198",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理基礎",
+    "unit": "仕事と力学的エネルギー",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "質量 1 kg の物体を基準面から高さ 5 m の位置まで持ち上げた。物体がもつ重力による位置エネルギー U は何 J か（g = 9.8 m/s²）。",
+    "choices": [
+      "49 J",
+      "59 J",
+      "39 J",
+      "5 J"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "重力による位置エネルギー公式 U = mgh を用います。"
+    ],
+    "explanation": "U = mgh より、U = 1 × 9.8 × 5 = 49 J です。",
+    "tags": [
+      "物理",
+      "仕事と力学的エネルギー",
+      "位置エネルギー",
+      "力学的エネルギー"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "physics_199",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "波動と音波",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "音速 V = 340 m/s の空気中を伝わる振動数 f = 400 Hz の音波の波長 λ は約何 m か。",
+    "choices": [
+      "0.85 m",
+      "1.27 m",
+      "0.59 m",
+      "1.1764705882352942 m"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "波の基本式 V = fλ を λ について解きます。"
+    ],
+    "explanation": "波の基本式 V = fλ より、λ = V / f = 340 / 400 ≒ 0.85 m です。",
+    "tags": [
+      "物理",
+      "波動と音波",
+      "波動",
+      "音速",
+      "波の基本式"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "physics_200",
+    "subjectId": "physics",
+    "subjectName": "物理",
+    "course": "物理",
+    "unit": "電磁気・オームの法則",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "抵抗値 2 Ω と 6 Ω の2つの抵抗を直列に接続したときの合成抵抗 R はいくらか。",
+    "choices": [
+      "8 Ω",
+      "1.5 Ω",
+      "12 Ω",
+      "4 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "直列接続の合成抵抗は単純に各抵抗の和 R = R₁ + R₂ となります。"
+    ],
+    "explanation": "直列接続における合成抵抗は R = R₁ + R₂ = 2 + 6 = 8 Ω です。並列の場合は 1/R = 1/R₁ + 1/R₂ となります。",
+    "tags": [
+      "物理",
+      "電磁気・オームの法則",
+      "電磁気",
+      "回路",
+      "合成抵抗"
+    ],
+    "baseXp": 129
+  }
+]

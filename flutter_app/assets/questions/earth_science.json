@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "earth_science_1",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "earth_science_2",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "earth_science_3",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "earth_science_4",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "earth_science_5",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "earth_science_6",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "earth_science_7",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "earth_science_8",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "earth_science_9",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "earth_science_10",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "earth_science_11",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "earth_science_12",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "earth_science_13",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "earth_science_14",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "earth_science_15",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "earth_science_16",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "earth_science_17",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "earth_science_18",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "earth_science_19",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "earth_science_20",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "earth_science_21",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "earth_science_22",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "earth_science_23",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "earth_science_24",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "earth_science_25",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "earth_science_26",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "earth_science_27",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "earth_science_28",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "earth_science_29",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "earth_science_30",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "earth_science_31",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "earth_science_32",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "earth_science_33",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "earth_science_34",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "earth_science_35",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "earth_science_36",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "earth_science_37",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "earth_science_38",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "earth_science_39",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "earth_science_40",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "earth_science_41",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "earth_science_42",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "earth_science_43",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "earth_science_44",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "earth_science_45",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "earth_science_46",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "earth_science_47",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "earth_science_48",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "earth_science_49",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "earth_science_50",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "earth_science_51",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "earth_science_52",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "earth_science_53",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "earth_science_54",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "earth_science_55",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "earth_science_56",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "earth_science_57",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "earth_science_58",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "earth_science_59",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "earth_science_60",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "earth_science_61",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "earth_science_62",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "earth_science_63",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "earth_science_64",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "earth_science_65",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "earth_science_66",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "earth_science_67",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "earth_science_68",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "earth_science_69",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "earth_science_70",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "earth_science_71",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "earth_science_72",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "earth_science_73",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "earth_science_74",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "earth_science_75",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "earth_science_76",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "earth_science_77",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "earth_science_78",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "earth_science_79",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "earth_science_80",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "earth_science_81",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "earth_science_82",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "earth_science_83",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "earth_science_84",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "earth_science_85",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "earth_science_86",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "earth_science_87",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "earth_science_88",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "earth_science_89",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "earth_science_90",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "earth_science_91",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "earth_science_92",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "earth_science_93",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "earth_science_94",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "earth_science_95",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "earth_science_96",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "earth_science_97",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "earth_science_98",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "earth_science_99",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "earth_science_100",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "earth_science_101",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "earth_science_102",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "earth_science_103",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "earth_science_104",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "earth_science_105",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "earth_science_106",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "earth_science_107",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "earth_science_108",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "earth_science_109",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "earth_science_110",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "earth_science_111",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "earth_science_112",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "earth_science_113",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "earth_science_114",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "earth_science_115",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "earth_science_116",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "earth_science_117",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "earth_science_118",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "earth_science_119",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "earth_science_120",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "earth_science_121",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "earth_science_122",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "earth_science_123",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "earth_science_124",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "earth_science_125",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "earth_science_126",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "earth_science_127",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "earth_science_128",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "earth_science_129",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "earth_science_130",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "earth_science_131",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "earth_science_132",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "earth_science_133",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "earth_science_134",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "earth_science_135",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "earth_science_136",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "earth_science_137",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "earth_science_138",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "earth_science_139",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "earth_science_140",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "earth_science_141",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "earth_science_142",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "earth_science_143",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "earth_science_144",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "earth_science_145",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "earth_science_146",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "earth_science_147",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "earth_science_148",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "earth_science_149",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "earth_science_150",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "earth_science_151",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "earth_science_152",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "earth_science_153",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "earth_science_154",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "earth_science_155",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "earth_science_156",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "earth_science_157",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "earth_science_158",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "earth_science_159",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "earth_science_160",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "earth_science_161",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "earth_science_162",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "earth_science_163",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "earth_science_164",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "earth_science_165",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "earth_science_166",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "earth_science_167",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "earth_science_168",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "earth_science_169",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "earth_science_170",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "earth_science_171",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "earth_science_172",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "earth_science_173",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "earth_science_174",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "earth_science_175",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "earth_science_176",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "earth_science_177",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "earth_science_178",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "earth_science_179",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "earth_science_180",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "earth_science_181",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "earth_science_182",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "earth_science_183",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "earth_science_184",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "earth_science_185",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "earth_science_186",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "earth_science_187",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "earth_science_188",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "earth_science_189",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "earth_science_190",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "earth_science_191",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "earth_science_192",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "earth_science_193",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "earth_science_194",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "earth_science_195",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "earth_science_196",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "earth_science_197",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "earth_science_198",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "地球内部構造において、「地殻とマントルの境界」の境界面の名称はどれか。",
+    "choices": [
+      "モホ不連続面 (モホ面)",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「地殻とマントルの境界」は モホ不連続面 (モホ面) と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "earth_science_199",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "地球内部構造において、「マントルと外核（深さ約2900km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "グーテンベルク不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「マントルと外核（深さ約2900km）の境界」は グーテンベルク不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "earth_science_200",
+    "subjectId": "earth_science",
+    "subjectName": "地学",
+    "course": "地学基礎",
+    "unit": "地球の構造とプレート",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "地球内部構造において、「液体の外核と固体の内核（深さ約5100km）の境界」の境界面の名称はどれか。",
+    "choices": [
+      "レーマン不連続面",
+      "アセノスフェア",
+      "リソスフェア",
+      "プレート境界"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "地震波速度が急変する境界です。"
+    ],
+    "explanation": "「液体の外核と固体の内核（深さ約5100km）の境界」は レーマン不連続面 と命名されています。",
+    "tags": [
+      "地学",
+      "地球の構造とプレート",
+      "地球構造",
+      "不連続面"
+    ],
+    "baseXp": 129
+  }
+]

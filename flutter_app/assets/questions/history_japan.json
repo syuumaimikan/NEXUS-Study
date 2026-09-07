@@ -1,0 +1,5802 @@
+[
+  {
+    "id": "history_japan_1",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "history_japan_2",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "history_japan_3",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "history_japan_4",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "history_japan_5",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "history_japan_6",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "history_japan_7",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "history_japan_8",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "history_japan_9",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "history_japan_10",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "history_japan_11",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "history_japan_12",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "history_japan_13",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "history_japan_14",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "history_japan_15",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "history_japan_16",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "history_japan_17",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "history_japan_18",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "history_japan_19",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "history_japan_20",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "history_japan_21",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "history_japan_22",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "history_japan_23",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "history_japan_24",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "history_japan_25",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "history_japan_26",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "history_japan_27",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "history_japan_28",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "history_japan_29",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "history_japan_30",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "history_japan_31",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "history_japan_32",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "history_japan_33",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "history_japan_34",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "history_japan_35",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "history_japan_36",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "history_japan_37",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "history_japan_38",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "history_japan_39",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "history_japan_40",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "history_japan_41",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "history_japan_42",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "history_japan_43",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "history_japan_44",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "history_japan_45",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "history_japan_46",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "history_japan_47",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "history_japan_48",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "history_japan_49",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "history_japan_50",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "history_japan_51",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "history_japan_52",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "history_japan_53",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "history_japan_54",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "history_japan_55",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "history_japan_56",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "history_japan_57",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "history_japan_58",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "history_japan_59",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "history_japan_60",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "history_japan_61",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "history_japan_62",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "history_japan_63",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "history_japan_64",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "history_japan_65",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "history_japan_66",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "history_japan_67",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "history_japan_68",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "history_japan_69",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "history_japan_70",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "history_japan_71",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "history_japan_72",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "history_japan_73",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "history_japan_74",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "history_japan_75",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "history_japan_76",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "history_japan_77",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "history_japan_78",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "history_japan_79",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "history_japan_80",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "history_japan_81",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "history_japan_82",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "history_japan_83",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "history_japan_84",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "history_japan_85",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "history_japan_86",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "history_japan_87",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "history_japan_88",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "history_japan_89",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "history_japan_90",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "history_japan_91",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "history_japan_92",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "history_japan_93",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "history_japan_94",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "history_japan_95",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "history_japan_96",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "history_japan_97",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "history_japan_98",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "history_japan_99",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "history_japan_100",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "history_japan_101",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "history_japan_102",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "history_japan_103",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "history_japan_104",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "history_japan_105",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "history_japan_106",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "history_japan_107",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "history_japan_108",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "history_japan_109",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "history_japan_110",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "history_japan_111",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "history_japan_112",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "history_japan_113",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "history_japan_114",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "history_japan_115",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "history_japan_116",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "history_japan_117",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "history_japan_118",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "history_japan_119",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "history_japan_120",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "history_japan_121",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "history_japan_122",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "history_japan_123",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "history_japan_124",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "history_japan_125",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "history_japan_126",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "history_japan_127",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "history_japan_128",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "history_japan_129",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "history_japan_130",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "history_japan_131",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "history_japan_132",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "history_japan_133",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "history_japan_134",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "history_japan_135",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "history_japan_136",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "history_japan_137",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "history_japan_138",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "history_japan_139",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "history_japan_140",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "history_japan_141",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "history_japan_142",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "history_japan_143",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "history_japan_144",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "history_japan_145",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "history_japan_146",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "history_japan_147",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "history_japan_148",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "history_japan_149",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "history_japan_150",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "history_japan_151",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "history_japan_152",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "history_japan_153",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "history_japan_154",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "history_japan_155",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "history_japan_156",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "history_japan_157",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "history_japan_158",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "history_japan_159",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "history_japan_160",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "history_japan_161",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "history_japan_162",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "history_japan_163",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "history_japan_164",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "history_japan_165",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "history_japan_166",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "history_japan_167",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "history_japan_168",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "history_japan_169",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "history_japan_170",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "history_japan_171",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "history_japan_172",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "history_japan_173",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "history_japan_174",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "history_japan_175",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "history_japan_176",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "history_japan_177",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "history_japan_178",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "history_japan_179",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "history_japan_180",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "history_japan_181",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "history_japan_182",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "history_japan_183",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "history_japan_184",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "history_japan_185",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "history_japan_186",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "history_japan_187",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "history_japan_188",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "history_japan_189",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "history_japan_190",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "history_japan_191",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "history_japan_192",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "history_japan_193",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "history_japan_194",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "history_japan_195",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "history_japan_196",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "日本史において 701年 に 刑部親王・藤原不比等 らによって起きた「二官八省・国郡里制を確立」出来事はどれか。",
+    "choices": [
+      "大宝律令の制定",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 701年 です。"
+    ],
+    "explanation": "701年、刑部親王・藤原不比等 により「大宝律令の制定」が起こりました（二官八省・国郡里制を確立）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "history_japan_197",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "日本史において 794年 に 桓武天皇 らによって起きた「長岡京から平安京へ都を移す」出来事はどれか。",
+    "choices": [
+      "平安京遷都",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 794年 です。"
+    ],
+    "explanation": "794年、桓武天皇 により「平安京遷都」が起こりました（長岡京から平安京へ都を移す）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "history_japan_198",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "日本史において 1185年 に 源頼朝・源義経 らによって起きた「守護・地頭の設置公認を経て鎌倉幕府へ」出来事はどれか。",
+    "choices": [
+      "壇ノ浦の戦い・平氏滅亡",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1185年 です。"
+    ],
+    "explanation": "1185年、源頼朝・源義経 により「壇ノ浦の戦い・平氏滅亡」が起こりました（守護・地頭の設置公認を経て鎌倉幕府へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "history_japan_199",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "日本史において 1603年 に 徳川家康 らによって起きた「江戸幕府を開府し260年の泰平へ」出来事はどれか。",
+    "choices": [
+      "徳川家康が征夷大将軍に就任",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 1603年 です。"
+    ],
+    "explanation": "1603年、徳川家康 により「徳川家康が征夷大将軍に就任」が起こりました（江戸幕府を開府し260年の泰平へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "history_japan_200",
+    "subjectId": "history_japan",
+    "subjectName": "日本史",
+    "course": "日本史探究",
+    "unit": "日本史探究・古代〜近世",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "日本史において 645年 に 中大兄皇子・中臣鎌足 らによって起きた「蘇我入鹿を暗殺し律令国家建設へ」出来事はどれか。",
+    "choices": [
+      "大化の改新（乙巳の変）",
+      "承久の乱",
+      "保元・平治の乱",
+      "建武の新政"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年代は 645年 です。"
+    ],
+    "explanation": "645年、中大兄皇子・中臣鎌足 により「大化の改新（乙巳の変）」が起こりました（蘇我入鹿を暗殺し律令国家建設へ）。",
+    "tags": [
+      "日本史",
+      "日本史探究・古代〜近世",
+      "日本史",
+      "年号",
+      "重要人物"
+    ],
+    "baseXp": 129
+  }
+]

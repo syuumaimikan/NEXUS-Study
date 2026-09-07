@@ -1,0 +1,5542 @@
+[
+  {
+    "id": "math_quad_1",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "2次関数 y = 2x² -8x +8 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, 0)",
+      "頂点 (-2, 0)",
+      "頂点 (2, 0)",
+      "頂点 (3, -2)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 4x) + 8 と変形し、平方完成を行います。",
+      "y = 2(x - 2)² + (0) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 4x) + 8 = 2{(x - 2)² - 4} + 8 = 2(x - 2)² + (0) となります。したがって頂点の座標は (2, 0) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_2",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 52,
+    "questionBody": "2次関数 y = 3x² -18x +30 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, 3)",
+      "頂点 (-3, 3)",
+      "頂点 (3, -3)",
+      "頂点 (4, 1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 6x) + 30 と変形し、平方完成を行います。",
+      "y = 3(x - 3)² + (3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 6x) + 30 = 3{(x - 3)² - 9} + 30 = 3(x - 3)² + (3) となります。したがって頂点の座標は (3, 3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_3",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "2次関数 y = x² -8x +15 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, -1)",
+      "頂点 (-4, -1)",
+      "頂点 (4, 1)",
+      "頂点 (5, -3)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 8x) + 15 と変形し、平方完成を行います。",
+      "y = 1(x - 4)² + (-1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 8x) + 15 = 1{(x - 4)² - 16} + 15 = 1(x - 4)² + (-1) となります。したがって頂点の座標は (4, -1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_4",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 54,
+    "questionBody": "2次関数 y = 2x² -20x +52 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, 2)",
+      "頂点 (-5, 2)",
+      "頂点 (5, -2)",
+      "頂点 (6, 0)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 10x) + 52 と変形し、平方完成を行います。",
+      "y = 2(x - 5)² + (2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 10x) + 52 = 2{(x - 5)² - 25} + 52 = 2(x - 5)² + (2) となります。したがって頂点の座標は (5, 2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_5",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "2次関数 y = 3x² -6x +1 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, -2)",
+      "頂点 (-1, -2)",
+      "頂点 (1, 2)",
+      "頂点 (2, -4)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 2x) + 1 と変形し、平方完成を行います。",
+      "y = 3(x - 1)² + (-2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 2x) + 1 = 3{(x - 1)² - 1} + 1 = 3(x - 1)² + (-2) となります。したがって頂点の座標は (1, -2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_6",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "2次関数 y = x² -4x +5 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, 1)",
+      "頂点 (-2, 1)",
+      "頂点 (2, -1)",
+      "頂点 (3, -1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 4x) + 5 と変形し、平方完成を行います。",
+      "y = 1(x - 2)² + (1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 4x) + 5 = 1{(x - 2)² - 4} + 5 = 1(x - 2)² + (1) となります。したがって頂点の座標は (2, 1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_7",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "2次関数 y = 2x² -12x +15 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, -3)",
+      "頂点 (-3, -3)",
+      "頂点 (3, 3)",
+      "頂点 (4, -5)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 6x) + 15 と変形し、平方完成を行います。",
+      "y = 2(x - 3)² + (-3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 6x) + 15 = 2{(x - 3)² - 9} + 15 = 2(x - 3)² + (-3) となります。したがって頂点の座標は (3, -3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_8",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 58,
+    "questionBody": "2次関数 y = 3x² -24x +48 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, 0)",
+      "頂点 (-4, 0)",
+      "頂点 (4, 0)",
+      "頂点 (5, -2)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 8x) + 48 と変形し、平方完成を行います。",
+      "y = 3(x - 4)² + (0) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 8x) + 48 = 3{(x - 4)² - 16} + 48 = 3(x - 4)² + (0) となります。したがって頂点の座標は (4, 0) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_9",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "2次関数 y = x² -10x +28 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, 3)",
+      "頂点 (-5, 3)",
+      "頂点 (5, -3)",
+      "頂点 (6, 1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 10x) + 28 と変形し、平方完成を行います。",
+      "y = 1(x - 5)² + (3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 10x) + 28 = 1{(x - 5)² - 25} + 28 = 1(x - 5)² + (3) となります。したがって頂点の座標は (5, 3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_10",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 60,
+    "questionBody": "2次関数 y = 2x² -4x +1 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, -1)",
+      "頂点 (-1, -1)",
+      "頂点 (1, 1)",
+      "頂点 (2, -3)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 2x) + 1 と変形し、平方完成を行います。",
+      "y = 2(x - 1)² + (-1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 2x) + 1 = 2{(x - 1)² - 1} + 1 = 2(x - 1)² + (-1) となります。したがって頂点の座標は (1, -1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_11",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "2次関数 y = 3x² -12x +14 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, 2)",
+      "頂点 (-2, 2)",
+      "頂点 (2, -2)",
+      "頂点 (3, 0)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 4x) + 14 と変形し、平方完成を行います。",
+      "y = 3(x - 2)² + (2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 4x) + 14 = 3{(x - 2)² - 4} + 14 = 3(x - 2)² + (2) となります。したがって頂点の座標は (2, 2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_12",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "2次関数 y = x² -6x +7 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, -2)",
+      "頂点 (-3, -2)",
+      "頂点 (3, 2)",
+      "頂点 (4, -4)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 6x) + 7 と変形し、平方完成を行います。",
+      "y = 1(x - 3)² + (-2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 6x) + 7 = 1{(x - 3)² - 9} + 7 = 1(x - 3)² + (-2) となります。したがって頂点の座標は (3, -2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_13",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "2次関数 y = 2x² -16x +33 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, 1)",
+      "頂点 (-4, 1)",
+      "頂点 (4, -1)",
+      "頂点 (5, -1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 8x) + 33 と変形し、平方完成を行います。",
+      "y = 2(x - 4)² + (1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 8x) + 33 = 2{(x - 4)² - 16} + 33 = 2(x - 4)² + (1) となります。したがって頂点の座標は (4, 1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_14",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 64,
+    "questionBody": "2次関数 y = 3x² -30x +72 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, -3)",
+      "頂点 (-5, -3)",
+      "頂点 (5, 3)",
+      "頂点 (6, -5)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 10x) + 72 と変形し、平方完成を行います。",
+      "y = 3(x - 5)² + (-3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 10x) + 72 = 3{(x - 5)² - 25} + 72 = 3(x - 5)² + (-3) となります。したがって頂点の座標は (5, -3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_15",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "2次関数 y = x² -2x +1 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, 0)",
+      "頂点 (-1, 0)",
+      "頂点 (1, 0)",
+      "頂点 (2, -2)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 2x) + 1 と変形し、平方完成を行います。",
+      "y = 1(x - 1)² + (0) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 2x) + 1 = 1{(x - 1)² - 1} + 1 = 1(x - 1)² + (0) となります。したがって頂点の座標は (1, 0) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_16",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "2次関数 y = 2x² -8x +11 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, 3)",
+      "頂点 (-2, 3)",
+      "頂点 (2, -3)",
+      "頂点 (3, 1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 4x) + 11 と変形し、平方完成を行います。",
+      "y = 2(x - 2)² + (3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 4x) + 11 = 2{(x - 2)² - 4} + 11 = 2(x - 2)² + (3) となります。したがって頂点の座標は (2, 3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_17",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 52,
+    "questionBody": "2次関数 y = 3x² -18x +26 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, -1)",
+      "頂点 (-3, -1)",
+      "頂点 (3, 1)",
+      "頂点 (4, -3)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 6x) + 26 と変形し、平方完成を行います。",
+      "y = 3(x - 3)² + (-1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 6x) + 26 = 3{(x - 3)² - 9} + 26 = 3(x - 3)² + (-1) となります。したがって頂点の座標は (3, -1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_18",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "2次関数 y = x² -8x +18 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, 2)",
+      "頂点 (-4, 2)",
+      "頂点 (4, -2)",
+      "頂点 (5, 0)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 8x) + 18 と変形し、平方完成を行います。",
+      "y = 1(x - 4)² + (2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 8x) + 18 = 1{(x - 4)² - 16} + 18 = 1(x - 4)² + (2) となります。したがって頂点の座標は (4, 2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_19",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 54,
+    "questionBody": "2次関数 y = 2x² -20x +48 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, -2)",
+      "頂点 (-5, -2)",
+      "頂点 (5, 2)",
+      "頂点 (6, -4)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 10x) + 48 と変形し、平方完成を行います。",
+      "y = 2(x - 5)² + (-2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 10x) + 48 = 2{(x - 5)² - 25} + 48 = 2(x - 5)² + (-2) となります。したがって頂点の座標は (5, -2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_20",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "2次関数 y = 3x² -6x +4 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, 1)",
+      "頂点 (-1, 1)",
+      "頂点 (1, -1)",
+      "頂点 (2, -1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 2x) + 4 と変形し、平方完成を行います。",
+      "y = 3(x - 1)² + (1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 2x) + 4 = 3{(x - 1)² - 1} + 4 = 3(x - 1)² + (1) となります。したがって頂点の座標は (1, 1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_21",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "2次関数 y = x² -4x +1 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, -3)",
+      "頂点 (-2, -3)",
+      "頂点 (2, 3)",
+      "頂点 (3, -5)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 4x) + 1 と変形し、平方完成を行います。",
+      "y = 1(x - 2)² + (-3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 4x) + 1 = 1{(x - 2)² - 4} + 1 = 1(x - 2)² + (-3) となります。したがって頂点の座標は (2, -3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_22",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "2次関数 y = 2x² -12x +18 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, 0)",
+      "頂点 (-3, 0)",
+      "頂点 (3, 0)",
+      "頂点 (4, -2)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 6x) + 18 と変形し、平方完成を行います。",
+      "y = 2(x - 3)² + (0) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 6x) + 18 = 2{(x - 3)² - 9} + 18 = 2(x - 3)² + (0) となります。したがって頂点の座標は (3, 0) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_23",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 58,
+    "questionBody": "2次関数 y = 3x² -24x +51 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, 3)",
+      "頂点 (-4, 3)",
+      "頂点 (4, -3)",
+      "頂点 (5, 1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 8x) + 51 と変形し、平方完成を行います。",
+      "y = 3(x - 4)² + (3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 8x) + 51 = 3{(x - 4)² - 16} + 51 = 3(x - 4)² + (3) となります。したがって頂点の座標は (4, 3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_24",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "2次関数 y = x² -10x +24 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, -1)",
+      "頂点 (-5, -1)",
+      "頂点 (5, 1)",
+      "頂点 (6, -3)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 10x) + 24 と変形し、平方完成を行います。",
+      "y = 1(x - 5)² + (-1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 10x) + 24 = 1{(x - 5)² - 25} + 24 = 1(x - 5)² + (-1) となります。したがって頂点の座標は (5, -1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_25",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 60,
+    "questionBody": "2次関数 y = 2x² -4x +4 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, 2)",
+      "頂点 (-1, 2)",
+      "頂点 (1, -2)",
+      "頂点 (2, 0)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 2x) + 4 と変形し、平方完成を行います。",
+      "y = 2(x - 1)² + (2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 2x) + 4 = 2{(x - 1)² - 1} + 4 = 2(x - 1)² + (2) となります。したがって頂点の座標は (1, 2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_26",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "2次関数 y = 3x² -12x +10 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, -2)",
+      "頂点 (-2, -2)",
+      "頂点 (2, 2)",
+      "頂点 (3, -4)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 4x) + 10 と変形し、平方完成を行います。",
+      "y = 3(x - 2)² + (-2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 4x) + 10 = 3{(x - 2)² - 4} + 10 = 3(x - 2)² + (-2) となります。したがって頂点の座標は (2, -2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_27",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "2次関数 y = x² -6x +10 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, 1)",
+      "頂点 (-3, 1)",
+      "頂点 (3, -1)",
+      "頂点 (4, -1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 6x) + 10 と変形し、平方完成を行います。",
+      "y = 1(x - 3)² + (1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 6x) + 10 = 1{(x - 3)² - 9} + 10 = 1(x - 3)² + (1) となります。したがって頂点の座標は (3, 1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_28",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "2次関数 y = 2x² -16x +29 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, -3)",
+      "頂点 (-4, -3)",
+      "頂点 (4, 3)",
+      "頂点 (5, -5)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 8x) + 29 と変形し、平方完成を行います。",
+      "y = 2(x - 4)² + (-3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 8x) + 29 = 2{(x - 4)² - 16} + 29 = 2(x - 4)² + (-3) となります。したがって頂点の座標は (4, -3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_29",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 64,
+    "questionBody": "2次関数 y = 3x² -30x +75 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, 0)",
+      "頂点 (-5, 0)",
+      "頂点 (5, 0)",
+      "頂点 (6, -2)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 10x) + 75 と変形し、平方完成を行います。",
+      "y = 3(x - 5)² + (0) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 10x) + 75 = 3{(x - 5)² - 25} + 75 = 3(x - 5)² + (0) となります。したがって頂点の座標は (5, 0) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_30",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "2次関数 y = x² -2x +4 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, 3)",
+      "頂点 (-1, 3)",
+      "頂点 (1, -3)",
+      "頂点 (2, 1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 2x) + 4 と変形し、平方完成を行います。",
+      "y = 1(x - 1)² + (3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 2x) + 4 = 1{(x - 1)² - 1} + 4 = 1(x - 1)² + (3) となります。したがって頂点の座標は (1, 3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_31",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "2次関数 y = 2x² -8x +7 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (2, -1)",
+      "頂点 (-2, -1)",
+      "頂点 (2, 1)",
+      "頂点 (3, -3)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 4x) + 7 と変形し、平方完成を行います。",
+      "y = 2(x - 2)² + (-1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 4x) + 7 = 2{(x - 2)² - 4} + 7 = 2(x - 2)² + (-1) となります。したがって頂点の座標は (2, -1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_32",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 52,
+    "questionBody": "2次関数 y = 3x² -18x +29 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (3, 2)",
+      "頂点 (-3, 2)",
+      "頂点 (3, -2)",
+      "頂点 (4, 0)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 6x) + 29 と変形し、平方完成を行います。",
+      "y = 3(x - 3)² + (2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 6x) + 29 = 3{(x - 3)² - 9} + 29 = 3(x - 3)² + (2) となります。したがって頂点の座標は (3, 2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_33",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "2次関数 y = x² -8x +14 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (4, -2)",
+      "頂点 (-4, -2)",
+      "頂点 (4, 2)",
+      "頂点 (5, -4)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 1(x² - 8x) + 14 と変形し、平方完成を行います。",
+      "y = 1(x - 4)² + (-2) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 1(x² - 8x) + 14 = 1{(x - 4)² - 16} + 14 = 1(x - 4)² + (-2) となります。したがって頂点の座標は (4, -2) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_34",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 54,
+    "questionBody": "2次関数 y = 2x² -20x +51 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (5, 1)",
+      "頂点 (-5, 1)",
+      "頂点 (5, -1)",
+      "頂点 (6, -1)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 2(x² - 10x) + 51 と変形し、平方完成を行います。",
+      "y = 2(x - 5)² + (1) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 2(x² - 10x) + 51 = 2{(x - 5)² - 25} + 51 = 2(x - 5)² + (1) となります。したがって頂点の座標は (5, 1) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_quad_35",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "2次関数",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "2次関数 y = 3x² -6x +0 の頂点の座標として正しいものはどれか。",
+    "choices": [
+      "頂点 (1, -3)",
+      "頂点 (-1, -3)",
+      "頂点 (1, 3)",
+      "頂点 (2, -5)"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "y = 3(x² - 2x) + 0 と変形し、平方完成を行います。",
+      "y = 3(x - 1)² + (-3) となります。"
+    ],
+    "explanation": "与式を変形すると、y = 3(x² - 2x) + 0 = 3{(x - 1)² - 1} + 0 = 3(x - 1)² + (-3) となります。したがって頂点の座標は (1, -3) です。",
+    "tags": [
+      "数学I",
+      "2次関数",
+      "平方完成",
+      "頂点"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_trig_1",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "三角比 sin 45° の値として正しいものはどれか。",
+    "choices": [
+      "1 / √2",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 45° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 45° の点の座標を考えると、cos 45° = 1 / √2、sin 45° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_2",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 54,
+    "questionBody": "三角比 cos 60° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "√3 / 2",
+      "- 1 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 60° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 60° の点の座標を考えると、cos 60° = 1 / 2、sin 60° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_3",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "三角比 sin 120° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "-1 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 120° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 120° の点の座標を考えると、cos 120° = -1 / 2、sin 120° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_4",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "三角比 cos 135° の値として正しいものはどれか。",
+    "choices": [
+      "-1 / √2",
+      "1 / √2",
+      "- -1 / √2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 135° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 135° の点の座標を考えると、cos 135° = -1 / √2、sin 135° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_5",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "三角比 sin 150° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "-√3 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 150° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 150° の点の座標を考えると、cos 150° = -√3 / 2、sin 150° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_6",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 58,
+    "questionBody": "三角比 cos 30° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "1 / 2",
+      "- √3 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 30° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 30° の点の座標を考えると、cos 30° = √3 / 2、sin 30° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_7",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "三角比 sin 45° の値として正しいものはどれか。",
+    "choices": [
+      "1 / √2",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 45° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 45° の点の座標を考えると、cos 45° = 1 / √2、sin 45° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_8",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 60,
+    "questionBody": "三角比 cos 60° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "√3 / 2",
+      "- 1 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 60° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 60° の点の座標を考えると、cos 60° = 1 / 2、sin 60° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_9",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "三角比 sin 120° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "-1 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 120° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 120° の点の座標を考えると、cos 120° = -1 / 2、sin 120° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_10",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "三角比 cos 135° の値として正しいものはどれか。",
+    "choices": [
+      "-1 / √2",
+      "1 / √2",
+      "- -1 / √2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 135° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 135° の点の座標を考えると、cos 135° = -1 / √2、sin 135° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_11",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "三角比 sin 150° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "-√3 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 150° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 150° の点の座標を考えると、cos 150° = -√3 / 2、sin 150° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_12",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 52,
+    "questionBody": "三角比 cos 30° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "1 / 2",
+      "- √3 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 30° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 30° の点の座標を考えると、cos 30° = √3 / 2、sin 30° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_13",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "三角比 sin 45° の値として正しいものはどれか。",
+    "choices": [
+      "1 / √2",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 45° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 45° の点の座標を考えると、cos 45° = 1 / √2、sin 45° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_14",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 54,
+    "questionBody": "三角比 cos 60° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "√3 / 2",
+      "- 1 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 60° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 60° の点の座標を考えると、cos 60° = 1 / 2、sin 60° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_15",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "三角比 sin 120° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "-1 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 120° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 120° の点の座標を考えると、cos 120° = -1 / 2、sin 120° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_16",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "三角比 cos 135° の値として正しいものはどれか。",
+    "choices": [
+      "-1 / √2",
+      "1 / √2",
+      "- -1 / √2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 135° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 135° の点の座標を考えると、cos 135° = -1 / √2、sin 135° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_17",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "三角比 sin 150° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "-√3 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 150° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 150° の点の座標を考えると、cos 150° = -√3 / 2、sin 150° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_18",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 58,
+    "questionBody": "三角比 cos 30° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "1 / 2",
+      "- √3 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 30° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 30° の点の座標を考えると、cos 30° = √3 / 2、sin 30° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_19",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "三角比 sin 45° の値として正しいものはどれか。",
+    "choices": [
+      "1 / √2",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 45° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 45° の点の座標を考えると、cos 45° = 1 / √2、sin 45° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_20",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 60,
+    "questionBody": "三角比 cos 60° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "√3 / 2",
+      "- 1 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 60° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 60° の点の座標を考えると、cos 60° = 1 / 2、sin 60° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_21",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "三角比 sin 120° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "-1 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 120° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 120° の点の座標を考えると、cos 120° = -1 / 2、sin 120° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_22",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "三角比 cos 135° の値として正しいものはどれか。",
+    "choices": [
+      "-1 / √2",
+      "1 / √2",
+      "- -1 / √2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 135° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 135° の点の座標を考えると、cos 135° = -1 / √2、sin 135° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_23",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "三角比 sin 150° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "-√3 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 150° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 150° の点の座標を考えると、cos 150° = -√3 / 2、sin 150° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_24",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 52,
+    "questionBody": "三角比 cos 30° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "1 / 2",
+      "- √3 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 30° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 30° の点の座標を考えると、cos 30° = √3 / 2、sin 30° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_25",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "三角比 sin 45° の値として正しいものはどれか。",
+    "choices": [
+      "1 / √2",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 45° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 45° の点の座標を考えると、cos 45° = 1 / √2、sin 45° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_26",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 54,
+    "questionBody": "三角比 cos 60° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "√3 / 2",
+      "- 1 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 60° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 60° の点の座標を考えると、cos 60° = 1 / 2、sin 60° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_27",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "三角比 sin 120° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "-1 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 120° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 120° の点の座標を考えると、cos 120° = -1 / 2、sin 120° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_28",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "三角比 cos 135° の値として正しいものはどれか。",
+    "choices": [
+      "-1 / √2",
+      "1 / √2",
+      "- -1 / √2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 135° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 135° の点の座標を考えると、cos 135° = -1 / √2、sin 135° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_29",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "三角比 sin 150° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "-√3 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 150° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 150° の点の座標を考えると、cos 150° = -√3 / 2、sin 150° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_30",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 58,
+    "questionBody": "三角比 cos 30° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "1 / 2",
+      "- √3 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 30° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 30° の点の座標を考えると、cos 30° = √3 / 2、sin 30° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_31",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "三角比 sin 45° の値として正しいものはどれか。",
+    "choices": [
+      "1 / √2",
+      "-1",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 45° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 45° の点の座標を考えると、cos 45° = 1 / √2、sin 45° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_32",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "C",
+    "estimatedDeviation": 60,
+    "questionBody": "三角比 cos 60° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "√3 / 2",
+      "- 1 / 2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 60° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 60° の点の座標を考えると、cos 60° = 1 / 2、sin 60° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_33",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "三角比 sin 120° の値として正しいものはどれか。",
+    "choices": [
+      "√3 / 2",
+      "-1 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 120° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 120° の点の座標を考えると、cos 120° = -1 / 2、sin 120° = √3 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_34",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "三角比 cos 135° の値として正しいものはどれか。",
+    "choices": [
+      "-1 / √2",
+      "1 / √2",
+      "- -1 / √2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 135° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 135° の点の座標を考えると、cos 135° = -1 / √2、sin 135° = 1 / √2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_trig_35",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学I",
+    "unit": "三角比",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "三角比 sin 150° の値として正しいものはどれか。",
+    "choices": [
+      "1 / 2",
+      "-√3 / 2",
+      "0",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "単位円上の座標 (cos θ, sin θ) を考えて角度 150° の位置を確認します。"
+    ],
+    "explanation": "単位円上において、動径が x 軸の正の向きとなす角 150° の点の座標を考えると、cos 150° = -√3 / 2、sin 150° = 1 / 2 となります。",
+    "tags": [
+      "数学I",
+      "三角比",
+      "単位円"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "math_prob_1",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "異なる 5 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "10 通り",
+      "15 通り",
+      "20 通り",
+      "7 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 3 個を選ぶ組合せは ₙCᵣ = 5! / (3! × 2!) = 10 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_2",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "異なる 6 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "15 通り",
+      "20 通り",
+      "30 通り",
+      "12 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 4 個を選ぶ組合せは ₙCᵣ = 6! / (4! × 2!) = 15 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_3",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "異なる 7 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "21 通り",
+      "26 通り",
+      "42 通り",
+      "18 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 2 個を選ぶ組合せは ₙCᵣ = 7! / (2! × 5!) = 21 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_4",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "異なる 8 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "56 通り",
+      "61 通り",
+      "112 通り",
+      "53 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 3 個を選ぶ組合せは ₙCᵣ = 8! / (3! × 5!) = 56 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_5",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "異なる 4 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "1 通り",
+      "6 通り",
+      "2 通り",
+      "1 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 4 個を選ぶ組合せは ₙCᵣ = 4! / (4! × 0!) = 1 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_6",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "異なる 5 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "10 通り",
+      "15 通り",
+      "20 通り",
+      "7 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 2 個を選ぶ組合せは ₙCᵣ = 5! / (2! × 3!) = 10 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_7",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "異なる 6 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "20 通り",
+      "25 通り",
+      "40 通り",
+      "17 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 3 個を選ぶ組合せは ₙCᵣ = 6! / (3! × 3!) = 20 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_8",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "異なる 7 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "35 通り",
+      "40 通り",
+      "70 通り",
+      "32 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 4 個を選ぶ組合せは ₙCᵣ = 7! / (4! × 3!) = 35 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_9",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "異なる 8 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "28 通り",
+      "33 通り",
+      "56 通り",
+      "25 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 2 個を選ぶ組合せは ₙCᵣ = 8! / (2! × 6!) = 28 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_10",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "異なる 4 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "4 通り",
+      "9 通り",
+      "8 通り",
+      "1 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 3 個を選ぶ組合せは ₙCᵣ = 4! / (3! × 1!) = 4 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_11",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "異なる 5 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "5 通り",
+      "10 通り",
+      "10 通り",
+      "2 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 4 個を選ぶ組合せは ₙCᵣ = 5! / (4! × 1!) = 5 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_12",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "異なる 6 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "15 通り",
+      "20 通り",
+      "30 通り",
+      "12 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 2 個を選ぶ組合せは ₙCᵣ = 6! / (2! × 4!) = 15 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_13",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "異なる 7 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "35 通り",
+      "40 通り",
+      "70 通り",
+      "32 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 3 個を選ぶ組合せは ₙCᵣ = 7! / (3! × 4!) = 35 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_14",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "異なる 8 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "70 通り",
+      "75 通り",
+      "140 通り",
+      "67 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 4 個を選ぶ組合せは ₙCᵣ = 8! / (4! × 4!) = 70 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_15",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "異なる 4 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "6 通り",
+      "11 通り",
+      "12 通り",
+      "3 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 2 個を選ぶ組合せは ₙCᵣ = 4! / (2! × 2!) = 6 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_16",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "異なる 5 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "10 通り",
+      "15 通り",
+      "20 通り",
+      "7 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 3 個を選ぶ組合せは ₙCᵣ = 5! / (3! × 2!) = 10 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_17",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "異なる 6 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "15 通り",
+      "20 通り",
+      "30 通り",
+      "12 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 4 個を選ぶ組合せは ₙCᵣ = 6! / (4! × 2!) = 15 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_18",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "異なる 7 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "21 通り",
+      "26 通り",
+      "42 通り",
+      "18 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 2 個を選ぶ組合せは ₙCᵣ = 7! / (2! × 5!) = 21 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_19",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "異なる 8 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "56 通り",
+      "61 通り",
+      "112 通り",
+      "53 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 3 個を選ぶ組合せは ₙCᵣ = 8! / (3! × 5!) = 56 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_20",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "異なる 4 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "1 通り",
+      "6 通り",
+      "2 通り",
+      "1 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 4 個を選ぶ組合せは ₙCᵣ = 4! / (4! × 0!) = 1 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_21",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "異なる 5 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "10 通り",
+      "15 通り",
+      "20 通り",
+      "7 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 2 個を選ぶ組合せは ₙCᵣ = 5! / (2! × 3!) = 10 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_22",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "異なる 6 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "20 通り",
+      "25 通り",
+      "40 通り",
+      "17 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 3 個を選ぶ組合せは ₙCᵣ = 6! / (3! × 3!) = 20 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_23",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "異なる 7 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "35 通り",
+      "40 通り",
+      "70 通り",
+      "32 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 4 個を選ぶ組合せは ₙCᵣ = 7! / (4! × 3!) = 35 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_24",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "異なる 8 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "28 通り",
+      "33 通り",
+      "56 通り",
+      "25 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 2 個を選ぶ組合せは ₙCᵣ = 8! / (2! × 6!) = 28 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_25",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "異なる 4 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "4 通り",
+      "9 通り",
+      "8 通り",
+      "1 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 3 個を選ぶ組合せは ₙCᵣ = 4! / (3! × 1!) = 4 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_26",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "異なる 5 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "5 通り",
+      "10 通り",
+      "10 通り",
+      "2 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 4 個を選ぶ組合せは ₙCᵣ = 5! / (4! × 1!) = 5 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_27",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "異なる 6 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "15 通り",
+      "20 通り",
+      "30 通り",
+      "12 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 2 個を選ぶ組合せは ₙCᵣ = 6! / (2! × 4!) = 15 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_28",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "異なる 7 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "35 通り",
+      "40 通り",
+      "70 通り",
+      "32 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 3 個を選ぶ組合せは ₙCᵣ = 7! / (3! × 4!) = 35 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_29",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "異なる 8 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "70 通り",
+      "75 通り",
+      "140 通り",
+      "67 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 4 個を選ぶ組合せは ₙCᵣ = 8! / (4! × 4!) = 70 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_30",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "異なる 4 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "6 通り",
+      "11 通り",
+      "12 通り",
+      "3 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 2 個を選ぶ組合せは ₙCᵣ = 4! / (2! × 2!) = 6 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_31",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "異なる 5 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "10 通り",
+      "15 通り",
+      "20 通り",
+      "7 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 5 個から 3 個を選ぶ組合せは ₙCᵣ = 5! / (3! × 2!) = 10 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_32",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "異なる 6 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "15 通り",
+      "20 通り",
+      "30 通り",
+      "12 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 6 個から 4 個を選ぶ組合せは ₙCᵣ = 6! / (4! × 2!) = 15 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_33",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "異なる 7 人の中から 2 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "21 通り",
+      "26 通り",
+      "42 通り",
+      "18 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 7 個から 2 個を選ぶ組合せは ₙCᵣ = 7! / (2! × 5!) = 21 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_34",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "異なる 8 人の中から 3 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "56 通り",
+      "61 通り",
+      "112 通り",
+      "53 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 8 個から 3 個を選ぶ組合せは ₙCᵣ = 8! / (3! × 5!) = 56 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_prob_35",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学A",
+    "unit": "場合の数と確率",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "異なる 4 人の中から 4 人の代表委員を選ぶ選び方の総数は何通りあるか。",
+    "choices": [
+      "1 通り",
+      "6 通り",
+      "2 通り",
+      "1 通り"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "順序を区別しない組合せの数 ₙCᵣ を計算します。"
+    ],
+    "explanation": "異なる 4 個から 4 個を選ぶ組合せは ₙCᵣ = 4! / (4! × 0!) = 1 通りです。",
+    "tags": [
+      "数学A",
+      "場合の数",
+      "組合せ",
+      "Cの計算"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "math_calc_1",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "関数 f(x) = 2x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "7",
+      "9",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 3 です。x = 1 を代入すると、f'(1) = 4(1) + 3 = 7 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_2",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "関数 f(x) = 3x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "11",
+      "13",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 5 です。x = 1 を代入すると、f'(1) = 6(1) + 5 = 11 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_3",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "関数 f(x) = 4x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "10",
+      "12",
+      "8",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 2 です。x = 1 を代入すると、f'(1) = 8(1) + 2 = 10 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_4",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "関数 f(x) = x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "6",
+      "8",
+      "2",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 4 です。x = 1 を代入すると、f'(1) = 2(1) + 4 = 6 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_5",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "関数 f(x) = 2x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "5",
+      "7",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 1 です。x = 1 を代入すると、f'(1) = 4(1) + 1 = 5 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_6",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "関数 f(x) = 3x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "9",
+      "11",
+      "6",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 3 です。x = 1 を代入すると、f'(1) = 6(1) + 3 = 9 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_7",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "関数 f(x) = 4x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "13",
+      "15",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 5 です。x = 1 を代入すると、f'(1) = 8(1) + 5 = 13 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_8",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "関数 f(x) = x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 2 です。x = 1 を代入すると、f'(1) = 2(1) + 2 = 4 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_9",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "関数 f(x) = 2x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "8",
+      "10",
+      "4",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 4 です。x = 1 を代入すると、f'(1) = 4(1) + 4 = 8 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_10",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "関数 f(x) = 3x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "7",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 1 です。x = 1 を代入すると、f'(1) = 6(1) + 1 = 7 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_11",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "関数 f(x) = 4x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "11",
+      "13",
+      "8",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 3 です。x = 1 を代入すると、f'(1) = 8(1) + 3 = 11 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_12",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "関数 f(x) = x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "7",
+      "9",
+      "2",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 5 です。x = 1 を代入すると、f'(1) = 2(1) + 5 = 7 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_13",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "関数 f(x) = 2x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "6",
+      "8",
+      "4",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 2 です。x = 1 を代入すると、f'(1) = 4(1) + 2 = 6 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_14",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "関数 f(x) = 3x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "10",
+      "12",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 4 です。x = 1 を代入すると、f'(1) = 6(1) + 4 = 10 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_15",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "関数 f(x) = 4x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "9",
+      "11",
+      "8",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 1 です。x = 1 を代入すると、f'(1) = 8(1) + 1 = 9 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_16",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "関数 f(x) = x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "5",
+      "7",
+      "2",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 3 です。x = 1 を代入すると、f'(1) = 2(1) + 3 = 5 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_17",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "関数 f(x) = 2x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "9",
+      "11",
+      "4",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 5 です。x = 1 を代入すると、f'(1) = 4(1) + 5 = 9 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_18",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "関数 f(x) = 3x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "8",
+      "10",
+      "6",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 2 です。x = 1 を代入すると、f'(1) = 6(1) + 2 = 8 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_19",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "関数 f(x) = 4x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "12",
+      "14",
+      "8",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 4 です。x = 1 を代入すると、f'(1) = 8(1) + 4 = 12 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_20",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "関数 f(x) = x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "3",
+      "5",
+      "2",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 1 です。x = 1 を代入すると、f'(1) = 2(1) + 1 = 3 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_21",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "関数 f(x) = 2x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "7",
+      "9",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 3 です。x = 1 を代入すると、f'(1) = 4(1) + 3 = 7 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_22",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "関数 f(x) = 3x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "11",
+      "13",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 5 です。x = 1 を代入すると、f'(1) = 6(1) + 5 = 11 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_23",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "関数 f(x) = 4x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "10",
+      "12",
+      "8",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 2 です。x = 1 を代入すると、f'(1) = 8(1) + 2 = 10 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_24",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "関数 f(x) = x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "6",
+      "8",
+      "2",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 4 です。x = 1 を代入すると、f'(1) = 2(1) + 4 = 6 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_25",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "関数 f(x) = 2x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "5",
+      "7",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 1 です。x = 1 を代入すると、f'(1) = 4(1) + 1 = 5 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_26",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "関数 f(x) = 3x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "9",
+      "11",
+      "6",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 3 です。x = 1 を代入すると、f'(1) = 6(1) + 3 = 9 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_27",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "関数 f(x) = 4x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "13",
+      "15",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 5 です。x = 1 を代入すると、f'(1) = 8(1) + 5 = 13 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_28",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "関数 f(x) = x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 2 です。x = 1 を代入すると、f'(1) = 2(1) + 2 = 4 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_29",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "関数 f(x) = 2x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "8",
+      "10",
+      "4",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 4 です。x = 1 を代入すると、f'(1) = 4(1) + 4 = 8 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_30",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "関数 f(x) = 3x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "7",
+      "9",
+      "6",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 1 です。x = 1 を代入すると、f'(1) = 6(1) + 1 = 7 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_31",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "関数 f(x) = 4x² + 3x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "11",
+      "13",
+      "8",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 3 です。x = 1 を代入すると、f'(1) = 8(1) + 3 = 11 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_32",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "関数 f(x) = x² + 5x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "7",
+      "9",
+      "2",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 2x + 5 です。x = 1 を代入すると、f'(1) = 2(1) + 5 = 7 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_33",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "関数 f(x) = 2x² + 2x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "6",
+      "8",
+      "4",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 4x + 2 です。x = 1 を代入すると、f'(1) = 4(1) + 2 = 6 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_34",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "関数 f(x) = 3x² + 4x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "10",
+      "12",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 6x + 4 です。x = 1 を代入すると、f'(1) = 6(1) + 4 = 10 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_calc_35",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学II",
+    "unit": "微分と積分",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "関数 f(x) = 4x² + 1x の x = 1 における微分係数（接線の傾き）f'(1) はいくらか。",
+    "choices": [
+      "9",
+      "11",
+      "8",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "導関数 f'(x) = 2px + c を求め、x = 1 を代入します。"
+    ],
+    "explanation": "f(x) を微分すると f'(x) = 8x + 1 です。x = 1 を代入すると、f'(1) = 8(1) + 1 = 9 となります。",
+    "tags": [
+      "数学II",
+      "微分",
+      "微分係数",
+      "接線の傾き"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_1",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "初項 a₁ = 2、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "14",
+      "17",
+      "11",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 2 + (n - 1) × 3 です。n = 5 のとき、a₅ = 2 + 4 × 3 = 14 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_2",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初項 a₁ = 3、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "19",
+      "23",
+      "15",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 3 + (n - 1) × 4 です。n = 5 のとき、a₅ = 3 + 4 × 4 = 19 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_3",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "初項 a₁ = 4、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "24",
+      "29",
+      "19",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 4 + (n - 1) × 5 です。n = 5 のとき、a₅ = 4 + 4 × 5 = 24 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_4",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "初項 a₁ = 5、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "13",
+      "15",
+      "11",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 5 + (n - 1) × 2 です。n = 5 のとき、a₅ = 5 + 4 × 2 = 13 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_5",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "初項 a₁ = 1、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "13",
+      "16",
+      "10",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 1 + (n - 1) × 3 です。n = 5 のとき、a₅ = 1 + 4 × 3 = 13 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_6",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "初項 a₁ = 2、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "18",
+      "22",
+      "14",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 2 + (n - 1) × 4 です。n = 5 のとき、a₅ = 2 + 4 × 4 = 18 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_7",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "初項 a₁ = 3、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "23",
+      "28",
+      "18",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 3 + (n - 1) × 5 です。n = 5 のとき、a₅ = 3 + 4 × 5 = 23 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_8",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "初項 a₁ = 4、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "12",
+      "14",
+      "10",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 4 + (n - 1) × 2 です。n = 5 のとき、a₅ = 4 + 4 × 2 = 12 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_9",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "初項 a₁ = 5、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "17",
+      "20",
+      "14",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 5 + (n - 1) × 3 です。n = 5 のとき、a₅ = 5 + 4 × 3 = 17 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_10",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "初項 a₁ = 1、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "17",
+      "21",
+      "13",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 1 + (n - 1) × 4 です。n = 5 のとき、a₅ = 1 + 4 × 4 = 17 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_11",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "初項 a₁ = 2、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "22",
+      "27",
+      "17",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 2 + (n - 1) × 5 です。n = 5 のとき、a₅ = 2 + 4 × 5 = 22 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_12",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初項 a₁ = 3、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "11",
+      "13",
+      "9",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 3 + (n - 1) × 2 です。n = 5 のとき、a₅ = 3 + 4 × 2 = 11 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_13",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "初項 a₁ = 4、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "16",
+      "19",
+      "13",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 4 + (n - 1) × 3 です。n = 5 のとき、a₅ = 4 + 4 × 3 = 16 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_14",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "初項 a₁ = 5、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "21",
+      "25",
+      "17",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 5 + (n - 1) × 4 です。n = 5 のとき、a₅ = 5 + 4 × 4 = 21 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_15",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "初項 a₁ = 1、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "21",
+      "26",
+      "16",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 1 + (n - 1) × 5 です。n = 5 のとき、a₅ = 1 + 4 × 5 = 21 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_16",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "初項 a₁ = 2、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "10",
+      "12",
+      "8",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 2 + (n - 1) × 2 です。n = 5 のとき、a₅ = 2 + 4 × 2 = 10 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_17",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "初項 a₁ = 3、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "15",
+      "18",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 3 + (n - 1) × 3 です。n = 5 のとき、a₅ = 3 + 4 × 3 = 15 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_18",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "初項 a₁ = 4、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "20",
+      "24",
+      "16",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 4 + (n - 1) × 4 です。n = 5 のとき、a₅ = 4 + 4 × 4 = 20 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_19",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "初項 a₁ = 5、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "25",
+      "30",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 5 + (n - 1) × 5 です。n = 5 のとき、a₅ = 5 + 4 × 5 = 25 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_20",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "初項 a₁ = 1、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "9",
+      "11",
+      "7",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 1 + (n - 1) × 2 です。n = 5 のとき、a₅ = 1 + 4 × 2 = 9 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_21",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "初項 a₁ = 2、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "14",
+      "17",
+      "11",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 2 + (n - 1) × 3 です。n = 5 のとき、a₅ = 2 + 4 × 3 = 14 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_22",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "初項 a₁ = 3、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "19",
+      "23",
+      "15",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 3 + (n - 1) × 4 です。n = 5 のとき、a₅ = 3 + 4 × 4 = 19 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_23",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "初項 a₁ = 4、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "24",
+      "29",
+      "19",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 4 + (n - 1) × 5 です。n = 5 のとき、a₅ = 4 + 4 × 5 = 24 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_24",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "初項 a₁ = 5、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "13",
+      "15",
+      "11",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 5 + (n - 1) × 2 です。n = 5 のとき、a₅ = 5 + 4 × 2 = 13 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_25",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "初項 a₁ = 1、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "13",
+      "16",
+      "10",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 1 + (n - 1) × 3 です。n = 5 のとき、a₅ = 1 + 4 × 3 = 13 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_26",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "初項 a₁ = 2、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "18",
+      "22",
+      "14",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 2 + (n - 1) × 4 です。n = 5 のとき、a₅ = 2 + 4 × 4 = 18 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_27",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "初項 a₁ = 3、公差 d = 5 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "23",
+      "28",
+      "18",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 3 + (n - 1) × 5 です。n = 5 のとき、a₅ = 3 + 4 × 5 = 23 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_28",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "初項 a₁ = 4、公差 d = 2 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "12",
+      "14",
+      "10",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 4 + (n - 1) × 2 です。n = 5 のとき、a₅ = 4 + 4 × 2 = 12 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_29",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "初項 a₁ = 5、公差 d = 3 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "17",
+      "20",
+      "14",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 5 + (n - 1) × 3 です。n = 5 のとき、a₅ = 5 + 4 × 3 = 17 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_seq_30",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学B",
+    "unit": "数列",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "初項 a₁ = 1、公差 d = 4 の等差数列 {a_n} の第 5 項 a₅ の値はいくらか。",
+    "choices": [
+      "17",
+      "21",
+      "13",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "等差数列の一般項公式 a_n = a₁ + (n - 1)d を用います。"
+    ],
+    "explanation": "一般項は a_n = 1 + (n - 1) × 4 です。n = 5 のとき、a₅ = 1 + 4 × 4 = 17 となります。",
+    "tags": [
+      "数学B",
+      "等差数列",
+      "一般項"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_1",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ベクトル a = (2, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "13",
+      "17",
+      "25",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 2² + 3² = 4 + 9 = 13 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_2",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "ベクトル a = (3, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "25",
+      "29",
+      "49",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 3² + 4² = 9 + 16 = 25 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_3",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "ベクトル a = (4, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "41",
+      "45",
+      "81",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 4² + 5² = 16 + 25 = 41 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_4",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "ベクトル a = (5, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "29",
+      "33",
+      "49",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 5² + 2² = 25 + 4 = 29 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_5",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ベクトル a = (1, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "10",
+      "14",
+      "16",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 1² + 3² = 1 + 9 = 10 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_6",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "ベクトル a = (2, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "20",
+      "24",
+      "36",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 2² + 4² = 4 + 16 = 20 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_7",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "ベクトル a = (3, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "34",
+      "38",
+      "64",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 3² + 5² = 9 + 25 = 34 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_8",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "ベクトル a = (4, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "20",
+      "24",
+      "36",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 4² + 2² = 16 + 4 = 20 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_9",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ベクトル a = (5, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "34",
+      "38",
+      "64",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 5² + 3² = 25 + 9 = 34 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_10",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 69,
+    "questionBody": "ベクトル a = (1, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "17",
+      "21",
+      "25",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 1² + 4² = 1 + 16 = 17 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_11",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 70,
+    "questionBody": "ベクトル a = (2, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "29",
+      "33",
+      "49",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 2² + 5² = 4 + 25 = 29 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_12",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "ベクトル a = (3, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "13",
+      "17",
+      "25",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 3² + 2² = 9 + 4 = 13 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_13",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ベクトル a = (4, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "25",
+      "29",
+      "49",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 4² + 3² = 16 + 9 = 25 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_14",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "ベクトル a = (5, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "41",
+      "45",
+      "81",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 5² + 4² = 25 + 16 = 41 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_15",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "ベクトル a = (1, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "26",
+      "30",
+      "36",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 1² + 5² = 1 + 25 = 26 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_16",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "ベクトル a = (2, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "8",
+      "12",
+      "16",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 2² + 2² = 4 + 4 = 8 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_17",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ベクトル a = (3, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "18",
+      "22",
+      "36",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 3² + 3² = 9 + 9 = 18 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_18",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "ベクトル a = (4, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "32",
+      "36",
+      "64",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 4² + 4² = 16 + 16 = 32 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_19",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 66,
+    "questionBody": "ベクトル a = (5, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "50",
+      "54",
+      "100",
+      "25"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 5² + 5² = 25 + 25 = 50 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_20",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 67,
+    "questionBody": "ベクトル a = (1, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "5",
+      "9",
+      "9",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 1² + 2² = 1 + 4 = 5 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_21",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "ベクトル a = (2, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "13",
+      "17",
+      "25",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 2² + 3² = 4 + 9 = 13 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_22",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 69,
+    "questionBody": "ベクトル a = (3, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "25",
+      "29",
+      "49",
+      "12"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 3² + 4² = 9 + 16 = 25 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_23",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 70,
+    "questionBody": "ベクトル a = (4, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "41",
+      "45",
+      "81",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 4² + 5² = 16 + 25 = 41 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_24",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "ベクトル a = (5, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "29",
+      "33",
+      "49",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 5² + 2² = 25 + 4 = 29 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_25",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "ベクトル a = (1, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "10",
+      "14",
+      "16",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 1² + 3² = 1 + 9 = 10 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_26",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 61,
+    "questionBody": "ベクトル a = (2, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "20",
+      "24",
+      "36",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 2² + 4² = 4 + 16 = 20 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_27",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 62,
+    "questionBody": "ベクトル a = (3, 5) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "34",
+      "38",
+      "64",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 3² + 5² = 9 + 25 = 34 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_28",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 63,
+    "questionBody": "ベクトル a = (4, 2) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "20",
+      "24",
+      "36",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 4² + 2² = 16 + 4 = 20 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_29",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "ベクトル a = (5, 3) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "34",
+      "38",
+      "64",
+      "15"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 5² + 3² = 25 + 9 = 34 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "math_vec_30",
+    "subjectId": "math",
+    "subjectName": "数学",
+    "course": "数学C",
+    "unit": "ベクトル",
+    "difficulty": "B",
+    "estimatedDeviation": 65,
+    "questionBody": "ベクトル a = (1, 4) の大きさ |a| の二乗 |a|² はいくらか。",
+    "choices": [
+      "17",
+      "21",
+      "25",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "ベクトルの大きさの定義 |a|² = x² + y² を計算します。"
+    ],
+    "explanation": "成分表示されたベクトル a = (x, y) の大きさは |a| = √(x² + y²) です。したがって |a|² = 1² + 4² = 1 + 16 = 17 となります。",
+    "tags": [
+      "数学C",
+      "ベクトル",
+      "ベクトルの大きさ"
+    ],
+    "baseXp": 130
+  }
+]

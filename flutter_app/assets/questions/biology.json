@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "biology_1",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "biology_2",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "biology_3",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "biology_4",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "biology_5",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "biology_6",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "biology_7",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "biology_8",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "biology_9",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "biology_10",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "biology_11",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "biology_12",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "biology_13",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "biology_14",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "biology_15",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "biology_16",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "biology_17",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "biology_18",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "biology_19",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "biology_20",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "biology_21",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "biology_22",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "biology_23",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "biology_24",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "biology_25",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "biology_26",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "biology_27",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "biology_28",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "biology_29",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "biology_30",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "biology_31",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "biology_32",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "biology_33",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "biology_34",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "biology_35",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "biology_36",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "biology_37",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "biology_38",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "biology_39",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "biology_40",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "biology_41",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "biology_42",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "biology_43",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "biology_44",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "biology_45",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "biology_46",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "biology_47",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "biology_48",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "biology_49",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "biology_50",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "biology_51",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "biology_52",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "biology_53",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "biology_54",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "biology_55",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "biology_56",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "biology_57",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "biology_58",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "biology_59",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "biology_60",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "biology_61",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "biology_62",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "biology_63",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "biology_64",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "biology_65",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "biology_66",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "biology_67",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "biology_68",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "biology_69",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "biology_70",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "biology_71",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "biology_72",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "biology_73",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "biology_74",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "biology_75",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "biology_76",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "biology_77",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "biology_78",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "biology_79",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "biology_80",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "biology_81",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "biology_82",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "biology_83",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "biology_84",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "biology_85",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "biology_86",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "biology_87",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "biology_88",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "biology_89",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "biology_90",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "biology_91",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "biology_92",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "biology_93",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "biology_94",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "biology_95",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "biology_96",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "biology_97",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "biology_98",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "biology_99",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "biology_100",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "biology_101",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "biology_102",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "biology_103",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "biology_104",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "biology_105",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "biology_106",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "biology_107",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "biology_108",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "biology_109",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "biology_110",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "biology_111",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "biology_112",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "biology_113",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "biology_114",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "biology_115",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "biology_116",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "biology_117",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "biology_118",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "biology_119",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "biology_120",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "biology_121",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "biology_122",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "biology_123",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "biology_124",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "biology_125",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "biology_126",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "biology_127",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "biology_128",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "biology_129",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "biology_130",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "biology_131",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "biology_132",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "biology_133",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "biology_134",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "biology_135",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "biology_136",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "biology_137",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "biology_138",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "biology_139",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "biology_140",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "biology_141",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "biology_142",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "biology_143",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "biology_144",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "biology_145",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "biology_146",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "biology_147",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "biology_148",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "biology_149",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "biology_150",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "biology_151",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "biology_152",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "biology_153",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "biology_154",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "biology_155",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "biology_156",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "biology_157",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "biology_158",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "biology_159",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "biology_160",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "biology_161",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "biology_162",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "biology_163",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "biology_164",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "biology_165",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "biology_166",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "biology_167",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "biology_168",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "biology_169",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "biology_170",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "biology_171",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "biology_172",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "biology_173",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "biology_174",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "biology_175",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "biology_176",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "biology_177",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "biology_178",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "biology_179",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "biology_180",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "biology_181",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "biology_182",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "biology_183",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "biology_184",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "biology_185",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "biology_186",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "biology_187",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "biology_188",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "biology_189",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "biology_190",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "biology_191",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "biology_192",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "biology_193",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "真核細胞の小器官のうち、「クロロフィルを含み、光エネルギーを利用して光合成を行う」働きを持つものはどれか。",
+    "choices": [
+      "葉緑体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "葉緑体 は、クロロフィルを含み、光エネルギーを利用して光合成を行う細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "biology_194",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "biology_195",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "真核細胞の小器官のうち、「mRNAの遺伝情報に基づいてタンパク質を合成する」働きを持つものはどれか。",
+    "choices": [
+      "リボソーム",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "リボソーム は、mRNAの遺伝情報に基づいてタンパク質を合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "biology_196",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "遺伝情報の発現において、「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」を何と呼ぶか。",
+    "choices": [
+      "半保存的複製",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの2本鎖がほどけ、それぞれを鋳型として新しい鎖が合成されるDNA複製方式」は「半保存的複製」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "biology_197",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "真核細胞の小器官のうち、「合成されたタンパク質を修飾・濃縮し細胞外へ分泌する」働きを持つものはどれか。",
+    "choices": [
+      "ゴルジ体",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ゴルジ体 は、合成されたタンパク質を修飾・濃縮し細胞外へ分泌する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "biology_198",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "遺伝情報の発現において、「DNAの塩基配列情報がmRNAに写し取られる過程」を何と呼ぶか。",
+    "choices": [
+      "転写",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「DNAの塩基配列情報がmRNAに写し取られる過程」は「転写」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "biology_199",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "細胞構造と細胞小器官",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "真核細胞の小器官のうち、「好気呼吸を行い、有機物を分解してATPを合成する」働きを持つものはどれか。",
+    "choices": [
+      "ミトコンドリア",
+      "小胞体",
+      "リソソーム",
+      "中心体"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "二重膜構造やエネルギー代謝の関連に着目します。"
+    ],
+    "explanation": "ミトコンドリア は、好気呼吸を行い、有機物を分解してATPを合成する細胞小器官です。",
+    "tags": [
+      "生物",
+      "細胞構造と細胞小器官",
+      "細胞構造",
+      "オルガネラ"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "biology_200",
+    "subjectId": "biology",
+    "subjectName": "生物",
+    "course": "生物基礎",
+    "unit": "DNAとセントラルドグマ",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "遺伝情報の発現において、「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」を何と呼ぶか。",
+    "choices": [
+      "翻訳",
+      "逆転写",
+      "スプライシング",
+      "変異"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "セントラルドグマの中心的ステップです。"
+    ],
+    "explanation": "「mRNAのコドンに基づいてtRNAがアミノ酸を運びタンパク質が合成される過程」は「翻訳」と呼ばれます。",
+    "tags": [
+      "生物",
+      "DNAとセントラルドグマ",
+      "セントラルドグマ",
+      "遺伝情報"
+    ],
+    "baseXp": 129
+  }
+]

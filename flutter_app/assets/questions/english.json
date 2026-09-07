@@ -1,0 +1,5802 @@
+[
+  {
+    "id": "english_1",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "english_2",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "english_3",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "english_4",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "english_5",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "english_6",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "english_7",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "english_8",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "english_9",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "english_10",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "english_11",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "english_12",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "english_13",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "english_14",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "english_15",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "english_16",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "english_17",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "english_18",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "english_19",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "english_20",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "english_21",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "english_22",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "english_23",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "english_24",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "english_25",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "english_26",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "english_27",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "english_28",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "english_29",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "english_30",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "english_31",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "english_32",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "english_33",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "english_34",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "english_35",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "english_36",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "english_37",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "english_38",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "english_39",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "english_40",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "english_41",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "english_42",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "english_43",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "english_44",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "english_45",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "english_46",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "english_47",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "english_48",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "english_49",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "english_50",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "english_51",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "english_52",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "english_53",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "english_54",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "english_55",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "english_56",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "english_57",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "english_58",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "english_59",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "english_60",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "english_61",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "english_62",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "english_63",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "english_64",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "english_65",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "english_66",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "english_67",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "english_68",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "english_69",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "english_70",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "english_71",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "english_72",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "english_73",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "english_74",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "english_75",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "english_76",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "english_77",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "english_78",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "english_79",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "english_80",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "english_81",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "english_82",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "english_83",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "english_84",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "english_85",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "english_86",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "english_87",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "english_88",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "english_89",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "english_90",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "english_91",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "english_92",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "english_93",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "english_94",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "english_95",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "english_96",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "english_97",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "english_98",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "english_99",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "english_100",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "english_101",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "english_102",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "english_103",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "english_104",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "english_105",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "english_106",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "english_107",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "english_108",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "english_109",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "english_110",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "english_111",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "english_112",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "english_113",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "english_114",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "english_115",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "english_116",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "english_117",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "english_118",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "english_119",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "english_120",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "english_121",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "english_122",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "english_123",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "english_124",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "english_125",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "english_126",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "english_127",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "english_128",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "english_129",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "english_130",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "english_131",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "english_132",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "english_133",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "english_134",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "english_135",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "english_136",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "english_137",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "english_138",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "english_139",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "english_140",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 129
+  },
+  {
+    "id": "english_141",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 130
+  },
+  {
+    "id": "english_142",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 131
+  },
+  {
+    "id": "english_143",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 132
+  },
+  {
+    "id": "english_144",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 133
+  },
+  {
+    "id": "english_145",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 134
+  },
+  {
+    "id": "english_146",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 135
+  },
+  {
+    "id": "english_147",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 136
+  },
+  {
+    "id": "english_148",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 137
+  },
+  {
+    "id": "english_149",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 138
+  },
+  {
+    "id": "english_150",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 139
+  },
+  {
+    "id": "english_151",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 140
+  },
+  {
+    "id": "english_152",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 141
+  },
+  {
+    "id": "english_153",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 142
+  },
+  {
+    "id": "english_154",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 143
+  },
+  {
+    "id": "english_155",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 144
+  },
+  {
+    "id": "english_156",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 145
+  },
+  {
+    "id": "english_157",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 146
+  },
+  {
+    "id": "english_158",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 147
+  },
+  {
+    "id": "english_159",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 148
+  },
+  {
+    "id": "english_160",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 149
+  },
+  {
+    "id": "english_161",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 150
+  },
+  {
+    "id": "english_162",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 151
+  },
+  {
+    "id": "english_163",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 152
+  },
+  {
+    "id": "english_164",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 153
+  },
+  {
+    "id": "english_165",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 154
+  },
+  {
+    "id": "english_166",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 155
+  },
+  {
+    "id": "english_167",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 156
+  },
+  {
+    "id": "english_168",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 157
+  },
+  {
+    "id": "english_169",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 158
+  },
+  {
+    "id": "english_170",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 159
+  },
+  {
+    "id": "english_171",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 160
+  },
+  {
+    "id": "english_172",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 161
+  },
+  {
+    "id": "english_173",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 162
+  },
+  {
+    "id": "english_174",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 163
+  },
+  {
+    "id": "english_175",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 164
+  },
+  {
+    "id": "english_176",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 165
+  },
+  {
+    "id": "english_177",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 166
+  },
+  {
+    "id": "english_178",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 167
+  },
+  {
+    "id": "english_179",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 168
+  },
+  {
+    "id": "english_180",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 169
+  },
+  {
+    "id": "english_181",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 110
+  },
+  {
+    "id": "english_182",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 51,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 111
+  },
+  {
+    "id": "english_183",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 112
+  },
+  {
+    "id": "english_184",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 53,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 113
+  },
+  {
+    "id": "english_185",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 114
+  },
+  {
+    "id": "english_186",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 55,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 115
+  },
+  {
+    "id": "english_187",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 116
+  },
+  {
+    "id": "english_188",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 57,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 117
+  },
+  {
+    "id": "english_189",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 118
+  },
+  {
+    "id": "english_190",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 59,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 119
+  },
+  {
+    "id": "english_191",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 60,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 120
+  },
+  {
+    "id": "english_192",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 61,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 121
+  },
+  {
+    "id": "english_193",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 62,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 122
+  },
+  {
+    "id": "english_194",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 63,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 123
+  },
+  {
+    "id": "english_195",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 64,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 124
+  },
+  {
+    "id": "english_196",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 65,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 125
+  },
+  {
+    "id": "english_197",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "A",
+    "estimatedDeviation": 66,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"He is used to (   ) soccer in hot weather.\"",
+    "choices": [
+      "playing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "be used to -ing で「〜することに慣れている」"
+    ],
+    "explanation": "be used to -ing で「〜することに慣れている」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 126
+  },
+  {
+    "id": "english_198",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 67,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"It is no use (   ) over spilt milk.\"",
+    "choices": [
+      "crying",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "It is no use -ing で「〜しても無駄である」"
+    ],
+    "explanation": "It is no use -ing で「〜しても無駄である」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 127
+  },
+  {
+    "id": "english_199",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "B",
+    "estimatedDeviation": 68,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I could not help (   ) at his joke.\"",
+    "choices": [
+      "laughing",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "cannot help -ing で「〜せずにはいられない」"
+    ],
+    "explanation": "cannot help -ing で「〜せずにはいられない」。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 128
+  },
+  {
+    "id": "english_200",
+    "subjectId": "english",
+    "subjectName": "英語",
+    "course": "論理・表現",
+    "unit": "英文法・語法",
+    "difficulty": "C",
+    "estimatedDeviation": 69,
+    "questionBody": "空所に当てはまる最も適切な形を選びなさい。\n\n\"I am looking forward to (   ) you again soon.\"",
+    "choices": [
+      "looking",
+      "see",
+      "to see",
+      "have seen"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "〜を楽しみに待つ（toは前置詞のため動名詞）"
+    ],
+    "explanation": "〜を楽しみに待つ（toは前置詞のため動名詞）。よって動名詞 -ing 形が正解です。",
+    "tags": [
+      "英語",
+      "英文法・語法",
+      "英文法",
+      "動名詞",
+      "前置詞"
+    ],
+    "baseXp": 129
+  }
+]

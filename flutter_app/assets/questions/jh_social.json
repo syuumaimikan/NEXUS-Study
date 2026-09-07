@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "jh_soc_1",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_2",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_3",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_4",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_5",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_6",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_7",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_8",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_9",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_10",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_11",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_12",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_13",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_14",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_15",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_16",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_17",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_18",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_19",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_20",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_21",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_22",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_23",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_24",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_25",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_26",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_27",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_28",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_29",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_30",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_31",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_32",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_33",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_34",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_35",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_36",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_37",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_38",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_39",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_40",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_41",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_42",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_43",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_44",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_45",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_46",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_47",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_48",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_49",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_50",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_51",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_52",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_53",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_54",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_55",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_56",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_57",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_58",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_59",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_60",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_61",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_62",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_63",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_64",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_65",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_66",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_67",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_68",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_69",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_70",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_71",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_72",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_73",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_74",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_75",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_76",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_77",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_78",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_79",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_80",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_81",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_82",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_83",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_84",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_85",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_86",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_87",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_88",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_89",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_90",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_91",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_92",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_93",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_94",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_95",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_96",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_97",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_98",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_99",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_100",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_101",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_102",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_103",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_104",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_105",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_106",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_107",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_108",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_109",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_110",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_111",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_112",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_113",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_114",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_115",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_116",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_117",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_118",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_119",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_120",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_121",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_122",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_123",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_124",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_125",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_126",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_127",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_128",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_129",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_130",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_131",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_132",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_133",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_134",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_135",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_136",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_137",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_138",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_139",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_140",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_141",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_142",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_143",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_144",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_145",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_146",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_147",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_148",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_149",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_150",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_151",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_152",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_153",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_154",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_155",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_156",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_157",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_158",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_159",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_160",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_161",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_162",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_163",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_164",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_165",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_166",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_167",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_168",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_169",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_170",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_171",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_172",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_173",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_174",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_175",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_176",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_177",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_178",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_179",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_180",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_181",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_182",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_183",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_184",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_185",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_186",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 51,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_187",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 52,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_188",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 53,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_189",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 54,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_190",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 55,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_191",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "A",
+    "estimatedDeviation": 56,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_192",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "B",
+    "estimatedDeviation": 57,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_193",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "A",
+    "estimatedDeviation": 58,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_194",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "B",
+    "estimatedDeviation": 59,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_195",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "A",
+    "estimatedDeviation": 45,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_196",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（古代〜中世）",
+    "difficulty": "B",
+    "estimatedDeviation": 46,
+    "questionBody": "645年、中大兄皇子と中臣鎌足らが蘇我氏を倒して始まった政治改革はどれか。",
+    "choices": [
+      "大化の改新",
+      "壬申の乱",
+      "建武の新政",
+      "承久の乱"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "蘇我入鹿らを倒し、公地公民制や律令国家を目指す大化の改新が始まりました。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（古代〜中世）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_197",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "歴史（近世〜近代）",
+    "difficulty": "A",
+    "estimatedDeviation": 47,
+    "questionBody": "1867年、江戸幕府第15代将軍・徳川慶喜が政権を朝廷に返上した出来事はどれか。",
+    "choices": [
+      "大政奉還",
+      "王政復古の大号令",
+      "戊辰戦争",
+      "廃藩置県"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "徳川慶喜が政権を朝廷に返上したことを大政奉還といいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "歴史（近世〜近代）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_198",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（日本国憲法・政治）",
+    "difficulty": "B",
+    "estimatedDeviation": 48,
+    "questionBody": "国会が「国の唯一の立法機関」とされる原則において、三権分立のうち国会が担う権力はどれか。",
+    "choices": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "統帥権"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "三権分立において、法律を制定する立法権は国会、行政権は内閣、司法権は裁判所が担当します。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（日本国憲法・政治）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_199",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "公民（経済・国際社会）",
+    "difficulty": "A",
+    "estimatedDeviation": 49,
+    "questionBody": "市場経済において、需要量が供給量を上回っている（買いたい人が多い）とき、価格は一般にどうなるか。",
+    "choices": [
+      "価格は上昇する",
+      "価格は下落する",
+      "価格は変動しない",
+      "ゼロになる"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "需要超過（品薄）の状態では、価格は上昇して需要と供給が一致する均衡価格に向かいます。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "公民（経済・国際社会）"
+    ],
+    "baseXp": 100
+  },
+  {
+    "id": "jh_soc_200",
+    "subjectId": "jh_social",
+    "subjectName": "中学社会",
+    "course": "中学地理・歴史・公民",
+    "unit": "世界地理・日本地理",
+    "difficulty": "B",
+    "estimatedDeviation": 50,
+    "questionBody": "日本の標準時子午線が通る兵庫県の都市はどこか。",
+    "choices": [
+      "明石市（東経135度）",
+      "神戸市（東経135度）",
+      "姫路市（東経130度）",
+      "京都市（東経140度）"
+    ],
+    "correctAnswerIndex": 0,
+    "hints": [
+      "年号、条約、憲法の条文、三権分立の図を思い出しましょう。"
+    ],
+    "explanation": "日本の標準時は東経135度の子午線を基準にしており、兵庫県明石市を通っています。",
+    "tags": [
+      "高校受験",
+      "中学社会",
+      "世界地理・日本地理"
+    ],
+    "baseXp": 100
+  }
+]
