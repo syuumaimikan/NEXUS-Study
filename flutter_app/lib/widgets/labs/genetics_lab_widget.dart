@@ -139,7 +139,7 @@ class _GeneticsLabWidgetState extends State<GeneticsLabWidget> {
                       padding: EdgeInsets.all(8),
                       child: Center(
                         child: Text(
-                          '♀＼♂',
+                          '母＼父',
                           style: TextStyle(fontSize: 10, color: Colors.white54, fontWeight: FontWeight.bold),
                         ),
                       ),

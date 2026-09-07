@@ -488,7 +488,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> with SingleTickerProv
                     child: ChoiceChip(
                       label: Text(
                         cat == 'ターゲット1900'
-                            ? '🎯 ターゲット1900 (${_targetCards.length})'
+                            ? 'ターゲット1900 (${_targetCards.length})'
                             : cat == '自作カード'
                                 ? '自作 (${_customCards.length})'
                                 : cat,
@@ -715,7 +715,13 @@ class _FlashcardScreenState extends State<FlashcardScreen> with SingleTickerProv
                                   ScaffoldMessenger.of(context).clearSnackBars();
                                   ScaffoldMessenger.of(context).showSnackBar(
                                     const SnackBar(
-                                      content: Text('🎉 覚えた！ +5 コイン獲得！'),
+                                      content: Row(
+                                        children: [
+                                          Icon(Icons.check_circle, color: Colors.white, size: 16),
+                                          SizedBox(width: 8),
+                                          Text('覚えた！ +5 コイン獲得！'),
+                                        ],
+                                      ),
                                       duration: Duration(milliseconds: 900),
                                       behavior: SnackBarBehavior.floating,
                                       backgroundColor: Color(0xFF10B981),

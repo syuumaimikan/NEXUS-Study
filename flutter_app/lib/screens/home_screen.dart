@@ -7,6 +7,10 @@ import 'flashcard_screen.dart';
 import 'practice_screen.dart';
 import 'lab_screen.dart';
 import 'challenge_mode_screen.dart';
+import 'formula_cheatsheet_screen.dart';
+import 'study_schedule_screen.dart';
+import 'interview_practice_screen.dart';
+import 'listening_speaking_screen.dart';
 import '../widgets/learning_roadmap_widget.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -327,7 +331,7 @@ class HomeScreen extends StatelessWidget {
 
               const SizedBox(height: 20),
 
-              // 4 Main Feature Cards (Zero Emojis!)
+              // 6 Main Feature Cards (Zero Emojis!)
               Row(
                 children: [
                   Expanded(
@@ -349,6 +353,58 @@ class HomeScreen extends StatelessWidget {
                       icon: Icons.style_outlined,
                       color: const Color(0xFF34D399),
                       onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const FlashcardScreen())),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 10),
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: '公式・定理集',
+                      subtitle: '全科目一目暗記',
+                      icon: Icons.functions,
+                      color: const Color(0xFFF59E0B),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const FormulaCheatSheetScreen())),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: '学習カレンダー',
+                      subtitle: '計画・通知連携',
+                      icon: Icons.calendar_month,
+                      color: const Color(0xFFA855F7),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const StudyScheduleScreen())),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 10),
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: '面接対策モード',
+                      subtitle: '質問・実践練習',
+                      icon: Icons.record_voice_over,
+                      color: const Color(0xFFEC4899),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const InterviewPracticeScreen())),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: _buildActionCard(
+                      context,
+                      title: '英会話・リスニング',
+                      subtitle: '倍速音声＆対話',
+                      icon: Icons.headphones,
+                      color: const Color(0xFF06B6D4),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const ListeningSpeakingScreen())),
                     ),
                   ),
                 ],

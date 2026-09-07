@@ -640,9 +640,16 @@ class _ChallengeModeScreenState extends State<ChallengeModeScreen> {
                           ),
                         ],
                       ),
-                      child: Text(
-                        '🔥 $_combo COMBO!',
-                        style: const TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.white),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Icon(Icons.local_fire_department, size: 15, color: Colors.white),
+                          const SizedBox(width: 4),
+                          Text(
+                            '$_combo COMBO!',
+                            style: const TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.white),
+                          ),
+                        ],
                       ),
                     ),
                   Text(

@@ -16,22 +16,22 @@ class _LensOpticsLabWidgetState extends State<LensOpticsLabWidget> {
   Widget build(BuildContext context) {
     final a = _objectDistance;
     final f = _focalLength;
-    final isInfinite = (a - f).abs() < 1;
-    final b = isInfinite ? double.infinity : (a * f) / (a - f);
+    final isInfinite = (a - f).abs() < 1.5;
+    final b = isInfinite ? 99999.0 : (a * f) / (a - f);
     final magnification = isInfinite ? 0.0 : (b / a).abs();
     final isVirtual = b < 0;
 
     String imageType;
     if (isInfinite) {
-      imageType = '像はできない (無限遠)';
+      imageType = '像なし (無限遠・平行光線)';
     } else if (isVirtual) {
-      imageType = '虚像・正立・拡大 (虫眼鏡効果)';
-    } else if ((a - 2 * f).abs() < 2) {
+      imageType = '虚像・正立・拡大 (虫眼鏡)';
+    } else if ((a - 2 * f).abs() < 3) {
       imageType = '実像・倒立・等大 (a = 2f)';
     } else if (a > 2 * f) {
-      imageType = '実像・倒立・縮小 (カメラ・目の原理)';
+      imageType = '実像・倒立・縮小 (カメラ)';
     } else {
-      imageType = '実像・倒立・拡大 (映写機・プロジェクタ)';
+      imageType = '実像・倒立・拡大 (プロジェクタ)';
     }
 
     return SingleChildScrollView(
@@ -70,8 +70,10 @@ class _LensOpticsLabWidgetState extends State<LensOpticsLabWidget> {
                   style: TextStyle(fontSize: 11, color: Colors.white70, height: 1.4),
                 ),
                 const SizedBox(height: 12),
+                // Fixed height to prevent vertical jitter on label change
                 Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  height: 42,
+                  padding: const EdgeInsets.symmetric(horizontal: 12),
                   decoration: BoxDecoration(
                     color: const Color(0xFF131B2E),
                     borderRadius: BorderRadius.circular(10),
@@ -87,9 +89,11 @@ class _LensOpticsLabWidgetState extends State<LensOpticsLabWidget> {
                       const SizedBox(width: 8),
                       Expanded(
                         child: Text(
-                          '像の性質: $imageType',
+                          imageType,
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
                           style: TextStyle(
-                            fontSize: 12,
+                            fontSize: 11.5,
                             fontWeight: FontWeight.bold,
                             color: isVirtual ? const Color(0xFFD8B4FE) : const Color(0xFF6EE7B7),
                           ),
@@ -97,7 +101,7 @@ class _LensOpticsLabWidgetState extends State<LensOpticsLabWidget> {
                       ),
                       Text(
                         isInfinite ? 'm = ∞' : '倍率: ${magnification.toStringAsFixed(2)}倍',
-                        style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.white),
+                        style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.bold, color: Colors.white),
                       ),
                     ],
                   ),
@@ -251,7 +255,7 @@ class _OpticsRayPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     final cx = size.width / 2;
     final cy = size.height / 2;
-    const scale = 0.8; // px per mm
+    const scale = 0.75; // px per mm
 
     // Principal Axis
     final axisPaint = Paint()
@@ -264,13 +268,13 @@ class _OpticsRayPainter extends CustomPainter {
       ..color = const Color(0xFF38BDF8).withValues(alpha: 0.6)
       ..strokeWidth = 3
       ..strokeCap = StrokeCap.round;
-    canvas.drawLine(Offset(cx, cy - 80), Offset(cx, cy + 80), lensPaint);
+    canvas.drawLine(Offset(cx, cy - 85), Offset(cx, cy + 85), lensPaint);
 
     // Lens double arrowheads
-    canvas.drawLine(Offset(cx - 8, cy - 72), Offset(cx, cy - 80), lensPaint);
-    canvas.drawLine(Offset(cx + 8, cy - 72), Offset(cx, cy - 80), lensPaint);
-    canvas.drawLine(Offset(cx - 8, cy + 72), Offset(cx, cy + 80), lensPaint);
-    canvas.drawLine(Offset(cx + 8, cy + 72), Offset(cx, cy + 80), lensPaint);
+    canvas.drawLine(Offset(cx - 8, cy - 77), Offset(cx, cy - 85), lensPaint);
+    canvas.drawLine(Offset(cx + 8, cy - 77), Offset(cx, cy - 85), lensPaint);
+    canvas.drawLine(Offset(cx - 8, cy + 77), Offset(cx, cy + 85), lensPaint);
+    canvas.drawLine(Offset(cx + 8, cy + 77), Offset(cx, cy + 85), lensPaint);
 
     // Focal Points F and F'
     final fPx = focalLength * scale;
@@ -301,7 +305,6 @@ class _OpticsRayPainter extends CustomPainter {
       ..color = const Color(0xFFF43F5E).withValues(alpha: 0.8)
       ..strokeWidth = 1.8;
     canvas.drawLine(Offset(objXPx, objYPx), Offset(cx, objYPx), ray1Paint);
-    // Extrapolate past lens through F'
     final slope1 = (cy - objYPx) / fPx;
     final ray1End = Offset(size.width, cy + slope1 * (size.width - cx - fPx));
     canvas.drawLine(Offset(cx, objYPx), ray1End, ray1Paint);
@@ -314,19 +317,29 @@ class _OpticsRayPainter extends CustomPainter {
     final ray2End = Offset(size.width, cy + slope2 * (size.width - cx));
     canvas.drawLine(Offset(objXPx, objYPx), ray2End, ray2Paint);
 
-    // Image Arrow if not infinite
+    // Image Arrow & virtual backward rays
     if (!isInfinite) {
       final imgXPx = cx + imageDistance * scale;
       final m = imageDistance / objectDistance;
-      final imgYPx = cy + (objectHeight * scale) * m;
+      final rawImgYPx = cy + (objectHeight * scale) * m;
+      final imgYPx = rawImgYPx.clamp(15.0, size.height - 15.0);
+
+      if (isVirtual) {
+        // Draw backward dashed lines to virtual image on the left
+        final dashPaint = Paint()
+          ..color = const Color(0xFFA855F7).withValues(alpha: 0.6)
+          ..strokeWidth = 1.4
+          ..style = PaintingStyle.stroke;
+        canvas.drawLine(Offset(cx, objYPx), Offset(imgXPx, imgYPx), dashPaint);
+        canvas.drawLine(Offset(cx, cy), Offset(imgXPx, imgYPx), dashPaint);
+      }
 
       final imgPaint = Paint()
         ..color = isVirtual ? const Color(0xFFA855F7) : const Color(0xFF34D399)
         ..strokeWidth = 3;
 
-      if (imgXPx > 0 && imgXPx < size.width) {
+      if (imgXPx >= 0 && imgXPx <= size.width) {
         canvas.drawLine(Offset(imgXPx, cy), Offset(imgXPx, imgYPx), imgPaint);
-        // Arrow head
         final headDir = isVirtual ? 1 : -1;
         canvas.drawLine(Offset(imgXPx - 5, imgYPx + 8 * headDir), Offset(imgXPx, imgYPx), imgPaint);
         canvas.drawLine(Offset(imgXPx + 5, imgYPx + 8 * headDir), Offset(imgXPx, imgYPx), imgPaint);
@@ -336,6 +349,17 @@ class _OpticsRayPainter extends CustomPainter {
           isVirtual ? '虚像' : '実像',
           Offset(imgXPx - 8, imgYPx + (isVirtual ? -16 : 8)),
           isVirtual ? const Color(0xFFA855F7) : const Color(0xFF34D399),
+        );
+      } else {
+        // Smooth off-screen indicator instead of abrupt popping
+        final edgeX = imgXPx > size.width ? size.width - 16 : 16.0;
+        final indPaint = Paint()..color = isVirtual ? const Color(0xFFA855F7) : const Color(0xFF34D399);
+        canvas.drawCircle(Offset(edgeX, imgYPx), 4, indPaint);
+        _drawText(
+          canvas,
+          imgXPx > size.width ? '像 →' : '← 像',
+          Offset(edgeX - (imgXPx > size.width ? 24 : 0), imgYPx - 14),
+          indPaint.color,
         );
       }
     }
@@ -353,5 +377,8 @@ class _OpticsRayPainter extends CustomPainter {
   bool shouldRepaint(covariant _OpticsRayPainter oldDelegate) =>
       oldDelegate.focalLength != focalLength ||
       oldDelegate.objectDistance != objectDistance ||
-      oldDelegate.objectHeight != objectHeight;
+      oldDelegate.objectHeight != objectHeight ||
+      oldDelegate.imageDistance != imageDistance ||
+      oldDelegate.isVirtual != isVirtual ||
+      oldDelegate.isInfinite != isInfinite;
 }

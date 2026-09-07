@@ -109,6 +109,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
       isCorrect,
       isCorrect ? (q.baseXp + (speedBonus ? 50 : 0)) : 10,
       bonusCoins: extraCoins,
+      subjectId: q.subjectId,
     );
   }
 

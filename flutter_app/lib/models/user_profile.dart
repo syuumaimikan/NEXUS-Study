@@ -4,6 +4,7 @@ class UserProfile {
   final String avatarIcon; // Material icon identifier (e.g. 'school', 'science', etc.)
   final String schoolGrade;
   final String targetUniversity;
+  final double targetDeviation;
   final String studyTrack; // science, humanities, medical, general
   final String educationStage; // 'high_school' | 'junior_high'
   final bool hasCompletedOnboarding;
@@ -26,6 +27,7 @@ class UserProfile {
     required this.avatarIcon,
     required this.schoolGrade,
     required this.targetUniversity,
+    this.targetDeviation = 65.0,
     required this.studyTrack,
     this.educationStage = 'high_school',
     required this.hasCompletedOnboarding,
@@ -48,6 +50,7 @@ class UserProfile {
       avatarIcon: 'school',
       schoolGrade: '高校2年生',
       targetUniversity: '',
+      targetDeviation: 65.0,
       studyTrack: 'science',
       educationStage: 'high_school',
       hasCompletedOnboarding: false,
@@ -69,6 +72,7 @@ class UserProfile {
     String? avatarIcon,
     String? schoolGrade,
     String? targetUniversity,
+    double? targetDeviation,
     String? studyTrack,
     String? educationStage,
     bool? hasCompletedOnboarding,
@@ -89,6 +93,7 @@ class UserProfile {
       avatarIcon: avatarIcon ?? this.avatarIcon,
       schoolGrade: schoolGrade ?? this.schoolGrade,
       targetUniversity: targetUniversity ?? this.targetUniversity,
+      targetDeviation: targetDeviation ?? this.targetDeviation,
       studyTrack: studyTrack ?? this.studyTrack,
       educationStage: educationStage ?? this.educationStage,
       hasCompletedOnboarding: hasCompletedOnboarding ?? this.hasCompletedOnboarding,
@@ -112,6 +117,7 @@ class UserProfile {
       avatarIcon: json['avatarIcon'] as String? ?? 'school',
       schoolGrade: json['schoolGrade'] as String? ?? '高校2年生',
       targetUniversity: json['targetUniversity'] as String? ?? '',
+      targetDeviation: (json['targetDeviation'] as num?)?.toDouble() ?? 65.0,
       studyTrack: json['studyTrack'] as String? ?? 'science',
       educationStage: json['educationStage'] as String? ?? 'high_school',
       hasCompletedOnboarding: json['hasCompletedOnboarding'] as bool? ?? false,
@@ -135,6 +141,7 @@ class UserProfile {
       'avatarIcon': avatarIcon,
       'schoolGrade': schoolGrade,
       'targetUniversity': targetUniversity,
+      'targetDeviation': targetDeviation,
       'studyTrack': studyTrack,
       'educationStage': educationStage,
       'hasCompletedOnboarding': hasCompletedOnboarding,

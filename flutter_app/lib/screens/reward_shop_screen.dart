@@ -189,7 +189,13 @@ class _RewardShopScreenState extends State<RewardShopScreen> {
       messenger.clearSnackBars();
       messenger.showSnackBar(
         SnackBar(
-          content: Text('🎉 称号「${item.title}」を獲得・装備しました！'),
+          content: Row(
+            children: [
+              const Icon(Icons.military_tech, color: Color(0xFFFBBF24), size: 18),
+              const SizedBox(width: 8),
+              Expanded(child: Text('称号「${item.title}」を獲得・装備しました！')),
+            ],
+          ),
           duration: const Duration(milliseconds: 1200),
           backgroundColor: const Color(0xFF10B981),
         ),
@@ -249,7 +255,13 @@ class _RewardShopScreenState extends State<RewardShopScreen> {
       messenger.clearSnackBars();
       messenger.showSnackBar(
         const SnackBar(
-          content: Text('🛡️ ストリーク保険証を購入しました！所持数+1'),
+          content: Row(
+            children: [
+              Icon(Icons.shield, color: Color(0xFF38BDF8), size: 18),
+              SizedBox(width: 8),
+              Text('ストリーク保険証を購入しました！所持数+1'),
+            ],
+          ),
           duration: Duration(milliseconds: 1200),
           backgroundColor: Color(0xFF10B981),
         ),

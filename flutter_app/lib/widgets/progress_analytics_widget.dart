@@ -9,6 +9,7 @@ class ProgressAnalyticsWidget extends StatefulWidget {
   final int currentXp;
   final int nextLevelXp;
   final String targetUniversity;
+  final double targetDeviation;
 
   const ProgressAnalyticsWidget({
     super.key,
@@ -18,6 +19,7 @@ class ProgressAnalyticsWidget extends StatefulWidget {
     required this.currentXp,
     required this.nextLevelXp,
     required this.targetUniversity,
+    this.targetDeviation = 65.0,
   });
 
   @override
@@ -26,18 +28,37 @@ class ProgressAnalyticsWidget extends StatefulWidget {
 
 class _ProgressAnalyticsWidgetState extends State<ProgressAnalyticsWidget> {
   List<Map<String, dynamic>> _weeklyData = [];
+  Map<String, double> _subjectMasteries = {
+    'math': 0.0,
+    'science': 0.0,
+    'english': 0.0,
+    'japanese': 0.0,
+    'social': 0.0,
+  };
 
   @override
   void initState() {
     super.initState();
     _loadWeeklyActivity();
+    _loadSubjectMasteries();
   }
 
   void _loadWeeklyActivity() async {
     final list = await StorageService().getWeeklyActivity();
-    setState(() {
-      _weeklyData = list;
-    });
+    if (mounted) {
+      setState(() {
+        _weeklyData = list;
+      });
+    }
+  }
+
+  void _loadSubjectMasteries() async {
+    final map = await StorageService().getSubjectMasteries();
+    if (mounted) {
+      setState(() {
+        _subjectMasteries = map;
+      });
+    }
   }
 
   @override
@@ -92,7 +113,7 @@ class _ProgressAnalyticsWidgetState extends State<ProgressAnalyticsWidget> {
 
         const SizedBox(height: 16),
 
-        // 2. Accuracy & Mastery by Subject Group
+        // 2. Accuracy & Mastery by Subject Group (Dynamic / Starts at 0%)
         Container(
           padding: const EdgeInsets.all(18),
           decoration: BoxDecoration(
@@ -123,15 +144,15 @@ class _ProgressAnalyticsWidgetState extends State<ProgressAnalyticsWidget> {
                 ],
               ),
               const SizedBox(height: 14),
-              _buildSubjectBar('数学（I/A/II/B/C/III）', 0.78, const Color(0xFF38BDF8)),
+              _buildSubjectBar('数学（I/A/II/B/C/III）', _subjectMasteries['math'] ?? 0.0, const Color(0xFF38BDF8)),
               const SizedBox(height: 10),
-              _buildSubjectBar('理科（物理・化学・生物・地学）', 0.84, const Color(0xFFF59E0B)),
+              _buildSubjectBar('理科（物理・化学・生物・地学）', _subjectMasteries['science'] ?? 0.0, const Color(0xFFF59E0B)),
               const SizedBox(height: 10),
-              _buildSubjectBar('英語（文法・読解・語彙）', 0.88, const Color(0xFF10B981)),
+              _buildSubjectBar('英語（文法・読解・語彙）', _subjectMasteries['english'] ?? 0.0, const Color(0xFF10B981)),
               const SizedBox(height: 10),
-              _buildSubjectBar('国語（現代文・古文・漢文）', 0.72, const Color(0xFFA855F7)),
+              _buildSubjectBar('国語（現代文・古文・漢文）', _subjectMasteries['japanese'] ?? 0.0, const Color(0xFFA855F7)),
               const SizedBox(height: 10),
-              _buildSubjectBar('地歴・公民（歴史・地理・倫政）', 0.80, const Color(0xFFF43F5E)),
+              _buildSubjectBar('地歴・公民（歴史・地理・倫政）', _subjectMasteries['social'] ?? 0.0, const Color(0xFFF43F5E)),
             ],
           ),
         ),
@@ -178,7 +199,7 @@ class _ProgressAnalyticsWidgetState extends State<ProgressAnalyticsWidget> {
                     ),
                     const SizedBox(height: 4),
                     Text(
-                      '推定偏差値: ${math.min(75, 52 + (widget.level * 1.5)).toStringAsFixed(1)} (順調に向上中)',
+                      '目標偏差値: ${widget.targetDeviation.toStringAsFixed(1)} (推定値: ${math.min(78, 48 + (widget.level * 1.5) + (accuracy * 0.15)).toStringAsFixed(1)})',
                       style: const TextStyle(fontSize: 11, color: Colors.white70),
                     ),
                   ],
@@ -192,6 +213,7 @@ class _ProgressAnalyticsWidgetState extends State<ProgressAnalyticsWidget> {
   }
 
   Widget _buildSubjectBar(String title, double ratio, Color color) {
+    final pct = (ratio * 100).round();
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -199,17 +221,20 @@ class _ProgressAnalyticsWidgetState extends State<ProgressAnalyticsWidget> {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(title, style: const TextStyle(fontSize: 11, color: Colors.white70)),
-            Text('${(ratio * 100).toInt()}%', style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: color)),
+            Text(
+              ratio > 0 ? '$pct%' : '未着手 (0%)',
+              style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold, color: ratio > 0 ? color : Colors.white38),
+            ),
           ],
         ),
-        const SizedBox(height: 4),
+        const SizedBox(height: 5),
         ClipRRect(
-          borderRadius: BorderRadius.circular(4),
+          borderRadius: BorderRadius.circular(6),
           child: LinearProgressIndicator(
-            value: ratio,
-            backgroundColor: Colors.white10,
+            value: ratio.clamp(0.0, 1.0),
+            minHeight: 8,
+            backgroundColor: Colors.white.withValues(alpha: 0.08),
             valueColor: AlwaysStoppedAnimation<Color>(color),
-            minHeight: 6,
           ),
         ),
       ],
@@ -228,60 +253,57 @@ class _WeeklyBarChartPainter extends CustomPainter {
 
     final barWidth = size.width / (weeklyData.length * 2);
     int maxCount = 10;
-    for (final item in weeklyData) {
-      final c = item['count'] as int? ?? 0;
+    for (final d in weeklyData) {
+      final c = (d['count'] as num?)?.toInt() ?? 0;
       if (c > maxCount) maxCount = c;
     }
 
-    // Grid baseline
-    final linePaint = Paint()
-      ..color = Colors.white12
-      ..strokeWidth = 1;
-    canvas.drawLine(Offset(0, size.height - 20), Offset(size.width, size.height - 20), linePaint);
+    final chartHeight = size.height - 24;
 
     for (int i = 0; i < weeklyData.length; i++) {
-      final item = weeklyData[i];
-      final dayLabel = item['day'] as String? ?? '';
-      final count = item['count'] as int? ?? 0;
-      final isToday = (i == weeklyData.length - 1);
+      final d = weeklyData[i];
+      final count = (d['count'] as num?)?.toInt() ?? 0;
+      final day = d['day'] as String? ?? '';
 
-      final centerX = (size.width / weeklyData.length) * (i + 0.5);
-      final chartH = size.height - 30;
-      final barH = math.max(4.0, (count / maxCount) * chartH);
+      final x = (i * 2 + 0.5) * barWidth;
+      final h = maxCount > 0 ? (count / maxCount) * chartHeight : 0.0;
+      final y = chartHeight - h;
 
-      final barRect = Rect.fromCenter(
-        center: Offset(centerX, (size.height - 20) - barH / 2),
-        width: barWidth,
-        height: barH,
+      // Draw background pillar
+      final bgPaint = Paint()..color = Colors.white.withValues(alpha: 0.05);
+      canvas.drawRRect(
+        RRect.fromRectAndRadius(Rect.fromLTWH(x, 0, barWidth, chartHeight), const Radius.circular(4)),
+        bgPaint,
       );
 
-      final barPaint = Paint()
-        ..color = isToday ? const Color(0xFF38BDF8) : const Color(0xFF1E293B);
-      canvas.drawRRect(RRect.fromRectAndRadius(barRect, const Radius.circular(4)), barPaint);
+      // Draw active bar
+      if (count > 0) {
+        final barPaint = Paint()
+          ..shader = const LinearGradient(
+            colors: [Color(0xFF38BDF8), Color(0xFF3B82F6)],
+            begin: Alignment.bottomCenter,
+            end: Alignment.topCenter,
+          ).createShader(Rect.fromLTWH(x, y, barWidth, h));
 
-      if (isToday) {
-        // Glow outline for today
-        final glowPaint = Paint()
-          ..color = const Color(0xFF38BDF8)
-          ..style = PaintingStyle.stroke
-          ..strokeWidth = 1.5;
-        canvas.drawRRect(RRect.fromRectAndRadius(barRect, const Radius.circular(4)), glowPaint);
+        canvas.drawRRect(
+          RRect.fromRectAndRadius(Rect.fromLTWH(x, y, barWidth, h), const Radius.circular(4)),
+          barPaint,
+        );
+
+        // Value text
+        final valPainter = TextPainter(
+          text: TextSpan(text: '$count', style: const TextStyle(fontSize: 8, color: Colors.white, fontWeight: FontWeight.bold)),
+          textDirection: TextDirection.ltr,
+        )..layout();
+        valPainter.paint(canvas, Offset(x + (barWidth - valPainter.width) / 2, y - 12));
       }
 
-      // Day text
-      final textPainter = TextPainter(
-        text: TextSpan(
-          text: dayLabel,
-          style: TextStyle(
-            color: isToday ? const Color(0xFF38BDF8) : Colors.white54,
-            fontSize: 10,
-            fontWeight: isToday ? FontWeight.bold : FontWeight.normal,
-          ),
-        ),
+      // Day label
+      final dayPainter = TextPainter(
+        text: TextSpan(text: day, style: const TextStyle(fontSize: 9, color: Colors.white60)),
         textDirection: TextDirection.ltr,
-      );
-      textPainter.layout();
-      textPainter.paint(canvas, Offset(centerX - textPainter.width / 2, size.height - 16));
+      )..layout();
+      dayPainter.paint(canvas, Offset(x + (barWidth - dayPainter.width) / 2, size.height - 16));
     }
   }
 
@@ -300,42 +322,35 @@ class _GaugePainter extends CustomPainter {
     final center = Offset(size.width / 2, size.height / 2);
     final radius = size.width / 2 - 4;
 
-    // Background track
-    canvas.drawCircle(
-      center,
-      radius,
-      Paint()
-        ..color = Colors.white12
-        ..strokeWidth = 6
-        ..style = PaintingStyle.stroke,
-    );
+    final bgPaint = Paint()
+      ..color = Colors.white.withValues(alpha: 0.1)
+      ..strokeWidth = 6
+      ..style = PaintingStyle.stroke;
+    canvas.drawCircle(center, radius, bgPaint);
 
-    // Active progress arc
-    final sweepAngle = 2 * math.pi * ratio;
+    final fgPaint = Paint()
+      ..color = color
+      ..strokeWidth = 6
+      ..strokeCap = StrokeCap.round
+      ..style = PaintingStyle.stroke;
+
     canvas.drawArc(
       Rect.fromCircle(center: center, radius: radius),
       -math.pi / 2,
-      sweepAngle,
+      2 * math.pi * ratio,
       false,
-      Paint()
-        ..color = color
-        ..strokeWidth = 6
-        ..strokeCap = StrokeCap.round
-        ..style = PaintingStyle.stroke,
+      fgPaint,
     );
 
-    // Percentage text
-    final textPainter = TextPainter(
-      text: TextSpan(
-        text: '${(ratio * 100).toInt()}%',
-        style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.white),
-      ),
+    final text = '${(ratio * 100).round()}%';
+    final tp = TextPainter(
+      text: TextSpan(text: text, style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.white)),
       textDirection: TextDirection.ltr,
-    );
-    textPainter.layout();
-    textPainter.paint(canvas, Offset(center.dx - textPainter.width / 2, center.dy - textPainter.height / 2));
+    )..layout();
+    tp.paint(canvas, Offset(center.dx - tp.width / 2, center.dy - tp.height / 2));
   }
 
   @override
-  bool shouldRepaint(covariant _GaugePainter oldDelegate) => oldDelegate.ratio != ratio;
+  bool shouldRepaint(covariant _GaugePainter oldDelegate) =>
+      oldDelegate.ratio != ratio || oldDelegate.color != color;
 }

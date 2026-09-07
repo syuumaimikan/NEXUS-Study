@@ -197,13 +197,22 @@ class LearningRoadmapWidget extends StatelessWidget {
                             ),
                           ),
                           const SizedBox(width: 6),
-                          Text(
-                            isReached ? '★ 到達済み' : 'いつでも挑戦可能',
-                            style: TextStyle(
-                              fontSize: 10,
-                              color: isReached ? const Color(0xFF34D399) : const Color(0xFF38BDF8),
-                              fontWeight: FontWeight.bold,
-                            ),
+                          Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              if (isReached) ...[
+                                const Icon(Icons.check_circle, size: 11, color: Color(0xFF34D399)),
+                                const SizedBox(width: 3),
+                              ],
+                              Text(
+                                isReached ? '到達済み' : '挑戦可能',
+                                style: TextStyle(
+                                  fontSize: 10,
+                                  color: isReached ? const Color(0xFF34D399) : const Color(0xFF38BDF8),
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
                           ),
                         ],
                       ),

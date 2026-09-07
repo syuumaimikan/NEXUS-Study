@@ -18,7 +18,7 @@ void main() {
     );
     await tester.pumpAndSettle();
 
-    expect(find.text('NEXUS Lab (総合可視化実験室)'), findsOneWidget);
+    expect(find.text('NEXUS Lab (総合可視化実験室・全22種)'), findsOneWidget);
     expect(find.text('数学グラフ'), findsOneWidget);
     expect(find.text('物理・力学/光学'), findsOneWidget);
     expect(find.text('化学・周期表/平衡'), findsOneWidget);
